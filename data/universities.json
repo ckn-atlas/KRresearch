@@ -1,0 +1,5697 @@
+{
+  "updated": "",
+  "count": 370,
+  "universities": [
+    {
+      "id": "I139264467",
+      "name": "Seoul National University",
+      "name_alt": [
+        "Seoul Daehakgyo",
+        "Seoul National University",
+        "서울대학교"
+      ],
+      "ror": "https://ror.org/04h9pn542",
+      "works_count": 240822,
+      "cited_by_count": 20843305,
+      "h_index": 956,
+      "i10_index": 350430,
+      "fwci": 3.535,
+      "top_concepts": []
+    },
+    {
+      "id": "I193775966",
+      "name": "Yonsei University",
+      "name_alt": [
+        "Yonsei University",
+        "연세대학교"
+      ],
+      "ror": "https://ror.org/01wjejq96",
+      "works_count": 177702,
+      "cited_by_count": 13006124,
+      "h_index": 678,
+      "i10_index": 249055,
+      "fwci": 3.634,
+      "top_concepts": []
+    },
+    {
+      "id": "I848706",
+      "name": "Sungkyunkwan University",
+      "name_alt": [
+        "Sungkyunkwan University",
+        "성균관대학교"
+      ],
+      "ror": "https://ror.org/04q78tk20",
+      "works_count": 125059,
+      "cited_by_count": 10779683,
+      "h_index": 701,
+      "i10_index": 195635,
+      "fwci": 4.641,
+      "top_concepts": []
+    },
+    {
+      "id": "I197347611",
+      "name": "Korea University",
+      "name_alt": [
+        "Bosung College",
+        "Bosung Professional College",
+        "Korea University",
+        "고려대학교"
+      ],
+      "ror": "https://ror.org/047dqcg40",
+      "works_count": 115306,
+      "cited_by_count": 9439567,
+      "h_index": 642,
+      "i10_index": 167081,
+      "fwci": 5.277,
+      "top_concepts": []
+    },
+    {
+      "id": "I157485424",
+      "name": "Korea Advanced Institute of Science and Technology",
+      "name_alt": [
+        "Korea Advanced Institute of Science and Technology",
+        "한국과학기술원"
+      ],
+      "ror": "https://ror.org/05apxxy63",
+      "works_count": 114232,
+      "cited_by_count": 8884790,
+      "h_index": 666,
+      "i10_index": 144191,
+      "fwci": 4.878,
+      "top_concepts": []
+    },
+    {
+      "id": "I4575257",
+      "name": "Hanyang University",
+      "name_alt": [
+        "Hanyang University",
+        "한양대학교"
+      ],
+      "ror": "https://ror.org/046865y68",
+      "works_count": 91769,
+      "cited_by_count": 5567725,
+      "h_index": 510,
+      "i10_index": 102548,
+      "fwci": 4.202,
+      "top_concepts": []
+    },
+    {
+      "id": "I35928602",
+      "name": "Kyung Hee University",
+      "name_alt": [
+        "Kyung Hee University",
+        "경희대학교"
+      ],
+      "ror": "https://ror.org/01zqcg218",
+      "works_count": 74639,
+      "cited_by_count": 4630424,
+      "h_index": 452,
+      "i10_index": 94029,
+      "fwci": 4.441,
+      "top_concepts": []
+    },
+    {
+      "id": "I31419693",
+      "name": "Kyungpook National University",
+      "name_alt": [
+        "Kyungpook National University",
+        "경북대학교"
+      ],
+      "ror": "https://ror.org/040c17130",
+      "works_count": 74419,
+      "cited_by_count": 5100541,
+      "h_index": 504,
+      "i10_index": 95535,
+      "fwci": 1.603,
+      "top_concepts": []
+    },
+    {
+      "id": "I4921948",
+      "name": "Pusan National University",
+      "name_alt": [
+        "Busan National University",
+        "Miryang National University",
+        "Pusan National University",
+        "부산대학교"
+      ],
+      "ror": "https://ror.org/01an57a31",
+      "works_count": 68051,
+      "cited_by_count": 4099522,
+      "h_index": 454,
+      "i10_index": 82653,
+      "fwci": 3.065,
+      "top_concepts": []
+    },
+    {
+      "id": "I40542001",
+      "name": "University of Ulsan",
+      "name_alt": [
+        "University of Ulsan",
+        "울산대학교"
+      ],
+      "ror": "https://ror.org/02c2f8975",
+      "works_count": 63525,
+      "cited_by_count": 5466883,
+      "h_index": 486,
+      "i10_index": 108606,
+      "fwci": 4.116,
+      "top_concepts": []
+    },
+    {
+      "id": "I123900574",
+      "name": "Pohang University of Science and Technology",
+      "name_alt": [
+        "Pohang University of Science and Technology",
+        "포항공과대학교"
+      ],
+      "ror": "https://ror.org/04xysgw12",
+      "works_count": 54993,
+      "cited_by_count": 5707991,
+      "h_index": 592,
+      "i10_index": 83463,
+      "fwci": 5.593,
+      "top_concepts": []
+    },
+    {
+      "id": "I196345858",
+      "name": "Chungnam National University",
+      "name_alt": [
+        "Chungnam National University",
+        "충남대학교"
+      ],
+      "ror": "https://ror.org/0227as991",
+      "works_count": 54740,
+      "cited_by_count": 2545847,
+      "h_index": 332,
+      "i10_index": 56928,
+      "fwci": 3.046,
+      "top_concepts": []
+    },
+    {
+      "id": "I87111246",
+      "name": "Catholic University of Korea",
+      "name_alt": [
+        "Catholic University of Korea",
+        "가톨릭대학교"
+      ],
+      "ror": "https://ror.org/01fpnj063",
+      "works_count": 53331,
+      "cited_by_count": 3223599,
+      "h_index": 334,
+      "i10_index": 74428,
+      "fwci": 2.692,
+      "top_concepts": []
+    },
+    {
+      "id": "I111277659",
+      "name": "Chonnam National University",
+      "name_alt": [
+        "Chonnam National University",
+        "전남대학교"
+      ],
+      "ror": "https://ror.org/05kzjxq56",
+      "works_count": 47645,
+      "cited_by_count": 3506745,
+      "h_index": 424,
+      "i10_index": 69790,
+      "fwci": 3.788,
+      "top_concepts": []
+    },
+    {
+      "id": "I80611190",
+      "name": "Jeonbuk National University",
+      "name_alt": [
+        "Chonbuk National University",
+        "Jeonbuk Daehakgyo",
+        "Jeonbuk National University",
+        "전북대학교"
+      ],
+      "ror": "https://ror.org/05q92br09",
+      "works_count": 47171,
+      "cited_by_count": 2956676,
+      "h_index": 369,
+      "i10_index": 60139,
+      "fwci": 3.699,
+      "top_concepts": []
+    },
+    {
+      "id": "I67900169",
+      "name": "Chung-Ang University",
+      "name_alt": [
+        "Chung-Ang University",
+        "중앙대학교"
+      ],
+      "ror": "https://ror.org/01r024a98",
+      "works_count": 46730,
+      "cited_by_count": 2066171,
+      "h_index": 300,
+      "i10_index": 48616,
+      "fwci": 3.49,
+      "top_concepts": []
+    },
+    {
+      "id": "I191879574",
+      "name": "Inha University",
+      "name_alt": [
+        "Inha University",
+        "인하대학교"
+      ],
+      "ror": "https://ror.org/01easw929",
+      "works_count": 45224,
+      "cited_by_count": 2308322,
+      "h_index": 354,
+      "i10_index": 47339,
+      "fwci": 4.378,
+      "top_concepts": []
+    },
+    {
+      "id": "I57664883",
+      "name": "Ajou University",
+      "name_alt": [
+        "Ajou University",
+        "아주대학교"
+      ],
+      "ror": "https://ror.org/03tzb2h73",
+      "works_count": 42907,
+      "cited_by_count": 2120135,
+      "h_index": 326,
+      "i10_index": 44104,
+      "fwci": 3.32,
+      "top_concepts": []
+    },
+    {
+      "id": "I116631150",
+      "name": "Ulsan College",
+      "name_alt": [
+        "Ulsan College",
+        "Ulsan College of Science",
+        "Ulsan Industrial Technology Institute",
+        "울산과학대학교"
+      ],
+      "ror": "https://ror.org/02tec3785",
+      "works_count": 42424,
+      "cited_by_count": 3841185,
+      "h_index": 426,
+      "i10_index": 79970,
+      "fwci": 4.736,
+      "top_concepts": []
+    },
+    {
+      "id": "I138925566",
+      "name": "Ewha Womans University",
+      "name_alt": [
+        "Ewha Womans University",
+        "이화여자대학교"
+      ],
+      "ror": "https://ror.org/053fp5c05",
+      "works_count": 41053,
+      "cited_by_count": 2774106,
+      "h_index": 442,
+      "i10_index": 45765,
+      "fwci": 3.612,
+      "top_concepts": []
+    },
+    {
+      "id": "I55240360",
+      "name": "Yeungnam University",
+      "name_alt": [
+        "Yeungnam University",
+        "영남대학교"
+      ],
+      "ror": "https://ror.org/05yc6p159",
+      "works_count": 40491,
+      "cited_by_count": 1996145,
+      "h_index": 323,
+      "i10_index": 42497,
+      "fwci": 7.072,
+      "top_concepts": []
+    },
+    {
+      "id": "I24062138",
+      "name": "Konkuk University",
+      "name_alt": [
+        "Konkuk University",
+        "건국대학교"
+      ],
+      "ror": "https://ror.org/025h1m602",
+      "works_count": 36637,
+      "cited_by_count": 2605155,
+      "h_index": 368,
+      "i10_index": 53355,
+      "fwci": 3.767,
+      "top_concepts": []
+    },
+    {
+      "id": "I163753206",
+      "name": "Chungbuk National University",
+      "name_alt": [
+        "Chungbuk National University",
+        "충북대학교"
+      ],
+      "ror": "https://ror.org/02wnxgj78",
+      "works_count": 36060,
+      "cited_by_count": 1634338,
+      "h_index": 291,
+      "i10_index": 36370,
+      "fwci": 2.722,
+      "top_concepts": []
+    },
+    {
+      "id": "I189442560",
+      "name": "Gyeongsang National University",
+      "name_alt": [
+        "Gyeongsang National University",
+        "경상대학교"
+      ],
+      "ror": "https://ror.org/00saywf64",
+      "works_count": 34996,
+      "cited_by_count": 2112389,
+      "h_index": 324,
+      "i10_index": 43570,
+      "fwci": 3.411,
+      "top_concepts": []
+    },
+    {
+      "id": "I165507594",
+      "name": "Kangwon National University",
+      "name_alt": [
+        "Kangwon National University",
+        "강원대학교"
+      ],
+      "ror": "https://ror.org/01mh5ph17",
+      "works_count": 34988,
+      "cited_by_count": 1719857,
+      "h_index": 317,
+      "i10_index": 35658,
+      "fwci": 3.184,
+      "top_concepts": []
+    },
+    {
+      "id": "I28777354",
+      "name": "Sejong University",
+      "name_alt": [
+        "Sejong University",
+        "세종대학교"
+      ],
+      "ror": "https://ror.org/00aft1q37",
+      "works_count": 31923,
+      "cited_by_count": 1703440,
+      "h_index": 372,
+      "i10_index": 30099,
+      "fwci": 5.71,
+      "top_concepts": []
+    },
+    {
+      "id": "I205490536",
+      "name": "Dongguk University",
+      "name_alt": [
+        "Dongguk University",
+        "동국대학교"
+      ],
+      "ror": "https://ror.org/057q6n778",
+      "works_count": 28282,
+      "cited_by_count": 1393782,
+      "h_index": 305,
+      "i10_index": 28575,
+      "fwci": 4.903,
+      "top_concepts": []
+    },
+    {
+      "id": "I88761825",
+      "name": "Korea University of Science and Technology",
+      "name_alt": [
+        "Korea University of Science and Technology",
+        "University of Science and Technology",
+        "과학기술연합대학원대학교"
+      ],
+      "ror": "https://ror.org/000qzf213",
+      "works_count": 28191,
+      "cited_by_count": 1452227,
+      "h_index": 322,
+      "i10_index": 28862,
+      "fwci": 4.26,
+      "top_concepts": []
+    },
+    {
+      "id": "I8991828",
+      "name": "Pukyong National University",
+      "name_alt": [
+        "Pukyong National University",
+        "부경대학교"
+      ],
+      "ror": "https://ror.org/0433kqc49",
+      "works_count": 26814,
+      "cited_by_count": 1147409,
+      "h_index": 272,
+      "i10_index": 24674,
+      "fwci": 3.944,
+      "top_concepts": []
+    },
+    {
+      "id": "I12832649",
+      "name": "Gachon University",
+      "name_alt": [
+        "Gachon University",
+        "가천대학교"
+      ],
+      "ror": "https://ror.org/03ryywt80",
+      "works_count": 26361,
+      "cited_by_count": 1027976,
+      "h_index": 251,
+      "i10_index": 23596,
+      "fwci": 5.217,
+      "top_concepts": []
+    },
+    {
+      "id": "I39534123",
+      "name": "Gwangju Institute of Science and Technology",
+      "name_alt": [
+        "Gwangju Institute of Science and Technology",
+        "Kwangju Institute of Science and Technology",
+        "광주과학기술원"
+      ],
+      "ror": "https://ror.org/024kbgz78",
+      "works_count": 24255,
+      "cited_by_count": 1943339,
+      "h_index": 374,
+      "i10_index": 33628,
+      "fwci": 4.754,
+      "top_concepts": []
+    },
+    {
+      "id": "I89015989",
+      "name": "Dankook University",
+      "name_alt": [
+        "Dankook University",
+        "단국대학교"
+      ],
+      "ror": "https://ror.org/058pdbn81",
+      "works_count": 24054,
+      "cited_by_count": 967939,
+      "h_index": 255,
+      "i10_index": 20205,
+      "fwci": 3.082,
+      "top_concepts": []
+    },
+    {
+      "id": "I48566637",
+      "name": "Ulsan National Institute of Science and Technology",
+      "name_alt": [
+        "Ulsan Gwahak Gisul Daehakgyo",
+        "Ulsan National Institute of Science and Technology",
+        "울산과학기술대학교",
+        "울산과학기술원"
+      ],
+      "ror": "https://ror.org/017cjz748",
+      "works_count": 22786,
+      "cited_by_count": 2691894,
+      "h_index": 530,
+      "i10_index": 34820,
+      "fwci": 6.592,
+      "top_concepts": []
+    },
+    {
+      "id": "I146824383",
+      "name": "Hallym University",
+      "name_alt": [
+        "Hallym University",
+        "한림대학교"
+      ],
+      "ror": "https://ror.org/03sbhge02",
+      "works_count": 22494,
+      "cited_by_count": 1302986,
+      "h_index": 296,
+      "i10_index": 27990,
+      "fwci": 3.686,
+      "top_concepts": []
+    },
+    {
+      "id": "I152238500",
+      "name": "Chosun University",
+      "name_alt": [
+        "Chosun University",
+        "조선대학교"
+      ],
+      "ror": "https://ror.org/01zt9a375",
+      "works_count": 21330,
+      "cited_by_count": 793754,
+      "h_index": 203,
+      "i10_index": 18194,
+      "fwci": 3.075,
+      "top_concepts": []
+    },
+    {
+      "id": "I24541011",
+      "name": "Soonchunhyang University",
+      "name_alt": [
+        "Soonchunhyang University",
+        "순천향대학교"
+      ],
+      "ror": "https://ror.org/03qjsrb10",
+      "works_count": 20808,
+      "cited_by_count": 891819,
+      "h_index": 244,
+      "i10_index": 20061,
+      "fwci": 2.861,
+      "top_concepts": []
+    },
+    {
+      "id": "I52010207",
+      "name": "Keimyung University",
+      "name_alt": [
+        "Kei-dae",
+        "Keimyung University",
+        "계명대학교"
+      ],
+      "ror": "https://ror.org/00tjv0s33",
+      "works_count": 20069,
+      "cited_by_count": 759665,
+      "h_index": 223,
+      "i10_index": 15940,
+      "fwci": 2.53,
+      "top_concepts": []
+    },
+    {
+      "id": "I148751991",
+      "name": "Sogang University",
+      "name_alt": [
+        "Sogang University",
+        "서강대학교"
+      ],
+      "ror": "https://ror.org/056tn4839",
+      "works_count": 18675,
+      "cited_by_count": 813072,
+      "h_index": 249,
+      "i10_index": 17273,
+      "fwci": 3.518,
+      "top_concepts": []
+    },
+    {
+      "id": "I83202590",
+      "name": "Jeju National University",
+      "name_alt": [
+        "Jeju National University",
+        "제주대학교"
+      ],
+      "ror": "https://ror.org/05hnb4n85",
+      "works_count": 18174,
+      "cited_by_count": 849874,
+      "h_index": 239,
+      "i10_index": 18693,
+      "fwci": 3.461,
+      "top_concepts": []
+    },
+    {
+      "id": "I51226738",
+      "name": "Dong-A University",
+      "name_alt": [
+        "Dong-A University",
+        "동아대학교"
+      ],
+      "ror": "https://ror.org/03qvtpc38",
+      "works_count": 18042,
+      "cited_by_count": 743214,
+      "h_index": 236,
+      "i10_index": 15279,
+      "fwci": 2.473,
+      "top_concepts": []
+    },
+    {
+      "id": "I118373667",
+      "name": "Seoul National University of Science and Technology",
+      "name_alt": [
+        "Seoul National University of Science and Technology",
+        "SeoulTech",
+        "서울과학기술대학교"
+      ],
+      "ror": "https://ror.org/00chfja07",
+      "works_count": 17158,
+      "cited_by_count": 616651,
+      "h_index": 211,
+      "i10_index": 12926,
+      "fwci": 3.536,
+      "top_concepts": []
+    },
+    {
+      "id": "I77079311",
+      "name": "Wonkwang University",
+      "name_alt": [
+        "Wonkwang University",
+        "원광대학교"
+      ],
+      "ror": "https://ror.org/006776986",
+      "works_count": 16246,
+      "cited_by_count": 791460,
+      "h_index": 226,
+      "i10_index": 17899,
+      "fwci": 2.388,
+      "top_concepts": []
+    },
+    {
+      "id": "I124633538",
+      "name": "University of Seoul",
+      "name_alt": [
+        "University of Seoul",
+        "서울시립대학교"
+      ],
+      "ror": "https://ror.org/05en5nh73",
+      "works_count": 15840,
+      "cited_by_count": 1171348,
+      "h_index": 316,
+      "i10_index": 19909,
+      "fwci": 3.685,
+      "top_concepts": []
+    },
+    {
+      "id": "I146429904",
+      "name": "Incheon National University",
+      "name_alt": [
+        "Incheon National University",
+        "University of Incheon",
+        "인천대학교"
+      ],
+      "ror": "https://ror.org/02xf7p935",
+      "works_count": 15509,
+      "cited_by_count": 480637,
+      "h_index": 179,
+      "i10_index": 10531,
+      "fwci": 2.871,
+      "top_concepts": []
+    },
+    {
+      "id": "I104338594",
+      "name": "Inje University",
+      "name_alt": [
+        "Inje University",
+        "인제대학교"
+      ],
+      "ror": "https://ror.org/04xqwq985",
+      "works_count": 15274,
+      "cited_by_count": 842111,
+      "h_index": 260,
+      "i10_index": 15019,
+      "fwci": 3.896,
+      "top_concepts": []
+    },
+    {
+      "id": "I141371507",
+      "name": "Soongsil University",
+      "name_alt": [
+        "Soongsil University",
+        "숭실대학교"
+      ],
+      "ror": "https://ror.org/017xnm587",
+      "works_count": 15227,
+      "cited_by_count": 470934,
+      "h_index": 212,
+      "i10_index": 10143,
+      "fwci": 3.028,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210148737",
+      "name": "CHA University",
+      "name_alt": [
+        "CHA University",
+        "차의과학대학교"
+      ],
+      "ror": "https://ror.org/04yka3j04",
+      "works_count": 13845,
+      "cited_by_count": 779890,
+      "h_index": 217,
+      "i10_index": 17419,
+      "fwci": 3.256,
+      "top_concepts": []
+    },
+    {
+      "id": "I110273157",
+      "name": "Kookmin University",
+      "name_alt": [
+        "Kookmin University",
+        "국민대학교"
+      ],
+      "ror": "https://ror.org/0049erg63",
+      "works_count": 13476,
+      "cited_by_count": 488320,
+      "h_index": 199,
+      "i10_index": 10765,
+      "fwci": 3.128,
+      "top_concepts": []
+    },
+    {
+      "id": "I161024014",
+      "name": "Kwangwoon University",
+      "name_alt": [
+        "Kwangwoon University",
+        "광운대학교"
+      ],
+      "ror": "https://ror.org/02e9zc863",
+      "works_count": 13425,
+      "cited_by_count": 588653,
+      "h_index": 209,
+      "i10_index": 12593,
+      "fwci": 5.539,
+      "top_concepts": []
+    },
+    {
+      "id": "I206597221",
+      "name": "Kongju National University",
+      "name_alt": [
+        "Kongju National University",
+        "공주대학교"
+      ],
+      "ror": "https://ror.org/0373nm262",
+      "works_count": 12768,
+      "cited_by_count": 357498,
+      "h_index": 167,
+      "i10_index": 8588,
+      "fwci": 2.558,
+      "top_concepts": []
+    },
+    {
+      "id": "I94588446",
+      "name": "Hongik University",
+      "name_alt": [
+        "Hongik University",
+        "홍익대학교"
+      ],
+      "ror": "https://ror.org/00egdv862",
+      "works_count": 12095,
+      "cited_by_count": 309846,
+      "h_index": 171,
+      "i10_index": 6966,
+      "fwci": 3.551,
+      "top_concepts": []
+    },
+    {
+      "id": "I174101054",
+      "name": "Changwon National University",
+      "name_alt": [
+        "Changwon National University",
+        "창원대학교"
+      ],
+      "ror": "https://ror.org/04ts4qa58",
+      "works_count": 11329,
+      "cited_by_count": 397884,
+      "h_index": 171,
+      "i10_index": 9608,
+      "fwci": 2.516,
+      "top_concepts": []
+    },
+    {
+      "id": "I39705031",
+      "name": "Daegu Catholic University",
+      "name_alt": [
+        "Catholic University of Daegu",
+        "Daegu Catholic University",
+        "대구가톨릭대학교"
+      ],
+      "ror": "https://ror.org/04fxknd68",
+      "works_count": 10963,
+      "cited_by_count": 325730,
+      "h_index": 150,
+      "i10_index": 8039,
+      "fwci": 1.959,
+      "top_concepts": []
+    },
+    {
+      "id": "I21028721",
+      "name": "Eulji University",
+      "name_alt": [
+        "Eulji University",
+        "을지대학교"
+      ],
+      "ror": "https://ror.org/005bty106",
+      "works_count": 10825,
+      "cited_by_count": 336349,
+      "h_index": 163,
+      "i10_index": 7921,
+      "fwci": 1.875,
+      "top_concepts": []
+    },
+    {
+      "id": "I93906172",
+      "name": "Anyang University",
+      "name_alt": [
+        "Anyang University",
+        "안양대학교"
+      ],
+      "ror": "https://ror.org/018pdh902",
+      "works_count": 10703,
+      "cited_by_count": 563474,
+      "h_index": 210,
+      "i10_index": 11755,
+      "fwci": 4.876,
+      "top_concepts": []
+    },
+    {
+      "id": "I199143407",
+      "name": "Sunchon National University",
+      "name_alt": [
+        "Suncheon Daehakgyo",
+        "Sunchon National University",
+        "순천대학교"
+      ],
+      "ror": "https://ror.org/043jqrs76",
+      "works_count": 10644,
+      "cited_by_count": 380707,
+      "h_index": 185,
+      "i10_index": 8492,
+      "fwci": 1.918,
+      "top_concepts": []
+    },
+    {
+      "id": "I193352282",
+      "name": "Daegu Gyeongbuk Institute of Science and Technology",
+      "name_alt": [
+        "Daegu Gyeongbuk Institute of Science and Technology",
+        "대구경북과학기술원"
+      ],
+      "ror": "https://ror.org/03frjya69",
+      "works_count": 10109,
+      "cited_by_count": 651661,
+      "h_index": 256,
+      "i10_index": 12490,
+      "fwci": 5.184,
+      "top_concepts": []
+    },
+    {
+      "id": "I83436808",
+      "name": "Hankuk University of Foreign Studies",
+      "name_alt": [
+        "Hankuk University of Foreign Studies",
+        "한국외국어대학교"
+      ],
+      "ror": "https://ror.org/051q2m369",
+      "works_count": 9419,
+      "cited_by_count": 196542,
+      "h_index": 144,
+      "i10_index": 4265,
+      "fwci": 1.651,
+      "top_concepts": []
+    },
+    {
+      "id": "I89440247",
+      "name": "Myongji University",
+      "name_alt": [
+        "Myongji University",
+        "명지대학교"
+      ],
+      "ror": "https://ror.org/00s9dpb54",
+      "works_count": 9412,
+      "cited_by_count": 507544,
+      "h_index": 243,
+      "i10_index": 9007,
+      "fwci": 2.935,
+      "top_concepts": []
+    },
+    {
+      "id": "I28615091",
+      "name": "Kyonggi University",
+      "name_alt": [
+        "Kyonggi University",
+        "경기대학교"
+      ],
+      "ror": "https://ror.org/032xf8h46",
+      "works_count": 8673,
+      "cited_by_count": 260951,
+      "h_index": 163,
+      "i10_index": 5515,
+      "fwci": 3.564,
+      "top_concepts": []
+    },
+    {
+      "id": "I31766871",
+      "name": "Sookmyung Women's University",
+      "name_alt": [
+        "Sookmyung Women's University",
+        "숙명여자대학교"
+      ],
+      "ror": "https://ror.org/00vvvt117",
+      "works_count": 8115,
+      "cited_by_count": 385569,
+      "h_index": 181,
+      "i10_index": 7756,
+      "fwci": 3.196,
+      "top_concepts": []
+    },
+    {
+      "id": "I120158604",
+      "name": "Kunsan National University",
+      "name_alt": [
+        "Kunsan National University",
+        "군산대학교"
+      ],
+      "ror": "https://ror.org/02yj55q56",
+      "works_count": 7680,
+      "cited_by_count": 201251,
+      "h_index": 151,
+      "i10_index": 4401,
+      "fwci": 3.092,
+      "top_concepts": []
+    },
+    {
+      "id": "I133533813",
+      "name": "Gangneung–Wonju National University",
+      "name_alt": [
+        "Gangneung–Wonju National University",
+        "강릉원주대학교"
+      ],
+      "ror": "https://ror.org/0461cvh40",
+      "works_count": 7649,
+      "cited_by_count": 461449,
+      "h_index": 275,
+      "i10_index": 6443,
+      "fwci": 2.829,
+      "top_concepts": []
+    },
+    {
+      "id": "I204974687",
+      "name": "Dong-Eui University",
+      "name_alt": [
+        "Dong-Eui University",
+        "동의대학교"
+      ],
+      "ror": "https://ror.org/059g69b28",
+      "works_count": 7563,
+      "cited_by_count": 222961,
+      "h_index": 147,
+      "i10_index": 4851,
+      "fwci": 2.239,
+      "top_concepts": []
+    },
+    {
+      "id": "I9323808",
+      "name": "Daegu University",
+      "name_alt": [
+        "Daegu University",
+        "대구대학교"
+      ],
+      "ror": "https://ror.org/01zqccq48",
+      "works_count": 7453,
+      "cited_by_count": 218533,
+      "h_index": 159,
+      "i10_index": 4895,
+      "fwci": 2.128,
+      "top_concepts": []
+    },
+    {
+      "id": "I197867492",
+      "name": "Korea Maritime and Ocean University",
+      "name_alt": [
+        "Korea Maritime and Ocean University",
+        "한국해양대학교"
+      ],
+      "ror": "https://ror.org/01v7y5b55",
+      "works_count": 7430,
+      "cited_by_count": 172152,
+      "h_index": 117,
+      "i10_index": 4468,
+      "fwci": 3.151,
+      "top_concepts": []
+    },
+    {
+      "id": "I113409471",
+      "name": "Kumoh National Institute of Technology",
+      "name_alt": [
+        "Kumoh Gonggwa Daehakgyo",
+        "Kumoh National Institute of Technology",
+        "KumohGongdae",
+        "금오공과대학교"
+      ],
+      "ror": "https://ror.org/05dkjfz60",
+      "works_count": 7380,
+      "cited_by_count": 265029,
+      "h_index": 171,
+      "i10_index": 5613,
+      "fwci": 4.294,
+      "top_concepts": []
+    },
+    {
+      "id": "I2801009184",
+      "name": "Luther University",
+      "name_alt": [
+        "Luther Theological University",
+        "Luther University",
+        "루터대학교"
+      ],
+      "ror": "https://ror.org/015dhy417",
+      "works_count": 7320,
+      "cited_by_count": 153421,
+      "h_index": 160,
+      "i10_index": 2504,
+      "fwci": 0.413,
+      "top_concepts": []
+    },
+    {
+      "id": "I145808223",
+      "name": "Hanbat National University",
+      "name_alt": [
+        "Hanbat National University",
+        "한밭대학교"
+      ],
+      "ror": "https://ror.org/00x514t95",
+      "works_count": 7243,
+      "cited_by_count": 219795,
+      "h_index": 156,
+      "i10_index": 4872,
+      "fwci": 2.5,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210108341",
+      "name": "Korea Institute of Materials Science",
+      "name_alt": [
+        "Korea Institute of Materials Science",
+        "한국재료연구원"
+      ],
+      "ror": "https://ror.org/01rwkhb30",
+      "works_count": 6939,
+      "cited_by_count": 469367,
+      "h_index": 196,
+      "i10_index": 10200,
+      "fwci": 4.125,
+      "top_concepts": []
+    },
+    {
+      "id": "I113018520",
+      "name": "Gyeongguk National University",
+      "name_alt": [
+        "Andong National University",
+        "Gyeongbuk Provincial College",
+        "Gyeongguk National University",
+        "경국대학교",
+        "경북도립대학교",
+        "국립경국대학교",
+        "안동대학교"
+      ],
+      "ror": "https://ror.org/04wd10e19",
+      "works_count": 6512,
+      "cited_by_count": 169310,
+      "h_index": 128,
+      "i10_index": 3984,
+      "fwci": 2.732,
+      "top_concepts": []
+    },
+    {
+      "id": "I119575151",
+      "name": "Korea National University of Transportation",
+      "name_alt": [
+        "Korea National University of Transportation",
+        "한국교통대학교"
+      ],
+      "ror": "https://ror.org/03qqbe534",
+      "works_count": 6298,
+      "cited_by_count": 178691,
+      "h_index": 133,
+      "i10_index": 4196,
+      "fwci": 3.507,
+      "top_concepts": []
+    },
+    {
+      "id": "I119522612",
+      "name": "Daejeon University",
+      "name_alt": [
+        "Daejeon University",
+        "대전대학교"
+      ],
+      "ror": "https://ror.org/02eqchk86",
+      "works_count": 6217,
+      "cited_by_count": 378334,
+      "h_index": 185,
+      "i10_index": 7873,
+      "fwci": 1.655,
+      "top_concepts": []
+    },
+    {
+      "id": "I89079967",
+      "name": "Catholic Kwandong University",
+      "name_alt": [
+        "Catholic Kwandong University",
+        "가톨릭관동대학교",
+        "관동대학교"
+      ],
+      "ror": "https://ror.org/05n486907",
+      "works_count": 6167,
+      "cited_by_count": 230718,
+      "h_index": 151,
+      "i10_index": 5305,
+      "fwci": 2.958,
+      "top_concepts": []
+    },
+    {
+      "id": "I144648050",
+      "name": "Yong In University",
+      "name_alt": [
+        "Yong In University",
+        "용인대학교"
+      ],
+      "ror": "https://ror.org/035qaq447",
+      "works_count": 6143,
+      "cited_by_count": 159180,
+      "h_index": 144,
+      "i10_index": 3360,
+      "fwci": 9.687,
+      "top_concepts": []
+    },
+    {
+      "id": "I162706563",
+      "name": "Hoseo University",
+      "name_alt": [
+        "Hoseo University",
+        "호서대학교"
+      ],
+      "ror": "https://ror.org/01qyd4k24",
+      "works_count": 6129,
+      "cited_by_count": 157286,
+      "h_index": 135,
+      "i10_index": 3657,
+      "fwci": 2.029,
+      "top_concepts": []
+    },
+    {
+      "id": "I165028127",
+      "name": "Konyang University",
+      "name_alt": [
+        "Konyang University",
+        "건양대학교"
+      ],
+      "ror": "https://ror.org/02v8yp068",
+      "works_count": 6124,
+      "cited_by_count": 212732,
+      "h_index": 133,
+      "i10_index": 5325,
+      "fwci": 2.877,
+      "top_concepts": []
+    },
+    {
+      "id": "I157264075",
+      "name": "Sangmyung University",
+      "name_alt": [
+        "Sangmyung University",
+        "상명대학교"
+      ],
+      "ror": "https://ror.org/01x4whx42",
+      "works_count": 6110,
+      "cited_by_count": 145651,
+      "h_index": 121,
+      "i10_index": 3244,
+      "fwci": 2.828,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210089892",
+      "name": "National Institute of Ecology",
+      "name_alt": [
+        "National Institute of Ecology",
+        "National saengtaewon",
+        "국립생태원"
+      ],
+      "ror": "https://ror.org/00ap24592",
+      "works_count": 6026,
+      "cited_by_count": 40917,
+      "h_index": 79,
+      "i10_index": 973,
+      "fwci": 0.213,
+      "top_concepts": []
+    },
+    {
+      "id": "I112728665",
+      "name": "Hannam University",
+      "name_alt": [
+        "Hannam University",
+        "한남대학교"
+      ],
+      "ror": "https://ror.org/01cwbae71",
+      "works_count": 5837,
+      "cited_by_count": 189753,
+      "h_index": 149,
+      "i10_index": 3530,
+      "fwci": 1.151,
+      "top_concepts": []
+    },
+    {
+      "id": "I11893660",
+      "name": "Mokpo National University",
+      "name_alt": [
+        "Mokpo National University",
+        "목포대학교"
+      ],
+      "ror": "https://ror.org/00v81k483",
+      "works_count": 5659,
+      "cited_by_count": 183236,
+      "h_index": 157,
+      "i10_index": 3848,
+      "fwci": 2.445,
+      "top_concepts": []
+    },
+    {
+      "id": "I119060216",
+      "name": "Hankyong National University",
+      "name_alt": [
+        "Hankyong National University",
+        "한경대학교"
+      ],
+      "ror": "https://ror.org/0031nsg68",
+      "works_count": 5241,
+      "cited_by_count": 107458,
+      "h_index": 108,
+      "i10_index": 2626,
+      "fwci": 2.503,
+      "top_concepts": []
+    },
+    {
+      "id": "I24456540",
+      "name": "Korea Aerospace University",
+      "name_alt": [
+        "Hankuk Aviation University",
+        "Korea Aerospace University",
+        "한국항공대학교"
+      ],
+      "ror": "https://ror.org/05jmm0651",
+      "works_count": 5168,
+      "cited_by_count": 135601,
+      "h_index": 115,
+      "i10_index": 3232,
+      "fwci": 2.045,
+      "top_concepts": []
+    },
+    {
+      "id": "I63562232",
+      "name": "Bucheon University",
+      "name_alt": [
+        "Bucheon University",
+        "부천대학교"
+      ],
+      "ror": "https://ror.org/03w9szr81",
+      "works_count": 5066,
+      "cited_by_count": 159999,
+      "h_index": 130,
+      "i10_index": 3822,
+      "fwci": 2.543,
+      "top_concepts": []
+    },
+    {
+      "id": "I51926615",
+      "name": "Sun Moon University",
+      "name_alt": [
+        "Sun Moon University",
+        "선문대학교"
+      ],
+      "ror": "https://ror.org/009e5cd49",
+      "works_count": 4893,
+      "cited_by_count": 133178,
+      "h_index": 118,
+      "i10_index": 3358,
+      "fwci": 2.153,
+      "top_concepts": []
+    },
+    {
+      "id": "I35886859",
+      "name": "Korea University of Technology and Education",
+      "name_alt": [
+        "Korea University of Technology and Education",
+        "Koreatech",
+        "한국기술교육대학교"
+      ],
+      "ror": "https://ror.org/053nycv62",
+      "works_count": 4697,
+      "cited_by_count": 97966,
+      "h_index": 104,
+      "i10_index": 2470,
+      "fwci": 4.021,
+      "top_concepts": []
+    },
+    {
+      "id": "I90735388",
+      "name": "Kosin University",
+      "name_alt": [
+        "Kosin University",
+        "고신대학교"
+      ],
+      "ror": "https://ror.org/024b57v39",
+      "works_count": 4638,
+      "cited_by_count": 176325,
+      "h_index": 119,
+      "i10_index": 3514,
+      "fwci": 2.469,
+      "top_concepts": []
+    },
+    {
+      "id": "I71007489",
+      "name": "Kyungnam University",
+      "name_alt": [
+        "Kyungnam University",
+        "경남대학교"
+      ],
+      "ror": "https://ror.org/037pkxm09",
+      "works_count": 4582,
+      "cited_by_count": 123137,
+      "h_index": 130,
+      "i10_index": 2557,
+      "fwci": 2.304,
+      "top_concepts": []
+    },
+    {
+      "id": "I158743462",
+      "name": "Seoul National University of Education",
+      "name_alt": [
+        "Seoul National University of Education",
+        "서울교육대학교"
+      ],
+      "ror": "https://ror.org/01xts9v65",
+      "works_count": 4227,
+      "cited_by_count": 176827,
+      "h_index": 143,
+      "i10_index": 2683,
+      "fwci": 2.828,
+      "top_concepts": []
+    },
+    {
+      "id": "I70591777",
+      "name": "Jeonju University",
+      "name_alt": [
+        "Jeonju University",
+        "전주대학교"
+      ],
+      "ror": "https://ror.org/015v9d997",
+      "works_count": 4198,
+      "cited_by_count": 117553,
+      "h_index": 125,
+      "i10_index": 2605,
+      "fwci": 2.801,
+      "top_concepts": []
+    },
+    {
+      "id": "I22586776",
+      "name": "Cheongju University",
+      "name_alt": [
+        "Cheongju University",
+        "청주대학교"
+      ],
+      "ror": "https://ror.org/02tx4na66",
+      "works_count": 4172,
+      "cited_by_count": 67761,
+      "h_index": 88,
+      "i10_index": 1793,
+      "fwci": 1.882,
+      "top_concepts": []
+    },
+    {
+      "id": "I16764540",
+      "name": "University of Suwon",
+      "name_alt": [
+        "University of Suwon",
+        "수원대학교"
+      ],
+      "ror": "https://ror.org/03ysk5e42",
+      "works_count": 4078,
+      "cited_by_count": 109304,
+      "h_index": 125,
+      "i10_index": 2318,
+      "fwci": 3.562,
+      "top_concepts": []
+    },
+    {
+      "id": "I3132035342",
+      "name": "Ansan University",
+      "name_alt": [
+        "Ansan University",
+        "안산대학교"
+      ],
+      "ror": "https://ror.org/04zzths72",
+      "works_count": 4018,
+      "cited_by_count": 140212,
+      "h_index": 128,
+      "i10_index": 3268,
+      "fwci": 2.4,
+      "top_concepts": []
+    },
+    {
+      "id": "I98600543",
+      "name": "Seoul Women's University",
+      "name_alt": [
+        "Seoul Women's University",
+        "서울여자대학교"
+      ],
+      "ror": "https://ror.org/04b2fhx54",
+      "works_count": 3994,
+      "cited_by_count": 130530,
+      "h_index": 138,
+      "i10_index": 2458,
+      "fwci": 2.034,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210100281",
+      "name": "Jangan University",
+      "name_alt": [
+        "Chang'an University",
+        "Jangan University",
+        "장안대학교"
+      ],
+      "ror": "https://ror.org/00jz5ch17",
+      "works_count": 3929,
+      "cited_by_count": 48589,
+      "h_index": 95,
+      "i10_index": 1021,
+      "fwci": 1.228,
+      "top_concepts": []
+    },
+    {
+      "id": "I165677929",
+      "name": "Sungshin Women's University",
+      "name_alt": [
+        "Sungshin Women's University",
+        "성신여자대학교"
+      ],
+      "ror": "https://ror.org/0500xzf72",
+      "works_count": 3702,
+      "cited_by_count": 86998,
+      "h_index": 105,
+      "i10_index": 1845,
+      "fwci": 2.385,
+      "top_concepts": []
+    },
+    {
+      "id": "I118722661",
+      "name": "Kyungsung University",
+      "name_alt": [
+        "Kyungsung University",
+        "경성대학교"
+      ],
+      "ror": "https://ror.org/05h9pgm95",
+      "works_count": 3628,
+      "cited_by_count": 91869,
+      "h_index": 104,
+      "i10_index": 2108,
+      "fwci": 2.245,
+      "top_concepts": []
+    },
+    {
+      "id": "I27941296",
+      "name": "Sahmyook University",
+      "name_alt": [
+        "Euimyung College",
+        "Sahmyook University",
+        "삼육대학교"
+      ],
+      "ror": "https://ror.org/04vxr4k74",
+      "works_count": 3615,
+      "cited_by_count": 118892,
+      "h_index": 124,
+      "i10_index": 2886,
+      "fwci": 2.249,
+      "top_concepts": []
+    },
+    {
+      "id": "I9507",
+      "name": "Sangji University",
+      "name_alt": [
+        "Sangji University",
+        "상지대학교"
+      ],
+      "ror": "https://ror.org/01gqe3t73",
+      "works_count": 3503,
+      "cited_by_count": 73074,
+      "h_index": 96,
+      "i10_index": 1858,
+      "fwci": 1.825,
+      "top_concepts": []
+    },
+    {
+      "id": "I147238563",
+      "name": "Hanseo University",
+      "name_alt": [
+        "Hanseo University"
+      ],
+      "ror": "https://ror.org/02jv06474",
+      "works_count": 3404,
+      "cited_by_count": 76189,
+      "h_index": 97,
+      "i10_index": 1884,
+      "fwci": 2.265,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210107427",
+      "name": "Jesus University",
+      "name_alt": [
+        "Jesus University"
+      ],
+      "ror": "https://ror.org/01nm0nj94",
+      "works_count": 3349,
+      "cited_by_count": 39224,
+      "h_index": 84,
+      "i10_index": 633,
+      "fwci": 0.683,
+      "top_concepts": []
+    },
+    {
+      "id": "I7446070",
+      "name": "Woosuk University",
+      "name_alt": [
+        "Woosuk University",
+        "우석대학교"
+      ],
+      "ror": "https://ror.org/00emz0366",
+      "works_count": 3249,
+      "cited_by_count": 94125,
+      "h_index": 108,
+      "i10_index": 2085,
+      "fwci": 2.763,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210107562",
+      "name": "Semyung University",
+      "name_alt": [
+        "Semyung University"
+      ],
+      "ror": "https://ror.org/01d100w34",
+      "works_count": 3096,
+      "cited_by_count": 50126,
+      "h_index": 80,
+      "i10_index": 1326,
+      "fwci": 1.953,
+      "top_concepts": []
+    },
+    {
+      "id": "I1322422313",
+      "name": "Tech University of Korea",
+      "name_alt": [
+        "Korea Polytechnic University",
+        "TU Korea",
+        "Tech University of Korea",
+        "한국공학대학교",
+        "한국산업기술대학교"
+      ],
+      "ror": "https://ror.org/0060vt104",
+      "works_count": 2885,
+      "cited_by_count": 77591,
+      "h_index": 102,
+      "i10_index": 1676,
+      "fwci": 1.716,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210123920",
+      "name": "Silla University",
+      "name_alt": [
+        "Silla University",
+        "신라대학교"
+      ],
+      "ror": "https://ror.org/02w3gk008",
+      "works_count": 2867,
+      "cited_by_count": 75714,
+      "h_index": 97,
+      "i10_index": 1742,
+      "fwci": 1.296,
+      "top_concepts": []
+    },
+    {
+      "id": "I85389745",
+      "name": "Woosong University",
+      "name_alt": [
+        "Woosong University",
+        "우송대학교"
+      ],
+      "ror": "https://ror.org/02srty072",
+      "works_count": 2866,
+      "cited_by_count": 44528,
+      "h_index": 85,
+      "i10_index": 1021,
+      "fwci": 2.968,
+      "top_concepts": []
+    },
+    {
+      "id": "I138826464",
+      "name": "Daegu Haany University",
+      "name_alt": [
+        "Daegu Haany University",
+        "대구한의대학교"
+      ],
+      "ror": "https://ror.org/045wr3278",
+      "works_count": 2842,
+      "cited_by_count": 111838,
+      "h_index": 109,
+      "i10_index": 2762,
+      "fwci": 1.744,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210158432",
+      "name": "National Institute for Mathematical Sciences",
+      "name_alt": [
+        "National Institute for Mathematical Sciences"
+      ],
+      "ror": "https://ror.org/04n7py080",
+      "works_count": 2834,
+      "cited_by_count": 389480,
+      "h_index": 219,
+      "i10_index": 1895,
+      "fwci": 6.256,
+      "top_concepts": []
+    },
+    {
+      "id": "I102786147",
+      "name": "Dongseo University",
+      "name_alt": [
+        "Dongseo University",
+        "동서대학교"
+      ],
+      "ror": "https://ror.org/00wygsf57",
+      "works_count": 2789,
+      "cited_by_count": 62942,
+      "h_index": 101,
+      "i10_index": 1355,
+      "fwci": 1.94,
+      "top_concepts": []
+    },
+    {
+      "id": "I65832422",
+      "name": "Duksung Women's University",
+      "name_alt": [
+        "Duksung Women's University",
+        "Geun-Hwa School",
+        "덕성여자대학교"
+      ],
+      "ror": "https://ror.org/01h6frr69",
+      "works_count": 2529,
+      "cited_by_count": 84197,
+      "h_index": 110,
+      "i10_index": 1906,
+      "fwci": 3.686,
+      "top_concepts": []
+    },
+    {
+      "id": "I159299179",
+      "name": "Dongshin University",
+      "name_alt": [
+        "Dongshin University",
+        "동신대학교"
+      ],
+      "ror": "https://ror.org/01thhk923",
+      "works_count": 2472,
+      "cited_by_count": 61262,
+      "h_index": 88,
+      "i10_index": 1267,
+      "fwci": 1.596,
+      "top_concepts": []
+    },
+    {
+      "id": "I129672417",
+      "name": "Namseoul University",
+      "name_alt": [
+        "Namseoul University",
+        "Southern Seoul Industrial University",
+        "남서울대학교"
+      ],
+      "ror": "https://ror.org/0509ndt57",
+      "works_count": 2423,
+      "cited_by_count": 43855,
+      "h_index": 87,
+      "i10_index": 775,
+      "fwci": 1.696,
+      "top_concepts": []
+    },
+    {
+      "id": "I151811957",
+      "name": "Gyeongnam National University of Science and Technology",
+      "name_alt": [
+        "Gyeongnam National University of Science and Technology",
+        "경남과학기술대학교"
+      ],
+      "ror": "https://ror.org/059r50h13",
+      "works_count": 2327,
+      "cited_by_count": 86788,
+      "h_index": 113,
+      "i10_index": 1949,
+      "fwci": 2.373,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210090949",
+      "name": "Korea Environment Institute",
+      "name_alt": [
+        "Korea Environment Institute",
+        "한국환경연구원",
+        "한국환경정책평가연구원"
+      ],
+      "ror": "https://ror.org/00bxeqa64",
+      "works_count": 2220,
+      "cited_by_count": 57863,
+      "h_index": 101,
+      "i10_index": 1170,
+      "fwci": 1.685,
+      "top_concepts": []
+    },
+    {
+      "id": "I52510681",
+      "name": "Daejin University",
+      "name_alt": [
+        "Daejin University",
+        "대진대학교"
+      ],
+      "ror": "https://ror.org/04be65q32",
+      "works_count": 2186,
+      "cited_by_count": 36118,
+      "h_index": 73,
+      "i10_index": 873,
+      "fwci": 1.596,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210104306",
+      "name": "Tongmyong University",
+      "name_alt": [
+        "Tongmyong University",
+        "동명 대학교"
+      ],
+      "ror": "https://ror.org/01asa8g02",
+      "works_count": 2179,
+      "cited_by_count": 24570,
+      "h_index": 62,
+      "i10_index": 608,
+      "fwci": 1.664,
+      "top_concepts": []
+    },
+    {
+      "id": "I110217816",
+      "name": "Dongduk Women's University",
+      "name_alt": [
+        "Dongduk Women's University",
+        "동덕여자대학교"
+      ],
+      "ror": "https://ror.org/039p7ck60",
+      "works_count": 2175,
+      "cited_by_count": 54008,
+      "h_index": 89,
+      "i10_index": 1073,
+      "fwci": 2.595,
+      "top_concepts": []
+    },
+    {
+      "id": "I110118728",
+      "name": "Pai Chai University",
+      "name_alt": [
+        "Pai Chai University",
+        "배재대학교"
+      ],
+      "ror": "https://ror.org/05drcjw53",
+      "works_count": 2165,
+      "cited_by_count": 92092,
+      "h_index": 119,
+      "i10_index": 1533,
+      "fwci": 3.345,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210113474",
+      "name": "Kyungil University",
+      "name_alt": [
+        "Kyungil University"
+      ],
+      "ror": "https://ror.org/024kwvm84",
+      "works_count": 2136,
+      "cited_by_count": 36833,
+      "h_index": 82,
+      "i10_index": 837,
+      "fwci": 2.607,
+      "top_concepts": []
+    },
+    {
+      "id": "I24214720",
+      "name": "Hansung University",
+      "name_alt": [
+        "Hansung University",
+        "Hansung Woman's University",
+        "한성대학교"
+      ],
+      "ror": "https://ror.org/048m9x696",
+      "works_count": 2127,
+      "cited_by_count": 33890,
+      "h_index": 70,
+      "i10_index": 754,
+      "fwci": 1.873,
+      "top_concepts": []
+    },
+    {
+      "id": "I141074810",
+      "name": "Korea National University of Education",
+      "name_alt": [
+        "Hanguk Kyowon Daehakgyo",
+        "Korea National University of Education",
+        "한국교원대학교"
+      ],
+      "ror": "https://ror.org/03c9fpk55",
+      "works_count": 2080,
+      "cited_by_count": 43680,
+      "h_index": 90,
+      "i10_index": 919,
+      "fwci": 1.873,
+      "top_concepts": []
+    },
+    {
+      "id": "I3133486578",
+      "name": "Mokwon University",
+      "name_alt": [
+        "Mokwon University",
+        "목원대학교"
+      ],
+      "ror": "https://ror.org/01whq8m38",
+      "works_count": 2050,
+      "cited_by_count": 28196,
+      "h_index": 65,
+      "i10_index": 694,
+      "fwci": 2.338,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210123477",
+      "name": "Kyungdong University",
+      "name_alt": [
+        "Kyungdong University"
+      ],
+      "ror": "https://ror.org/02qedp211",
+      "works_count": 2015,
+      "cited_by_count": 43129,
+      "h_index": 86,
+      "i10_index": 945,
+      "fwci": 2.231,
+      "top_concepts": []
+    },
+    {
+      "id": "I172553438",
+      "name": "Jeonju National University of Education",
+      "name_alt": [
+        "Jeonju National University of Education",
+        "전주교육대학교"
+      ],
+      "ror": "https://ror.org/054e4t190",
+      "works_count": 1955,
+      "cited_by_count": 35241,
+      "h_index": 73,
+      "i10_index": 680,
+      "fwci": 2.984,
+      "top_concepts": []
+    },
+    {
+      "id": "I113825674",
+      "name": "Handong Global University",
+      "name_alt": [
+        "Handong Global University",
+        "한동대학교"
+      ],
+      "ror": "https://ror.org/00txhkt32",
+      "works_count": 1914,
+      "cited_by_count": 73703,
+      "h_index": 113,
+      "i10_index": 1394,
+      "fwci": 2.157,
+      "top_concepts": []
+    },
+    {
+      "id": "I204954614",
+      "name": "Kangnam University",
+      "name_alt": [
+        "Kangnam University",
+        "강남대학교"
+      ],
+      "ror": "https://ror.org/00ea13906",
+      "works_count": 1895,
+      "cited_by_count": 90929,
+      "h_index": 132,
+      "i10_index": 1046,
+      "fwci": 0.549,
+      "top_concepts": []
+    },
+    {
+      "id": "I79056234",
+      "name": "Gwangju University",
+      "name_alt": [
+        "Gwangju Gyeongsang Jeonmun Daehak",
+        "Gwangju University",
+        "광주대학교"
+      ],
+      "ror": "https://ror.org/01gcnxt20",
+      "works_count": 1893,
+      "cited_by_count": 116420,
+      "h_index": 133,
+      "i10_index": 2177,
+      "fwci": 1.496,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210101659",
+      "name": "Seonam University",
+      "name_alt": [
+        "Seonam University"
+      ],
+      "ror": "https://ror.org/01adsjd47",
+      "works_count": 1768,
+      "cited_by_count": 75033,
+      "h_index": 100,
+      "i10_index": 1654,
+      "fwci": 1.456,
+      "top_concepts": []
+    },
+    {
+      "id": "I195373058",
+      "name": "Honam University",
+      "name_alt": [
+        "Honam University",
+        "호남대학교"
+      ],
+      "ror": "https://ror.org/04vj5r404",
+      "works_count": 1721,
+      "cited_by_count": 23180,
+      "h_index": 61,
+      "i10_index": 573,
+      "fwci": 1.544,
+      "top_concepts": []
+    },
+    {
+      "id": "I3131463087",
+      "name": "Joongbu University",
+      "name_alt": [
+        "Joongbu University",
+        "중부대학교"
+      ],
+      "ror": "https://ror.org/020db1e56",
+      "works_count": 1646,
+      "cited_by_count": 23801,
+      "h_index": 64,
+      "i10_index": 584,
+      "fwci": 1.828,
+      "top_concepts": []
+    },
+    {
+      "id": "I236437131",
+      "name": "Hallym Polytechnic University",
+      "name_alt": [
+        "Hallim Seongsimdaehakkyo",
+        "Hallim Sŏngsimtaehakkyo",
+        "Hallym Polytechnic University",
+        "翰林聖心大學校",
+        "한림성심대학교"
+      ],
+      "ror": "https://ror.org/013zxek87",
+      "works_count": 1565,
+      "cited_by_count": 83037,
+      "h_index": 93,
+      "i10_index": 1338,
+      "fwci": 3.616,
+      "top_concepts": []
+    },
+    {
+      "id": "I104906788",
+      "name": "Catholic University of Pusan",
+      "name_alt": [
+        "Catholic University of Pusan",
+        "부산가톨릭대학교"
+      ],
+      "ror": "https://ror.org/03tawch75",
+      "works_count": 1535,
+      "cited_by_count": 21381,
+      "h_index": 55,
+      "i10_index": 599,
+      "fwci": 1.422,
+      "top_concepts": []
+    },
+    {
+      "id": "I124125349",
+      "name": "Korea National Open University",
+      "name_alt": [
+        "Korea National Open University",
+        "한국방송통신대학교"
+      ],
+      "ror": "https://ror.org/016ebag96",
+      "works_count": 1416,
+      "cited_by_count": 25927,
+      "h_index": 72,
+      "i10_index": 578,
+      "fwci": 1.473,
+      "top_concepts": []
+    },
+    {
+      "id": "I391668",
+      "name": "Cheju Halla University",
+      "name_alt": [
+        "Cheju Halla University",
+        "제주한라대학교"
+      ],
+      "ror": "https://ror.org/02keg3263",
+      "works_count": 1408,
+      "cited_by_count": 39226,
+      "h_index": 82,
+      "i10_index": 918,
+      "fwci": 0.798,
+      "top_concepts": []
+    },
+    {
+      "id": "I35919505",
+      "name": "Baekseok University",
+      "name_alt": [
+        "Baekseok University",
+        "백석대학교"
+      ],
+      "ror": "https://ror.org/045qyjz25",
+      "works_count": 1387,
+      "cited_by_count": 14403,
+      "h_index": 51,
+      "i10_index": 367,
+      "fwci": 1.917,
+      "top_concepts": []
+    },
+    {
+      "id": "I81417347",
+      "name": "Korea National Sport University",
+      "name_alt": [
+        "Korea National Sport University",
+        "한국체육대학교"
+      ],
+      "ror": "https://ror.org/02fywdp72",
+      "works_count": 1372,
+      "cited_by_count": 48575,
+      "h_index": 98,
+      "i10_index": 948,
+      "fwci": 1.911,
+      "top_concepts": []
+    },
+    {
+      "id": "I3131980609",
+      "name": "Korean Academy of Science and Technology",
+      "name_alt": [
+        "Korean Academy of Science and Technology",
+        "한국과학기술한림원"
+      ],
+      "ror": "https://ror.org/01j49yd81",
+      "works_count": 1362,
+      "cited_by_count": 18282,
+      "h_index": 56,
+      "i10_index": 478,
+      "fwci": 1.029,
+      "top_concepts": []
+    },
+    {
+      "id": "I3133433985",
+      "name": "Seowon University",
+      "name_alt": [
+        "Seowon University",
+        "서원대학교"
+      ],
+      "ror": "https://ror.org/00ncqx842",
+      "works_count": 1300,
+      "cited_by_count": 33359,
+      "h_index": 85,
+      "i10_index": 517,
+      "fwci": 1.267,
+      "top_concepts": []
+    },
+    {
+      "id": "I55188197",
+      "name": "Seokyeong University",
+      "name_alt": [
+        "Seokyeong University",
+        "서경대학교"
+      ],
+      "ror": "https://ror.org/04x0k0m51",
+      "works_count": 1299,
+      "cited_by_count": 17758,
+      "h_index": 49,
+      "i10_index": 392,
+      "fwci": 3.108,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210149646",
+      "name": "Jungwon University",
+      "name_alt": [
+        "Jungwon University"
+      ],
+      "ror": "https://ror.org/050mgpz97",
+      "works_count": 1280,
+      "cited_by_count": 24187,
+      "h_index": 68,
+      "i10_index": 521,
+      "fwci": 2.604,
+      "top_concepts": []
+    },
+    {
+      "id": "I185573737",
+      "name": "Mokpo National Maritime University",
+      "name_alt": [
+        "Mokpo National Maritime University",
+        "목포해양대학교"
+      ],
+      "ror": "https://ror.org/023jsyh61",
+      "works_count": 1270,
+      "cited_by_count": 20819,
+      "h_index": 58,
+      "i10_index": 613,
+      "fwci": 2.769,
+      "top_concepts": []
+    },
+    {
+      "id": "I24714338",
+      "name": "Youngsan University",
+      "name_alt": [
+        "Youngsan University",
+        "영산대학교"
+      ],
+      "ror": "https://ror.org/01s5kvh23",
+      "works_count": 1254,
+      "cited_by_count": 24494,
+      "h_index": 73,
+      "i10_index": 568,
+      "fwci": 2.267,
+      "top_concepts": []
+    },
+    {
+      "id": "I3131689172",
+      "name": "Korean Council for University Education",
+      "name_alt": [
+        "Korean Council for University Education",
+        "한국대학교육협의회"
+      ],
+      "ror": "https://ror.org/04jx76k82",
+      "works_count": 1254,
+      "cited_by_count": 13131,
+      "h_index": 41,
+      "i10_index": 212,
+      "fwci": 0.449,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210132857",
+      "name": "Ghent University Global Campus",
+      "name_alt": [
+        "Ghent University Global Campus",
+        "겐트대학교"
+      ],
+      "ror": "https://ror.org/041bygf77",
+      "works_count": 1236,
+      "cited_by_count": 47588,
+      "h_index": 93,
+      "i10_index": 998,
+      "fwci": 3.587,
+      "top_concepts": []
+    },
+    {
+      "id": "I44073558",
+      "name": "Gongju National University of Education",
+      "name_alt": [
+        "Gongju National University of Education",
+        "공주교육대학교"
+      ],
+      "ror": "https://ror.org/03sf7t726",
+      "works_count": 1186,
+      "cited_by_count": 13332,
+      "h_index": 47,
+      "i10_index": 372,
+      "fwci": 1.73,
+      "top_concepts": []
+    },
+    {
+      "id": "I184908088",
+      "name": "Korea Military Academy",
+      "name_alt": [
+        "Korea Military Academy",
+        "대한민국 육군사관학교"
+      ],
+      "ror": "https://ror.org/024ctqw02",
+      "works_count": 1179,
+      "cited_by_count": 16963,
+      "h_index": 51,
+      "i10_index": 457,
+      "fwci": 2.237,
+      "top_concepts": []
+    },
+    {
+      "id": "I28019184",
+      "name": "Chinju National University of Education",
+      "name_alt": [
+        "Chinju National University of Education",
+        "진주교육대학교"
+      ],
+      "ror": "https://ror.org/042jsgw44",
+      "works_count": 1136,
+      "cited_by_count": 51887,
+      "h_index": 89,
+      "i10_index": 793,
+      "fwci": 2.506,
+      "top_concepts": []
+    },
+    {
+      "id": "I3130430780",
+      "name": "Seoul School of Integrated Sciences and Technologies",
+      "name_alt": [
+        "Seoul School of Integrated Sciences and Technologies",
+        "서울과학종합대학원대학교"
+      ],
+      "ror": "https://ror.org/02xj62754",
+      "works_count": 1083,
+      "cited_by_count": 9281,
+      "h_index": 44,
+      "i10_index": 259,
+      "fwci": 2.257,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210129133",
+      "name": "Taegu Science University",
+      "name_alt": [
+        "Daegu Science University",
+        "Taegu Science University",
+        "대구 과학 대학교"
+      ],
+      "ror": "https://ror.org/036rtm992",
+      "works_count": 1078,
+      "cited_by_count": 40911,
+      "h_index": 95,
+      "i10_index": 809,
+      "fwci": 0.944,
+      "top_concepts": []
+    },
+    {
+      "id": "I88386943",
+      "name": "Baewha Women's University",
+      "name_alt": [
+        "Baewha Women's University",
+        "배화여자대학교"
+      ],
+      "ror": "https://ror.org/02sd77t30",
+      "works_count": 1059,
+      "cited_by_count": 52421,
+      "h_index": 91,
+      "i10_index": 813,
+      "fwci": 2.802,
+      "top_concepts": []
+    },
+    {
+      "id": "I163584902",
+      "name": "Daegu Health College",
+      "name_alt": [
+        "Daegu Bogeon Daehak",
+        "Daegu Health College",
+        "Daegu Health Professional Institute",
+        "Daegu Technical School of Health",
+        "Taegu Pogŏn Taehak",
+        "대구보건대학교"
+      ],
+      "ror": "https://ror.org/00pffbm70",
+      "works_count": 998,
+      "cited_by_count": 11631,
+      "h_index": 44,
+      "i10_index": 313,
+      "fwci": 1.995,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210128927",
+      "name": "Nambu University",
+      "name_alt": [
+        "Nambu University"
+      ],
+      "ror": "https://ror.org/0382k6j58",
+      "works_count": 991,
+      "cited_by_count": 12099,
+      "h_index": 40,
+      "i10_index": 391,
+      "fwci": 1.874,
+      "top_concepts": []
+    },
+    {
+      "id": "I23077957",
+      "name": "Chungwoon University",
+      "name_alt": [
+        "Chungwoon University",
+        "청운대학교"
+      ],
+      "ror": "https://ror.org/03016c374",
+      "works_count": 978,
+      "cited_by_count": 10526,
+      "h_index": 40,
+      "i10_index": 286,
+      "fwci": 1.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I202122006",
+      "name": "Sehan University",
+      "name_alt": [
+        "Daebul Industrial College",
+        "Sehan University",
+        "세한대학교"
+      ],
+      "ror": "https://ror.org/04xampv42",
+      "works_count": 976,
+      "cited_by_count": 11287,
+      "h_index": 47,
+      "i10_index": 314,
+      "fwci": 1.616,
+      "top_concepts": []
+    },
+    {
+      "id": "I36738375",
+      "name": "Hanshin University",
+      "name_alt": [
+        "Hanshin University",
+        "한신대학교"
+      ],
+      "ror": "https://ror.org/039fgyk85",
+      "works_count": 946,
+      "cited_by_count": 7874,
+      "h_index": 38,
+      "i10_index": 180,
+      "fwci": 0.912,
+      "top_concepts": []
+    },
+    {
+      "id": "I9272278",
+      "name": "Chung Cheong University",
+      "name_alt": [
+        "Chung Cheong Business and Industry College",
+        "Chung Cheong University",
+        "忠淸大學",
+        "충청대학교"
+      ],
+      "ror": "https://ror.org/04s3waj07",
+      "works_count": 943,
+      "cited_by_count": 25492,
+      "h_index": 79,
+      "i10_index": 527,
+      "fwci": 1.676,
+      "top_concepts": []
+    },
+    {
+      "id": "I249221365",
+      "name": "Gwangju Health University",
+      "name_alt": [
+        "Gwangju Health University",
+        "광주보건대학교"
+      ],
+      "ror": "https://ror.org/03x72q350",
+      "works_count": 942,
+      "cited_by_count": 17418,
+      "h_index": 53,
+      "i10_index": 489,
+      "fwci": 1.684,
+      "top_concepts": []
+    },
+    {
+      "id": "I160888826",
+      "name": "Kyung Hee Cyber University",
+      "name_alt": [
+        "Kyung Hee Cyber University",
+        "경희사이버대학교/慶熙사이버大學校"
+      ],
+      "ror": "https://ror.org/01bxb0563",
+      "works_count": 940,
+      "cited_by_count": 23250,
+      "h_index": 66,
+      "i10_index": 476,
+      "fwci": 4.262,
+      "top_concepts": []
+    },
+    {
+      "id": "I161217753",
+      "name": "Busan National University of Education",
+      "name_alt": [
+        "Busan National University of Education",
+        "부산교육대학교"
+      ],
+      "ror": "https://ror.org/01rf04680",
+      "works_count": 939,
+      "cited_by_count": 22686,
+      "h_index": 68,
+      "i10_index": 503,
+      "fwci": 1.472,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210094357",
+      "name": "Shinhan University",
+      "name_alt": [
+        "Shinhan University",
+        "신한 대학교"
+      ],
+      "ror": "https://ror.org/00sc0e019",
+      "works_count": 921,
+      "cited_by_count": 6750,
+      "h_index": 34,
+      "i10_index": 188,
+      "fwci": 1.245,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210151992",
+      "name": "Korea University of International Studies",
+      "name_alt": [
+        "Graduate School of International Studies on Korean Peninsula",
+        "Korea University of International Studies",
+        "한반도국제대학원대학교"
+      ],
+      "ror": "https://ror.org/05cx42j02",
+      "works_count": 921,
+      "cited_by_count": 16047,
+      "h_index": 59,
+      "i10_index": 321,
+      "fwci": 8.091,
+      "top_concepts": []
+    },
+    {
+      "id": "I129695118",
+      "name": "Yuhan University",
+      "name_alt": [
+        "Yuhan College",
+        "Yuhan Daehakgyo",
+        "Yuhan Taehakkyo",
+        "Yuhan Technical College",
+        "Yuhan Technical Junior College",
+        "Yuhan University",
+        "유한대학교"
+      ],
+      "ror": "https://ror.org/01qj9e285",
+      "works_count": 883,
+      "cited_by_count": 25983,
+      "h_index": 70,
+      "i10_index": 557,
+      "fwci": 1.635,
+      "top_concepts": []
+    },
+    {
+      "id": "I201873833",
+      "name": "Dongyang University",
+      "name_alt": [
+        "Dongyang University",
+        "동양대학교"
+      ],
+      "ror": "https://ror.org/05v1ekw79",
+      "works_count": 862,
+      "cited_by_count": 15179,
+      "h_index": 63,
+      "i10_index": 320,
+      "fwci": 2.858,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210116376",
+      "name": "SUNY Korea",
+      "name_alt": [
+        "SUNY Korea",
+        "State University of New York Korea",
+        "한국뉴욕주립대학교"
+      ],
+      "ror": "https://ror.org/02d07gm56",
+      "works_count": 844,
+      "cited_by_count": 13435,
+      "h_index": 58,
+      "i10_index": 283,
+      "fwci": 2.523,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210164379",
+      "name": "Seoul Media Institute of Technology",
+      "name_alt": [
+        "Seoul Media Graduate University",
+        "Seoul Media Institute of Technology",
+        "서울미디어대학원대학교"
+      ],
+      "ror": "https://ror.org/04ywg4h07",
+      "works_count": 824,
+      "cited_by_count": 24324,
+      "h_index": 67,
+      "i10_index": 594,
+      "fwci": 2.596,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210113514",
+      "name": "Far East University",
+      "name_alt": [
+        "Far East University"
+      ],
+      "ror": "https://ror.org/01fwksc03",
+      "works_count": 788,
+      "cited_by_count": 8888,
+      "h_index": 42,
+      "i10_index": 241,
+      "fwci": 2.65,
+      "top_concepts": []
+    },
+    {
+      "id": "I2799327440",
+      "name": "Yong-in Songdam College",
+      "name_alt": [
+        "Yong-in Songdam College",
+        "용인송담대학교"
+      ],
+      "ror": "https://ror.org/05baq4a16",
+      "works_count": 765,
+      "cited_by_count": 7435,
+      "h_index": 41,
+      "i10_index": 220,
+      "fwci": 1.17,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210117332",
+      "name": "Sungkyul University",
+      "name_alt": [
+        "Sungkyul University"
+      ],
+      "ror": "https://ror.org/02dzzka09",
+      "works_count": 758,
+      "cited_by_count": 12670,
+      "h_index": 52,
+      "i10_index": 272,
+      "fwci": 2.49,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210108896",
+      "name": "WonKwang Health Science University",
+      "name_alt": [
+        "WonKwang Health Science University"
+      ],
+      "ror": "https://ror.org/01m84dy33",
+      "works_count": 756,
+      "cited_by_count": 9981,
+      "h_index": 47,
+      "i10_index": 258,
+      "fwci": 1.122,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210117446",
+      "name": "Inha Technical College",
+      "name_alt": [
+        "Inha Technical College"
+      ],
+      "ror": "https://ror.org/02j8tr589",
+      "works_count": 750,
+      "cited_by_count": 7993,
+      "h_index": 40,
+      "i10_index": 187,
+      "fwci": 2.095,
+      "top_concepts": []
+    },
+    {
+      "id": "I187204187",
+      "name": "Gyeongju University",
+      "name_alt": [
+        "Gyeongju University",
+        "Korea Tourism University",
+        "경주대학교"
+      ],
+      "ror": "https://ror.org/00p8em311",
+      "works_count": 747,
+      "cited_by_count": 20545,
+      "h_index": 68,
+      "i10_index": 380,
+      "fwci": 1.736,
+      "top_concepts": []
+    },
+    {
+      "id": "I113145275",
+      "name": "Gwangju National University of Education",
+      "name_alt": [
+        "Chonnam Public Teachers School",
+        "Gwangju National University of Education",
+        "Kwangju National University of Education",
+        "광주교육대학교"
+      ],
+      "ror": "https://ror.org/059hy2f55",
+      "works_count": 739,
+      "cited_by_count": 14044,
+      "h_index": 53,
+      "i10_index": 289,
+      "fwci": 2.243,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210120608",
+      "name": "Seoil University",
+      "name_alt": [
+        "Seoil University",
+        "瑞逸大學校,"
+      ],
+      "ror": "https://ror.org/01wf22864",
+      "works_count": 723,
+      "cited_by_count": 6422,
+      "h_index": 41,
+      "i10_index": 170,
+      "fwci": 2.023,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210152750",
+      "name": "Kwangshin University",
+      "name_alt": [
+        "Kwangshin University"
+      ],
+      "ror": "https://ror.org/048t58j41",
+      "works_count": 684,
+      "cited_by_count": 7096,
+      "h_index": 38,
+      "i10_index": 177,
+      "fwci": 1.024,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210166456",
+      "name": "Kyungbok University",
+      "name_alt": [
+        "Dongsung College",
+        "Kyungbok University",
+        "Kyungsung College",
+        "경복대학교"
+      ],
+      "ror": "https://ror.org/05r0sb604",
+      "works_count": 657,
+      "cited_by_count": 10386,
+      "h_index": 42,
+      "i10_index": 222,
+      "fwci": 2.388,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210148722",
+      "name": "Kwangju Women's University",
+      "name_alt": [
+        "Kwangju Women's University",
+        "광주여자대학교"
+      ],
+      "ror": "https://ror.org/04xz43j90",
+      "works_count": 649,
+      "cited_by_count": 7600,
+      "h_index": 42,
+      "i10_index": 184,
+      "fwci": 0.764,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210166923",
+      "name": "Hallym University of Graduate Studies",
+      "name_alt": [
+        "Hallym International Graduate School of International Studies",
+        "Hallym University of Graduate Studies",
+        "한림국제대학원대학교"
+      ],
+      "ror": "https://ror.org/05rekxz26",
+      "works_count": 649,
+      "cited_by_count": 6684,
+      "h_index": 34,
+      "i10_index": 191,
+      "fwci": 1.152,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210120925",
+      "name": "Kaya University",
+      "name_alt": [
+        "Kaya University",
+        "加耶大学校",
+        "加耶大學校",
+        "가야대학교"
+      ],
+      "ror": "https://ror.org/02mf8ey61",
+      "works_count": 641,
+      "cited_by_count": 7409,
+      "h_index": 39,
+      "i10_index": 160,
+      "fwci": 0.702,
+      "top_concepts": []
+    },
+    {
+      "id": "I122706678",
+      "name": "Halla University",
+      "name_alt": [
+        "Halla University",
+        "한라대학교"
+      ],
+      "ror": "https://ror.org/03kw5ag50",
+      "works_count": 609,
+      "cited_by_count": 7619,
+      "h_index": 43,
+      "i10_index": 153,
+      "fwci": 1.256,
+      "top_concepts": []
+    },
+    {
+      "id": "I1341823161",
+      "name": "Pyeongtaek University",
+      "name_alt": [
+        "Pierson Memorial Union Bible Institute",
+        "Pyeongtaek University",
+        "평택대학교"
+      ],
+      "ror": "https://ror.org/04f7wmd40",
+      "works_count": 607,
+      "cited_by_count": 7011,
+      "h_index": 37,
+      "i10_index": 201,
+      "fwci": 1.315,
+      "top_concepts": []
+    },
+    {
+      "id": "I177492531",
+      "name": "Youngdong University",
+      "name_alt": [
+        "Youngdong University",
+        "영동대학교"
+      ],
+      "ror": "https://ror.org/01jbjw881",
+      "works_count": 586,
+      "cited_by_count": 20628,
+      "h_index": 77,
+      "i10_index": 423,
+      "fwci": 0.463,
+      "top_concepts": []
+    },
+    {
+      "id": "I83015752",
+      "name": "Busan University of Foreign Studies",
+      "name_alt": [
+        "Busan University of Foreign Studies",
+        "부산외국어대학교"
+      ],
+      "ror": "https://ror.org/0455zdm83",
+      "works_count": 576,
+      "cited_by_count": 6104,
+      "h_index": 40,
+      "i10_index": 151,
+      "fwci": 1.432,
+      "top_concepts": []
+    },
+    {
+      "id": "I204626148",
+      "name": "Uiduk University",
+      "name_alt": [
+        "Uiduk University",
+        "위덕대학교"
+      ],
+      "ror": "https://ror.org/01jt32312",
+      "works_count": 564,
+      "cited_by_count": 12551,
+      "h_index": 64,
+      "i10_index": 247,
+      "fwci": 0.667,
+      "top_concepts": []
+    },
+    {
+      "id": "I3133298186",
+      "name": "Gumi University",
+      "name_alt": [
+        "Gumi College",
+        "Gumi University",
+        "구미 대학교"
+      ],
+      "ror": "https://ror.org/01tbn4j76",
+      "works_count": 560,
+      "cited_by_count": 12024,
+      "h_index": 52,
+      "i10_index": 303,
+      "fwci": 2.152,
+      "top_concepts": []
+    },
+    {
+      "id": "I146496621",
+      "name": "Korea National Defense University",
+      "name_alt": [
+        "Korea National Defense University",
+        "국방대학교"
+      ],
+      "ror": "https://ror.org/05t1bc854",
+      "works_count": 546,
+      "cited_by_count": 15353,
+      "h_index": 51,
+      "i10_index": 219,
+      "fwci": 2.044,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210145313",
+      "name": "Kyungwoon University",
+      "name_alt": [
+        "Kyungwoon University",
+        "경운대학교"
+      ],
+      "ror": "https://ror.org/050384c29",
+      "works_count": 544,
+      "cited_by_count": 9560,
+      "h_index": 52,
+      "i10_index": 245,
+      "fwci": 0.943,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210143664",
+      "name": "Suwon Science College",
+      "name_alt": [
+        "Suwon Science College",
+        "Suwon Science University",
+        "수원 과학 대학"
+      ],
+      "ror": "https://ror.org/03zscq151",
+      "works_count": 543,
+      "cited_by_count": 8190,
+      "h_index": 42,
+      "i10_index": 203,
+      "fwci": 2.744,
+      "top_concepts": []
+    },
+    {
+      "id": "I110475456",
+      "name": "Korea Nazarene University",
+      "name_alt": [
+        "Korea Nazarene University",
+        "나사렛대학교"
+      ],
+      "ror": "https://ror.org/008bbzm95",
+      "works_count": 541,
+      "cited_by_count": 5168,
+      "h_index": 32,
+      "i10_index": 164,
+      "fwci": 1.757,
+      "top_concepts": []
+    },
+    {
+      "id": "I191209535",
+      "name": "Howon University",
+      "name_alt": [
+        "Howon University",
+        "호원대학교"
+      ],
+      "ror": "https://ror.org/00331xs95",
+      "works_count": 541,
+      "cited_by_count": 5555,
+      "h_index": 39,
+      "i10_index": 143,
+      "fwci": 1.722,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210134443",
+      "name": "Daejeon Institute of Science and Technology",
+      "name_alt": [
+        "Daejeon Institute of Science and Technology",
+        "기술 대전 대학교"
+      ],
+      "ror": "https://ror.org/032qr1v70",
+      "works_count": 539,
+      "cited_by_count": 12909,
+      "h_index": 48,
+      "i10_index": 290,
+      "fwci": 0.794,
+      "top_concepts": []
+    },
+    {
+      "id": "I151050371",
+      "name": "International University of Korea",
+      "name_alt": [
+        "International University of Korea",
+        "Jinjun International University",
+        "한국국제대학교"
+      ],
+      "ror": "https://ror.org/02532pm14",
+      "works_count": 531,
+      "cited_by_count": 19926,
+      "h_index": 67,
+      "i10_index": 485,
+      "fwci": 2.566,
+      "top_concepts": []
+    },
+    {
+      "id": "I74898755",
+      "name": "Daejeon Health Institute of Technology",
+      "name_alt": [
+        "Daejeon Health Institute of Technology",
+        "Daejeon Health Sciences College",
+        "Daejeon Technical School of Health",
+        "대전보건대학교"
+      ],
+      "ror": "https://ror.org/04ccgt898",
+      "works_count": 526,
+      "cited_by_count": 8974,
+      "h_index": 46,
+      "i10_index": 225,
+      "fwci": 3.219,
+      "top_concepts": []
+    },
+    {
+      "id": "I2800080930",
+      "name": "Chongshin University",
+      "name_alt": [
+        "Chongshin University",
+        "Chongshin University and Seminary",
+        "총신대학교"
+      ],
+      "ror": "https://ror.org/026qx6917",
+      "works_count": 523,
+      "cited_by_count": 15868,
+      "h_index": 59,
+      "i10_index": 245,
+      "fwci": 3.102,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210101341",
+      "name": "Keimyung College University",
+      "name_alt": [
+        "Commandments Culture University",
+        "Keimyung College University",
+        "Keimyung Culture University",
+        "계명 문화 대학"
+      ],
+      "ror": "https://ror.org/01g4vtd10",
+      "works_count": 514,
+      "cited_by_count": 9223,
+      "h_index": 47,
+      "i10_index": 208,
+      "fwci": 0.949,
+      "top_concepts": []
+    },
+    {
+      "id": "I27166778",
+      "name": "Dongnam Health University",
+      "name_alt": [
+        "Dongnam Health College",
+        "Dongnam Health University",
+        "東南保健大學",
+        "동남보건대학"
+      ],
+      "ror": "https://ror.org/04mnf7j68",
+      "works_count": 513,
+      "cited_by_count": 4604,
+      "h_index": 32,
+      "i10_index": 126,
+      "fwci": 0.868,
+      "top_concepts": []
+    },
+    {
+      "id": "I4792177",
+      "name": "Daelim University College",
+      "name_alt": [
+        "Daelim College",
+        "Daelim University College",
+        "대림대학교"
+      ],
+      "ror": "https://ror.org/00hn0mq04",
+      "works_count": 510,
+      "cited_by_count": 7091,
+      "h_index": 38,
+      "i10_index": 195,
+      "fwci": 2.131,
+      "top_concepts": []
+    },
+    {
+      "id": "I3132867593",
+      "name": "Busan Institute of Science and Technology",
+      "name_alt": [
+        "Busan College of Information Technology",
+        "Busan Institute of Science and Technology",
+        "부산과학기술대학교"
+      ],
+      "ror": "https://ror.org/00r3dxy86",
+      "works_count": 503,
+      "cited_by_count": 8986,
+      "h_index": 45,
+      "i10_index": 228,
+      "fwci": 2.166,
+      "top_concepts": []
+    },
+    {
+      "id": "I253775847",
+      "name": "Gimcheon University",
+      "name_alt": [
+        "Gimcheon University",
+        "김천대학교"
+      ],
+      "ror": "https://ror.org/02fg4j559",
+      "works_count": 492,
+      "cited_by_count": 4953,
+      "h_index": 31,
+      "i10_index": 150,
+      "fwci": 2.05,
+      "top_concepts": []
+    },
+    {
+      "id": "I198667473",
+      "name": "Chodang University",
+      "name_alt": [
+        "Chodang University",
+        "초당대학교"
+      ],
+      "ror": "https://ror.org/00yezxw87",
+      "works_count": 489,
+      "cited_by_count": 6641,
+      "h_index": 42,
+      "i10_index": 198,
+      "fwci": 1.751,
+      "top_concepts": []
+    },
+    {
+      "id": "I96909044",
+      "name": "Induk University",
+      "name_alt": [
+        "Induk Institute of Design",
+        "Induk University",
+        "인덕대학교"
+      ],
+      "ror": "https://ror.org/056fjw561",
+      "works_count": 470,
+      "cited_by_count": 5257,
+      "h_index": 38,
+      "i10_index": 140,
+      "fwci": 1.148,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210087887",
+      "name": "Gangdong University",
+      "name_alt": [
+        "Gangdong College",
+        "Gangdong University",
+        "Kang Dong University",
+        "Kukdong Information University",
+        "강동 대학교"
+      ],
+      "ror": "https://ror.org/004zrqc30",
+      "works_count": 469,
+      "cited_by_count": 6297,
+      "h_index": 37,
+      "i10_index": 191,
+      "fwci": 0.835,
+      "top_concepts": []
+    },
+    {
+      "id": "I106601093",
+      "name": "Dongyang Mirae University",
+      "name_alt": [
+        "Dongyang Mirae University",
+        "Dongyang Technical College",
+        "동양미래대학교"
+      ],
+      "ror": "https://ror.org/00j78xh95",
+      "works_count": 459,
+      "cited_by_count": 7556,
+      "h_index": 41,
+      "i10_index": 187,
+      "fwci": 3.271,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210110285",
+      "name": "Yeoju University",
+      "name_alt": [
+        "Yeoju Institute of Technology",
+        "Yeoju University",
+        "여주대학교"
+      ],
+      "ror": "https://ror.org/01t4th798",
+      "works_count": 443,
+      "cited_by_count": 4496,
+      "h_index": 29,
+      "i10_index": 107,
+      "fwci": 1.099,
+      "top_concepts": []
+    },
+    {
+      "id": "I177023625",
+      "name": "Hansei University",
+      "name_alt": [
+        "Hansei University",
+        "한세대학교"
+      ],
+      "ror": "https://ror.org/01bxsr356",
+      "works_count": 434,
+      "cited_by_count": 4583,
+      "h_index": 33,
+      "i10_index": 111,
+      "fwci": 0.769,
+      "top_concepts": []
+    },
+    {
+      "id": "I2802978839",
+      "name": "Korea Naval Academy",
+      "name_alt": [
+        "Korea Naval Academy",
+        "Republic of Korea Naval Academy",
+        "해군사관학교"
+      ],
+      "ror": "https://ror.org/0491qwe57",
+      "works_count": 433,
+      "cited_by_count": 7229,
+      "h_index": 40,
+      "i10_index": 144,
+      "fwci": 1.789,
+      "top_concepts": []
+    },
+    {
+      "id": "I120870296",
+      "name": "Cheongju National University of Education",
+      "name_alt": [
+        "Cheongju National University of Education",
+        "청주교육대학교"
+      ],
+      "ror": "https://ror.org/03nfkpr39",
+      "works_count": 428,
+      "cited_by_count": 5876,
+      "h_index": 39,
+      "i10_index": 138,
+      "fwci": 1.669,
+      "top_concepts": []
+    },
+    {
+      "id": "I109995039",
+      "name": "Hanyang Cyber University",
+      "name_alt": [
+        "Hanyang Cyber University",
+        "한양사이버대학교"
+      ],
+      "ror": "https://ror.org/05tkqcq07",
+      "works_count": 422,
+      "cited_by_count": 7171,
+      "h_index": 41,
+      "i10_index": 178,
+      "fwci": 3.286,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210140242",
+      "name": "Cyber University of Korea",
+      "name_alt": [
+        "Cyber University of Korea",
+        "사이버 대학교"
+      ],
+      "ror": "https://ror.org/03t85np98",
+      "works_count": 420,
+      "cited_by_count": 5553,
+      "h_index": 36,
+      "i10_index": 117,
+      "fwci": 1.505,
+      "top_concepts": []
+    },
+    {
+      "id": "I213411275",
+      "name": "Chungbuk Provincial College",
+      "name_alt": [
+        "Chungbuk Provincial College",
+        "충북도립대학"
+      ],
+      "ror": "https://ror.org/03h3tha15",
+      "works_count": 418,
+      "cited_by_count": 5304,
+      "h_index": 34,
+      "i10_index": 152,
+      "fwci": 1.444,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210119116",
+      "name": "Shingu College",
+      "name_alt": [
+        "Shingu College",
+        "신구대학교"
+      ],
+      "ror": "https://ror.org/02m3rv513",
+      "works_count": 417,
+      "cited_by_count": 4818,
+      "h_index": 36,
+      "i10_index": 127,
+      "fwci": 0.967,
+      "top_concepts": []
+    },
+    {
+      "id": "I3462296",
+      "name": "Gyeongin National University of Education",
+      "name_alt": [
+        "Gyeongin National University of Education",
+        "경인교육대학교"
+      ],
+      "ror": "https://ror.org/007s7qx27",
+      "works_count": 413,
+      "cited_by_count": 3614,
+      "h_index": 27,
+      "i10_index": 91,
+      "fwci": 1.542,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210099829",
+      "name": "Masan University",
+      "name_alt": [
+        "Masan Nursing High-Tech School",
+        "Masan University",
+        "마산 대학교"
+      ],
+      "ror": "https://ror.org/011mzb617",
+      "works_count": 407,
+      "cited_by_count": 5304,
+      "h_index": 33,
+      "i10_index": 117,
+      "fwci": 0.795,
+      "top_concepts": []
+    },
+    {
+      "id": "I187887247",
+      "name": "Daegu National University of Education",
+      "name_alt": [
+        "Daegu National University of Education",
+        "대구교육대학교"
+      ],
+      "ror": "https://ror.org/02s5s5e14",
+      "works_count": 389,
+      "cited_by_count": 3288,
+      "h_index": 26,
+      "i10_index": 95,
+      "fwci": 2.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I107558787",
+      "name": "Shin Ansan University",
+      "name_alt": [
+        "Ansan College of Technology",
+        "Ansan Technical College",
+        "Shin Ansan University",
+        "신안산대학교"
+      ],
+      "ror": "https://ror.org/00z50sv45",
+      "works_count": 386,
+      "cited_by_count": 5911,
+      "h_index": 37,
+      "i10_index": 161,
+      "fwci": 0.63,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210155604",
+      "name": "Osan University",
+      "name_alt": [
+        "Osan University",
+        "오산대학"
+      ],
+      "ror": "https://ror.org/04dqc4x73",
+      "works_count": 380,
+      "cited_by_count": 4083,
+      "h_index": 32,
+      "i10_index": 113,
+      "fwci": 1.577,
+      "top_concepts": []
+    },
+    {
+      "id": "I3798612",
+      "name": "Andong Science University",
+      "name_alt": [
+        "Andong Science College",
+        "Andong Science University",
+        "안동과학대학교"
+      ],
+      "ror": "https://ror.org/01prjex52",
+      "works_count": 370,
+      "cited_by_count": 5382,
+      "h_index": 36,
+      "i10_index": 149,
+      "fwci": 1.625,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210143978",
+      "name": "Seoul Social Welfare Graduate University",
+      "name_alt": [
+        "Seoul Social Welfare Graduate University",
+        "서울사회복지대학원대학교"
+      ],
+      "ror": "https://ror.org/04ctw6466",
+      "works_count": 369,
+      "cited_by_count": 7254,
+      "h_index": 38,
+      "i10_index": 193,
+      "fwci": 1.225,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210167106",
+      "name": "Shinsung University",
+      "name_alt": [
+        "Shinsung University",
+        "신성 대학교"
+      ],
+      "ror": "https://ror.org/05mr5xg41",
+      "works_count": 358,
+      "cited_by_count": 6216,
+      "h_index": 37,
+      "i10_index": 149,
+      "fwci": 1.306,
+      "top_concepts": []
+    },
+    {
+      "id": "I323440827",
+      "name": "Korean National Police University",
+      "name_alt": [
+        "Korean National Police University",
+        "경찰대학"
+      ],
+      "ror": "https://ror.org/02s89kd69",
+      "works_count": 357,
+      "cited_by_count": 3050,
+      "h_index": 28,
+      "i10_index": 76,
+      "fwci": 1.209,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210141516",
+      "name": "Kyung-in Women's University",
+      "name_alt": [
+        "Kyung-in Women's University",
+        "경 여자 대학교"
+      ],
+      "ror": "https://ror.org/057t9t071",
+      "works_count": 354,
+      "cited_by_count": 4278,
+      "h_index": 35,
+      "i10_index": 110,
+      "fwci": 1.694,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210164437",
+      "name": "Korean Bible University",
+      "name_alt": [
+        "Korean Bible University"
+      ],
+      "ror": "https://ror.org/05h6xaj60",
+      "works_count": 354,
+      "cited_by_count": 4314,
+      "h_index": 28,
+      "i10_index": 107,
+      "fwci": 0.972,
+      "top_concepts": []
+    },
+    {
+      "id": "I2801910229",
+      "name": "Gyeongsan Science High School",
+      "name_alt": [
+        "Gyeongsan Science High School",
+        "경산과학고등학교"
+      ],
+      "ror": "https://ror.org/03tkypj50",
+      "works_count": 353,
+      "cited_by_count": 8214,
+      "h_index": 43,
+      "i10_index": 208,
+      "fwci": 0.968,
+      "top_concepts": []
+    },
+    {
+      "id": "I40900486",
+      "name": "Changshin University",
+      "name_alt": [
+        "Changshin University",
+        "창신대학교"
+      ],
+      "ror": "https://ror.org/0483r5v56",
+      "works_count": 352,
+      "cited_by_count": 3166,
+      "h_index": 24,
+      "i10_index": 72,
+      "fwci": 0.914,
+      "top_concepts": []
+    },
+    {
+      "id": "I177837794",
+      "name": "Korean Educational Development Institute",
+      "name_alt": [
+        "Korean Educational Development Institute",
+        "한국교육개발원"
+      ],
+      "ror": "https://ror.org/00ajg8t71",
+      "works_count": 349,
+      "cited_by_count": 3658,
+      "h_index": 31,
+      "i10_index": 79,
+      "fwci": 1.29,
+      "top_concepts": []
+    },
+    {
+      "id": "I3130020584",
+      "name": "International Graduate School of English",
+      "name_alt": [
+        "International Graduate School of English",
+        "국제영어대학원대학교"
+      ],
+      "ror": "https://ror.org/0181xpd52",
+      "works_count": 349,
+      "cited_by_count": 18000,
+      "h_index": 52,
+      "i10_index": 196,
+      "fwci": 4.29,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210128368",
+      "name": "Kyungnam College of Information and Technology",
+      "name_alt": [
+        "Kyungnam College of Information and Technology",
+        "경남정보대학교"
+      ],
+      "ror": "https://ror.org/02jv1px47",
+      "works_count": 348,
+      "cited_by_count": 2783,
+      "h_index": 24,
+      "i10_index": 73,
+      "fwci": 0.875,
+      "top_concepts": []
+    },
+    {
+      "id": "I24359042",
+      "name": "Hyejeon College",
+      "name_alt": [
+        "Hyejeon College",
+        "혜전대학교"
+      ],
+      "ror": "https://ror.org/04d5fry87",
+      "works_count": 338,
+      "cited_by_count": 3320,
+      "h_index": 27,
+      "i10_index": 80,
+      "fwci": 1.531,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210142423",
+      "name": "Koje College",
+      "name_alt": [
+        "Geoje University",
+        "Koje College",
+        "거제대학"
+      ],
+      "ror": "https://ror.org/044xay220",
+      "works_count": 325,
+      "cited_by_count": 3112,
+      "h_index": 27,
+      "i10_index": 65,
+      "fwci": 0.361,
+      "top_concepts": []
+    },
+    {
+      "id": "I71683514",
+      "name": "Daewon University College",
+      "name_alt": [
+        "Daewon Daehak",
+        "Daewon Junior College",
+        "Daewon University College",
+        "대원대학교"
+      ],
+      "ror": "https://ror.org/04znkkz68",
+      "works_count": 325,
+      "cited_by_count": 4454,
+      "h_index": 37,
+      "i10_index": 119,
+      "fwci": 1.875,
+      "top_concepts": []
+    },
+    {
+      "id": "I66974923",
+      "name": "Doowon Technical University College",
+      "name_alt": [
+        "Doowon Technical Junior College",
+        "Doowon Technical University College",
+        "Duwon Gonggwa Daehak",
+        "두원공과대학교"
+      ],
+      "ror": "https://ror.org/031ts3559",
+      "works_count": 320,
+      "cited_by_count": 5483,
+      "h_index": 40,
+      "i10_index": 115,
+      "fwci": 4.259,
+      "top_concepts": []
+    },
+    {
+      "id": "I126009037",
+      "name": "Hanyang Women's University",
+      "name_alt": [
+        "Hanyang Women's Junior College",
+        "Hanyang Women's University",
+        "Hanyang Women's Vocational School",
+        "한양여자대학교"
+      ],
+      "ror": "https://ror.org/00qyadr13",
+      "works_count": 318,
+      "cited_by_count": 16591,
+      "h_index": 47,
+      "i10_index": 132,
+      "fwci": 0.746,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210089031",
+      "name": "Sunlin University",
+      "name_alt": [
+        "Pohang Nursing Technical Institute",
+        "Sunlin College",
+        "Sunlin University",
+        "선린 대학교"
+      ],
+      "ror": "https://ror.org/008cmt298",
+      "works_count": 313,
+      "cited_by_count": 3969,
+      "h_index": 28,
+      "i10_index": 83,
+      "fwci": 3.858,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210088294",
+      "name": "Songwon University",
+      "name_alt": [
+        "Songwon University",
+        "송원대학교"
+      ],
+      "ror": "https://ror.org/007mhqn04",
+      "works_count": 311,
+      "cited_by_count": 3450,
+      "h_index": 29,
+      "i10_index": 96,
+      "fwci": 3.222,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210103015",
+      "name": "Gyeonggi College of Science and Technology",
+      "name_alt": [
+        "Gyeonggi College of Science and Technology",
+        "Kyonggi Institute of Technology",
+        "경기과학기술대학교"
+      ],
+      "ror": "https://ror.org/023af1t29",
+      "works_count": 302,
+      "cited_by_count": 8642,
+      "h_index": 43,
+      "i10_index": 227,
+      "fwci": 2.373,
+      "top_concepts": []
+    },
+    {
+      "id": "I248216221",
+      "name": "Academy of Korean Studies",
+      "name_alt": [
+        "Academy of Korean Studies",
+        "한국학중앙연구원"
+      ],
+      "ror": "https://ror.org/00bw4x405",
+      "works_count": 299,
+      "cited_by_count": 1769,
+      "h_index": 21,
+      "i10_index": 37,
+      "fwci": 0.566,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210163158",
+      "name": "Choonhae College of Health Sciences",
+      "name_alt": [
+        "Choonhae College of Health Sciences",
+        "Choonhae Nursing School",
+        "Choonhae University of the Health Sciences",
+        "Chunhae Health College",
+        "Chunhae Health University",
+        "Chunhae University",
+        "충해 건강 과학 대학"
+      ],
+      "ror": "https://ror.org/04q586p77",
+      "works_count": 285,
+      "cited_by_count": 3119,
+      "h_index": 27,
+      "i10_index": 83,
+      "fwci": 1.059,
+      "top_concepts": []
+    },
+    {
+      "id": "I3131992673",
+      "name": "Hyupsung University",
+      "name_alt": [
+        "Hyupsung Theological University",
+        "Hyupsung University",
+        "협성대학교"
+      ],
+      "ror": "https://ror.org/010cbg926",
+      "works_count": 284,
+      "cited_by_count": 5087,
+      "h_index": 33,
+      "i10_index": 90,
+      "fwci": 1.766,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210110706",
+      "name": "Suwon Women’s University",
+      "name_alt": [
+        "Suwon Women's College",
+        "Suwon Women’s University",
+        "수원 여자 대학교"
+      ],
+      "ror": "https://ror.org/01yarqc83",
+      "works_count": 278,
+      "cited_by_count": 3675,
+      "h_index": 29,
+      "i10_index": 121,
+      "fwci": 2.346,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210157747",
+      "name": "Daeduk University",
+      "name_alt": [
+        "Chungnam Business College",
+        "Daeduk College",
+        "Daeduk University",
+        "대덕 대학교"
+      ],
+      "ror": "https://ror.org/05ba5yp12",
+      "works_count": 277,
+      "cited_by_count": 5319,
+      "h_index": 41,
+      "i10_index": 137,
+      "fwci": 0.611,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210132521",
+      "name": "Chosun College of Science & Technology",
+      "name_alt": [
+        "Chosun College of Science & Technology",
+        "Chosun University of Science and Technology",
+        "Shipbuilding yigongdae School",
+        "조선이공대학교"
+      ],
+      "ror": "https://ror.org/02ze37p54",
+      "works_count": 274,
+      "cited_by_count": 3924,
+      "h_index": 29,
+      "i10_index": 92,
+      "fwci": 2.216,
+      "top_concepts": []
+    },
+    {
+      "id": "I2964261176",
+      "name": "Calvin University",
+      "name_alt": [
+        "Calvin University",
+        "칼빈대학교"
+      ],
+      "ror": "https://ror.org/05055ck28",
+      "works_count": 273,
+      "cited_by_count": 5310,
+      "h_index": 26,
+      "i10_index": 52,
+      "fwci": 0.479,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210093658",
+      "name": "Seojeong University",
+      "name_alt": [
+        "Lyric University",
+        "Seojeong University",
+        "서정대학교"
+      ],
+      "ror": "https://ror.org/006pshn89",
+      "works_count": 271,
+      "cited_by_count": 4075,
+      "h_index": 36,
+      "i10_index": 101,
+      "fwci": 0.704,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210088892",
+      "name": "Korea National University of Cultural Heritage",
+      "name_alt": [
+        "Korea National University of Cultural Heritage",
+        "한국전통문화대학교"
+      ],
+      "ror": "https://ror.org/006wqrx41",
+      "works_count": 270,
+      "cited_by_count": 3121,
+      "h_index": 27,
+      "i10_index": 81,
+      "fwci": 1.103,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210114978",
+      "name": "Kimpo University",
+      "name_alt": [
+        "Gimpo International University",
+        "Kimpo University",
+        "김포 대학교"
+      ],
+      "ror": "https://ror.org/02ktcfe74",
+      "works_count": 269,
+      "cited_by_count": 2913,
+      "h_index": 22,
+      "i10_index": 59,
+      "fwci": 1.511,
+      "top_concepts": []
+    },
+    {
+      "id": "I323946660",
+      "name": "Baekseok Culture University",
+      "name_alt": [
+        "Baekseok Culture University",
+        "Cheonan College of Foreign Studies",
+        "백석문화대학교"
+      ],
+      "ror": "https://ror.org/00jpxtg25",
+      "works_count": 268,
+      "cited_by_count": 2291,
+      "h_index": 24,
+      "i10_index": 54,
+      "fwci": 0.481,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210104247",
+      "name": "Seoul Women's College of Nursing",
+      "name_alt": [
+        "Seoul Women's College of Nursing"
+      ],
+      "ror": "https://ror.org/00s6kha82",
+      "works_count": 268,
+      "cited_by_count": 4049,
+      "h_index": 31,
+      "i10_index": 124,
+      "fwci": 1.044,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210090284",
+      "name": "Re-shaping Development Institute",
+      "name_alt": [
+        "Global Development Research Institute",
+        "Re-shaping Development Institute",
+        "글로벌 개발 연구소"
+      ],
+      "ror": "https://ror.org/009ztd224",
+      "works_count": 255,
+      "cited_by_count": 2146,
+      "h_index": 18,
+      "i10_index": 39,
+      "fwci": 1.118,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210107159",
+      "name": "Korea Soongsil Cyber ​​University",
+      "name_alt": [
+        "Korea Cyber ​​University",
+        "Korea Soongsil Cyber ​​University",
+        "한국사이버대학교 종로캠퍼스"
+      ],
+      "ror": "https://ror.org/01jwwa840",
+      "works_count": 255,
+      "cited_by_count": 4063,
+      "h_index": 26,
+      "i10_index": 50,
+      "fwci": 0.661,
+      "top_concepts": []
+    },
+    {
+      "id": "I896994792",
+      "name": "Sungkonghoe University",
+      "name_alt": [
+        "Anglican Church University",
+        "Sungkonghoe University",
+        "성공회대학교"
+      ],
+      "ror": "https://ror.org/04rg3qa61",
+      "works_count": 239,
+      "cited_by_count": 2565,
+      "h_index": 25,
+      "i10_index": 60,
+      "fwci": 1.343,
+      "top_concepts": []
+    },
+    {
+      "id": "I1336915759",
+      "name": "Gangwon Provincial University",
+      "name_alt": [
+        "Gangwon Provincial University"
+      ],
+      "ror": "https://ror.org/006fs1j92",
+      "works_count": 235,
+      "cited_by_count": 2941,
+      "h_index": 29,
+      "i10_index": 79,
+      "fwci": 0.914,
+      "top_concepts": []
+    },
+    {
+      "id": "I3129921980",
+      "name": "Korea National University of Arts",
+      "name_alt": [
+        "Korea National University of Arts",
+        "한국예술종합학교"
+      ],
+      "ror": "https://ror.org/0168zcn11",
+      "works_count": 232,
+      "cited_by_count": 2121,
+      "h_index": 25,
+      "i10_index": 58,
+      "fwci": 1.27,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210151859",
+      "name": "Incheon Catholic University",
+      "name_alt": [
+        "Incheon Catholic University",
+        "인천가톨릭대학교"
+      ],
+      "ror": "https://ror.org/04bfjqy79",
+      "works_count": 227,
+      "cited_by_count": 3104,
+      "h_index": 23,
+      "i10_index": 50,
+      "fwci": 0.901,
+      "top_concepts": []
+    },
+    {
+      "id": "I3129687336",
+      "name": "Chunnam Techno University",
+      "name_alt": [
+        "Chunnam Techno University",
+        "전남과학대학교"
+      ],
+      "ror": "https://ror.org/03v7b1458",
+      "works_count": 211,
+      "cited_by_count": 6908,
+      "h_index": 41,
+      "i10_index": 112,
+      "fwci": 0.1,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210099081",
+      "name": "Songho University",
+      "name_alt": [
+        "Songho College",
+        "Songho University",
+        "송호대학교"
+      ],
+      "ror": "https://ror.org/00zk06669",
+      "works_count": 210,
+      "cited_by_count": 3039,
+      "h_index": 21,
+      "i10_index": 40,
+      "fwci": 1.485,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210111742",
+      "name": "Seoyeong University",
+      "name_alt": [
+        "Seoyeong University"
+      ],
+      "ror": "https://ror.org/01hcawk58",
+      "works_count": 207,
+      "cited_by_count": 5573,
+      "h_index": 31,
+      "i10_index": 78,
+      "fwci": 3.147,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210120183",
+      "name": "Donggwon Science and Technology University",
+      "name_alt": [
+        "Donggwon Science and Technology University",
+        "Yangsan University",
+        "동원과학기술대학교"
+      ],
+      "ror": "https://ror.org/03kcd5067",
+      "works_count": 207,
+      "cited_by_count": 3616,
+      "h_index": 34,
+      "i10_index": 90,
+      "fwci": 3.089,
+      "top_concepts": []
+    },
+    {
+      "id": "I277624334",
+      "name": "Chuncheon National University of Education",
+      "name_alt": [
+        "Chuncheon National University of Education",
+        "Chuncheon Normal School",
+        "춘천교육대학교"
+      ],
+      "ror": "https://ror.org/041hzs681",
+      "works_count": 206,
+      "cited_by_count": 2806,
+      "h_index": 32,
+      "i10_index": 64,
+      "fwci": 1.25,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210126336",
+      "name": "Presbyterian University and Theological Seminary",
+      "name_alt": [
+        "Presbyterian University and Theological Seminary"
+      ],
+      "ror": "https://ror.org/02ke3k930",
+      "works_count": 204,
+      "cited_by_count": 580,
+      "h_index": 13,
+      "i10_index": 15,
+      "fwci": 0.235,
+      "top_concepts": []
+    },
+    {
+      "id": "I3132909936",
+      "name": "Cheonan Yonam College",
+      "name_alt": [
+        "Cheonan Yonam College",
+        "천안연암대학"
+      ],
+      "ror": "https://ror.org/00ydadx21",
+      "works_count": 198,
+      "cited_by_count": 2986,
+      "h_index": 29,
+      "i10_index": 84,
+      "fwci": 1.4,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210121070",
+      "name": "Suwon Catholic University",
+      "name_alt": [
+        "Suwon Catholic University"
+      ],
+      "ror": "https://ror.org/02t3h6354",
+      "works_count": 198,
+      "cited_by_count": 8046,
+      "h_index": 46,
+      "i10_index": 172,
+      "fwci": 1.556,
+      "top_concepts": []
+    },
+    {
+      "id": "I255400594",
+      "name": "Daegu Technical University",
+      "name_alt": [
+        "Daegu Technical University",
+        "대구공업대학교"
+      ],
+      "ror": "https://ror.org/00frehm74",
+      "works_count": 197,
+      "cited_by_count": 5011,
+      "h_index": 35,
+      "i10_index": 77,
+      "fwci": 0.765,
+      "top_concepts": []
+    },
+    {
+      "id": "I118906564",
+      "name": "Hanzhong University",
+      "name_alt": [
+        "Donghae Technical College",
+        "Donghae University",
+        "Hanzhong University",
+        "한중대학교"
+      ],
+      "ror": "https://ror.org/05y7b4225",
+      "works_count": 192,
+      "cited_by_count": 6110,
+      "h_index": 45,
+      "i10_index": 136,
+      "fwci": 1.118,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210086533",
+      "name": "Suncheon Jeil College",
+      "name_alt": [
+        "Suncheon Cheil University",
+        "Suncheon Jeil College",
+        "Suncheon Jeil University",
+        "순천제일대학교"
+      ],
+      "ror": "https://ror.org/0014sb331",
+      "works_count": 187,
+      "cited_by_count": 3555,
+      "h_index": 34,
+      "i10_index": 66,
+      "fwci": 1.232,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210141547",
+      "name": "Wonkwang Digital University",
+      "name_alt": [
+        "Wonkwang Digital University",
+        "원광디지털대학교"
+      ],
+      "ror": "https://ror.org/03t6vm274",
+      "works_count": 183,
+      "cited_by_count": 2307,
+      "h_index": 21,
+      "i10_index": 38,
+      "fwci": 1.565,
+      "top_concepts": []
+    },
+    {
+      "id": "I190731455",
+      "name": "Yeungjin College",
+      "name_alt": [
+        "Yeungjin College",
+        "Yeungjin Junior College",
+        "영진전문대학"
+      ],
+      "ror": "https://ror.org/002ngbk13",
+      "works_count": 174,
+      "cited_by_count": 2693,
+      "h_index": 26,
+      "i10_index": 63,
+      "fwci": 0.933,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210085941",
+      "name": "Hosan University",
+      "name_alt": [
+        "Hosan University",
+        "호산대학교"
+      ],
+      "ror": "https://ror.org/0072dwk79",
+      "works_count": 171,
+      "cited_by_count": 2155,
+      "h_index": 24,
+      "i10_index": 46,
+      "fwci": 3.431,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210105861",
+      "name": "Mokpo Science University",
+      "name_alt": [
+        "Mokpo Science University",
+        "목포과학대학교"
+      ],
+      "ror": "https://ror.org/01njzma31",
+      "works_count": 171,
+      "cited_by_count": 1660,
+      "h_index": 20,
+      "i10_index": 40,
+      "fwci": 0.903,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210110812",
+      "name": "Sejong Cyber University",
+      "name_alt": [
+        "Sejong Cyber University",
+        "세종사이버대학교"
+      ],
+      "ror": "https://ror.org/020b78451",
+      "works_count": 169,
+      "cited_by_count": 2337,
+      "h_index": 26,
+      "i10_index": 51,
+      "fwci": 1.148,
+      "top_concepts": []
+    },
+    {
+      "id": "I183883511",
+      "name": "Hanlyo University",
+      "name_alt": [
+        "Hanlyo University",
+        "한려대학교"
+      ],
+      "ror": "https://ror.org/03xf99d80",
+      "works_count": 167,
+      "cited_by_count": 3068,
+      "h_index": 24,
+      "i10_index": 77,
+      "fwci": 1.929,
+      "top_concepts": []
+    },
+    {
+      "id": "I3132959353",
+      "name": "Gyeongnam Provincial Namhae College",
+      "name_alt": [
+        "Gyeongnam Provincial Namhae College",
+        "University of Gyeongnam Namhae",
+        "경남도립남해대학"
+      ],
+      "ror": "https://ror.org/03x2b6b27",
+      "works_count": 167,
+      "cited_by_count": 4671,
+      "h_index": 32,
+      "i10_index": 105,
+      "fwci": 3.294,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210148076",
+      "name": "Korea Bio Polytechnic College",
+      "name_alt": [
+        "Korea Bio Polytechnic College",
+        "한국폴리텍바이오대학"
+      ],
+      "ror": "https://ror.org/056q45x47",
+      "works_count": 167,
+      "cited_by_count": 2824,
+      "h_index": 28,
+      "i10_index": 79,
+      "fwci": 0.946,
+      "top_concepts": []
+    },
+    {
+      "id": "I178889419",
+      "name": "Daegu Cyber University",
+      "name_alt": [
+        "Daegu Cyber University",
+        "대구사이버대학교"
+      ],
+      "ror": "https://ror.org/027yf1g97",
+      "works_count": 159,
+      "cited_by_count": 977,
+      "h_index": 14,
+      "i10_index": 21,
+      "fwci": 0.676,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210142616",
+      "name": "Hanbuk University",
+      "name_alt": [
+        "Hanbuk University"
+      ],
+      "ror": "https://ror.org/0473nvz85",
+      "works_count": 154,
+      "cited_by_count": 2423,
+      "h_index": 22,
+      "i10_index": 62,
+      "fwci": 3.391,
+      "top_concepts": []
+    },
+    {
+      "id": "I3131165991",
+      "name": "Koguryeo College",
+      "name_alt": [
+        "Goguryeo University",
+        "Koguryeo College",
+        "고구려 대학"
+      ],
+      "ror": "https://ror.org/02p3w0b60",
+      "works_count": 153,
+      "cited_by_count": 4399,
+      "h_index": 33,
+      "i10_index": 84,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210127834",
+      "name": "University of Brain Education",
+      "name_alt": [
+        "International Graduate School of Brain Education",
+        "University of Brain Education",
+        "국제뇌교육종합대학원대학교 홈페이지"
+      ],
+      "ror": "https://ror.org/034q8g297",
+      "works_count": 153,
+      "cited_by_count": 7819,
+      "h_index": 47,
+      "i10_index": 139,
+      "fwci": 0.632,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210108207",
+      "name": "Gwangyang Health College",
+      "name_alt": [
+        "Gwangyang Health College",
+        "Gwangyang Health University",
+        "Kwangyang Health College",
+        "광양보건대학"
+      ],
+      "ror": "https://ror.org/01mh12h63",
+      "works_count": 152,
+      "cited_by_count": 2125,
+      "h_index": 23,
+      "i10_index": 58,
+      "fwci": 0.84,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210133578",
+      "name": "Kyungmin University",
+      "name_alt": [
+        "Kyungmin University",
+        "경민대학교"
+      ],
+      "ror": "https://ror.org/03d3d5f32",
+      "works_count": 138,
+      "cited_by_count": 1776,
+      "h_index": 23,
+      "i10_index": 41,
+      "fwci": 3.17,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210162633",
+      "name": "Soongeui Women's College",
+      "name_alt": [
+        "Soongeui Women's College",
+        "Sungwon Women's University",
+        "숭의여자대학교"
+      ],
+      "ror": "https://ror.org/051awps38",
+      "works_count": 138,
+      "cited_by_count": 2124,
+      "h_index": 23,
+      "i10_index": 44,
+      "fwci": 0.375,
+      "top_concepts": []
+    },
+    {
+      "id": "I3131726072",
+      "name": "University of North Korean Studies",
+      "name_alt": [
+        "University of North Korean Studies",
+        "북한대학원대학교"
+      ],
+      "ror": "https://ror.org/01syrqz32",
+      "works_count": 137,
+      "cited_by_count": 766,
+      "h_index": 13,
+      "i10_index": 26,
+      "fwci": 1.5,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210143882",
+      "name": "Cheongam College",
+      "name_alt": [
+        "Cheongam College",
+        "청암대학교"
+      ],
+      "ror": "https://ror.org/04vw91v95",
+      "works_count": 136,
+      "cited_by_count": 2879,
+      "h_index": 32,
+      "i10_index": 78,
+      "fwci": 0.792,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210147191",
+      "name": "Dongbang Culture University",
+      "name_alt": [
+        "Dongbang Culture University",
+        "Graduate School of Oriental Culture",
+        "동방 문화 대학교"
+      ],
+      "ror": "https://ror.org/03jm8py90",
+      "works_count": 133,
+      "cited_by_count": 663,
+      "h_index": 14,
+      "i10_index": 19,
+      "fwci": 2.517,
+      "top_concepts": []
+    },
+    {
+      "id": "I59265618",
+      "name": "Yeonsung University",
+      "name_alt": [
+        "Yeonsung University",
+        "연성대학교"
+      ],
+      "ror": "https://ror.org/03mc8zn46",
+      "works_count": 132,
+      "cited_by_count": 2287,
+      "h_index": 26,
+      "i10_index": 65,
+      "fwci": 0.58,
+      "top_concepts": []
+    },
+    {
+      "id": "I5324124",
+      "name": "Seoul Theological University",
+      "name_alt": [
+        "Seoul Theological University",
+        "서울신학대학교"
+      ],
+      "ror": "https://ror.org/00m4aws33",
+      "works_count": 130,
+      "cited_by_count": 645,
+      "h_index": 13,
+      "i10_index": 17,
+      "fwci": 1.406,
+      "top_concepts": []
+    },
+    {
+      "id": "I3132879846",
+      "name": "Daekyeung University",
+      "name_alt": [
+        "Daekyeung University",
+        "대경대학교"
+      ],
+      "ror": "https://ror.org/04qwasw26",
+      "works_count": 126,
+      "cited_by_count": 4054,
+      "h_index": 35,
+      "i10_index": 89,
+      "fwci": 1.909,
+      "top_concepts": []
+    },
+    {
+      "id": "I3132183145",
+      "name": "Donga College of Health",
+      "name_alt": [
+        "Dong-A College",
+        "Donga College of Health",
+        "Donga Injae University",
+        "동아보건대학교"
+      ],
+      "ror": "https://ror.org/00ytmwg30",
+      "works_count": 125,
+      "cited_by_count": 1231,
+      "h_index": 19,
+      "i10_index": 35,
+      "fwci": 0.5,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210163123",
+      "name": "Korea Christian University",
+      "name_alt": [
+        "Korea Christian University"
+      ],
+      "ror": "https://ror.org/05ar41694",
+      "works_count": 115,
+      "cited_by_count": 3067,
+      "h_index": 20,
+      "i10_index": 34,
+      "fwci": 0.486,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210096900",
+      "name": "Gangwon State University",
+      "name_alt": [
+        "Gangwon Provincial University",
+        "Gangwon State University",
+        "강원도립대학",
+        "강원도립대학교",
+        "도립강원전문대학"
+      ],
+      "ror": "https://ror.org/00v2fq029",
+      "works_count": 106,
+      "cited_by_count": 433,
+      "h_index": 12,
+      "i10_index": 15,
+      "fwci": 0.766,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210124131",
+      "name": "Korea Golf University",
+      "name_alt": [
+        "Korea Golf University",
+        "한국골프대학교"
+      ],
+      "ror": "https://ror.org/02v7thk18",
+      "works_count": 106,
+      "cited_by_count": 1994,
+      "h_index": 24,
+      "i10_index": 41,
+      "fwci": 1.608,
+      "top_concepts": []
+    },
+    {
+      "id": "I70810838",
+      "name": "Shingyeong University",
+      "name_alt": [
+        "Shingyeong University",
+        "신경대학교"
+      ],
+      "ror": "https://ror.org/04tkhxj35",
+      "works_count": 105,
+      "cited_by_count": 1287,
+      "h_index": 20,
+      "i10_index": 39,
+      "fwci": 7.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I119444241",
+      "name": "Ajou Motor College",
+      "name_alt": [
+        "AJU Automotive University",
+        "Ajou Motor College",
+        "Daecheon College",
+        "Daecheon Technical College",
+        "아주 자동차 대학"
+      ],
+      "ror": "https://ror.org/01j2rpy06",
+      "works_count": 104,
+      "cited_by_count": 715,
+      "h_index": 14,
+      "i10_index": 32,
+      "fwci": 1.375,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210110852",
+      "name": "Jeju International University",
+      "name_alt": [
+        "Jeju International University"
+      ],
+      "ror": "https://ror.org/019cns802",
+      "works_count": 103,
+      "cited_by_count": 929,
+      "h_index": 16,
+      "i10_index": 26,
+      "fwci": 1.525,
+      "top_concepts": []
+    },
+    {
+      "id": "I50758014",
+      "name": "Daegu Future College",
+      "name_alt": [
+        "Daegu Future College",
+        "Daegu Mirae College",
+        "Daegu Mirae Daehak",
+        "Taegu Mirae Taehak",
+        "大邱未來大學",
+        "대구미래대학"
+      ],
+      "ror": "https://ror.org/03h37fs39",
+      "works_count": 99,
+      "cited_by_count": 1112,
+      "h_index": 19,
+      "i10_index": 26,
+      "fwci": 1.738,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210126809",
+      "name": "Busan Women's College",
+      "name_alt": [
+        "Busan Women's College",
+        "부산여자대학교"
+      ],
+      "ror": "https://ror.org/02zq8hg49",
+      "works_count": 98,
+      "cited_by_count": 1095,
+      "h_index": 16,
+      "i10_index": 20,
+      "fwci": 0.632,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210087830",
+      "name": "Sorabol College",
+      "name_alt": [
+        "Sorabol College",
+        "서라벌대학"
+      ],
+      "ror": "https://ror.org/001hkh847",
+      "works_count": 97,
+      "cited_by_count": 2646,
+      "h_index": 23,
+      "i10_index": 53,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210090418",
+      "name": "Busan Digital University",
+      "name_alt": [
+        "Busan Digital University",
+        "부산 디지털 대학교"
+      ],
+      "ror": "https://ror.org/009x2yy51",
+      "works_count": 90,
+      "cited_by_count": 107,
+      "h_index": 5,
+      "i10_index": 0,
+      "fwci": 0.258,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210112309",
+      "name": "Methodist Theological University",
+      "name_alt": [
+        "Methodist Theological University"
+      ],
+      "ror": "https://ror.org/01wmc1580",
+      "works_count": 89,
+      "cited_by_count": 392,
+      "h_index": 10,
+      "i10_index": 12,
+      "fwci": 6.581,
+      "top_concepts": []
+    },
+    {
+      "id": "I3133283408",
+      "name": "Baekseok Arts University",
+      "name_alt": [
+        "Baekseok Arts University",
+        "백석예술대학교"
+      ],
+      "ror": "https://ror.org/006gp7f65",
+      "works_count": 88,
+      "cited_by_count": 1074,
+      "h_index": 17,
+      "i10_index": 23,
+      "fwci": 3.429,
+      "top_concepts": []
+    },
+    {
+      "id": "I3132616544",
+      "name": "Korea Lift College",
+      "name_alt": [
+        "Geochang Polytechnic College",
+        "Keochang Polytechnic College",
+        "Korea Lift College",
+        "한국승강기대학교"
+      ],
+      "ror": "https://ror.org/028vnkj24",
+      "works_count": 87,
+      "cited_by_count": 703,
+      "h_index": 13,
+      "i10_index": 17,
+      "fwci": 1.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210116410",
+      "name": "Seoul Christian University",
+      "name_alt": [
+        "Seoul Christian University"
+      ],
+      "ror": "https://ror.org/02hngjw26",
+      "works_count": 86,
+      "cited_by_count": 439,
+      "h_index": 10,
+      "i10_index": 10,
+      "fwci": 1.085,
+      "top_concepts": []
+    },
+    {
+      "id": "I3131622615",
+      "name": "Korea National University of Welfare",
+      "name_alt": [
+        "Korea National University of Welfare",
+        "한국복지대학교"
+      ],
+      "ror": "https://ror.org/01h9spb06",
+      "works_count": 85,
+      "cited_by_count": 803,
+      "h_index": 16,
+      "i10_index": 29,
+      "fwci": 0.167,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210099637",
+      "name": "JEI University",
+      "name_alt": [
+        "Incheon Talented University",
+        "JEI University",
+        "인천재능대학교"
+      ],
+      "ror": "https://ror.org/010zncz41",
+      "works_count": 84,
+      "cited_by_count": 606,
+      "h_index": 14,
+      "i10_index": 18,
+      "fwci": 0.455,
+      "top_concepts": []
+    },
+    {
+      "id": "I184359769",
+      "name": "Tongwon University",
+      "name_alt": [
+        "Tongwon University",
+        "동원대학교"
+      ],
+      "ror": "https://ror.org/00zec6783",
+      "works_count": 77,
+      "cited_by_count": 1681,
+      "h_index": 19,
+      "i10_index": 27,
+      "fwci": 1.455,
+      "top_concepts": []
+    },
+    {
+      "id": "I3132567806",
+      "name": "Gyeongnam Provincial Geochang College",
+      "name_alt": [
+        "Gyeongnam Provincial Geochang College",
+        "Gyeongnam Provincial Geochang University",
+        "경남도립거창대학"
+      ],
+      "ror": "https://ror.org/038wddm10",
+      "works_count": 75,
+      "cited_by_count": 388,
+      "h_index": 11,
+      "i10_index": 12,
+      "fwci": 0.812,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210141802",
+      "name": "Korea Counseling Graduate University",
+      "name_alt": [
+        "Korea Counseling Graduate University",
+        "한국상담대학원대학교"
+      ],
+      "ror": "https://ror.org/046xx9480",
+      "works_count": 74,
+      "cited_by_count": 1537,
+      "h_index": 18,
+      "i10_index": 28,
+      "fwci": 0.769,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210144754",
+      "name": "Korean Society of Medical Ultrasound",
+      "name_alt": [
+        "Korean Society of Medical Ultrasound"
+      ],
+      "ror": "https://ror.org/054kry619",
+      "works_count": 73,
+      "cited_by_count": 1360,
+      "h_index": 20,
+      "i10_index": 36,
+      "fwci": 0.254,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210158624",
+      "name": "Hanmin University",
+      "name_alt": [
+        "Hanmin University",
+        "한민학교"
+      ],
+      "ror": "https://ror.org/01jmh2048",
+      "works_count": 73,
+      "cited_by_count": 89,
+      "h_index": 3,
+      "i10_index": 2,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I2802577900",
+      "name": "Korea Baptist Theological University and Seminary",
+      "name_alt": [
+        "Korea Baptist Theological University and Seminary",
+        "침례신학대학교"
+      ],
+      "ror": "https://ror.org/05ehpzq05",
+      "works_count": 72,
+      "cited_by_count": 394,
+      "h_index": 12,
+      "i10_index": 13,
+      "fwci": 0.188,
+      "top_concepts": []
+    },
+    {
+      "id": "I2802888503",
+      "name": "Mokpo Catholic University",
+      "name_alt": [
+        "Mokpo Catholic University",
+        "목포가톨릭대학교"
+      ],
+      "ror": "https://ror.org/03hnckv05",
+      "works_count": 71,
+      "cited_by_count": 1877,
+      "h_index": 22,
+      "i10_index": 41,
+      "fwci": 1.667,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210167384",
+      "name": "Kkottongnae University",
+      "name_alt": [
+        "Kkottongnae University"
+      ],
+      "ror": "https://ror.org/05wgsx832",
+      "works_count": 71,
+      "cited_by_count": 542,
+      "h_index": 13,
+      "i10_index": 22,
+      "fwci": 1.667,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210164548",
+      "name": "Gyeongbuk IT Convergence Industrial Technology Institute",
+      "name_alt": [
+        "Gyeongbuk IT Convergence Industrial Technology Institute",
+        "경북IT융합산업기술원"
+      ],
+      "ror": "https://ror.org/05mfwdr57",
+      "works_count": 70,
+      "cited_by_count": 1670,
+      "h_index": 20,
+      "i10_index": 38,
+      "fwci": 1.545,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210103242",
+      "name": "Daegu Arts University",
+      "name_alt": [
+        "Daegu Arts University",
+        "대구예술대학교"
+      ],
+      "ror": "https://ror.org/01b1rvg28",
+      "works_count": 68,
+      "cited_by_count": 1138,
+      "h_index": 15,
+      "i10_index": 19,
+      "fwci": 1.661,
+      "top_concepts": []
+    },
+    {
+      "id": "I3130884629",
+      "name": "Kundong University",
+      "name_alt": [
+        "Andong Info Tech",
+        "Kundong University",
+        "건동대학교"
+      ],
+      "ror": "https://ror.org/03r6cc113",
+      "works_count": 67,
+      "cited_by_count": 878,
+      "h_index": 18,
+      "i10_index": 22,
+      "fwci": 0.727,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210094513",
+      "name": "Culinary Institute of Korea",
+      "name_alt": [
+        "Culinary Institute of Korea"
+      ],
+      "ror": "https://ror.org/006ec3357",
+      "works_count": 66,
+      "cited_by_count": 1446,
+      "h_index": 12,
+      "i10_index": 13,
+      "fwci": 0.135,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210103467",
+      "name": "Jeju Tourism University",
+      "name_alt": [
+        "Cheju Tourism College",
+        "Jeju Tourism Technical College",
+        "Jeju Tourism University",
+        "제주관광대학교"
+      ],
+      "ror": "https://ror.org/01a00zk92",
+      "works_count": 66,
+      "cited_by_count": 1095,
+      "h_index": 17,
+      "i10_index": 25,
+      "fwci": 6.789,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210089470",
+      "name": "IC Design Education Center",
+      "name_alt": [
+        "IC Design Education Center",
+        "반도체설계 교육센터"
+      ],
+      "ror": "https://ror.org/005v57z85",
+      "works_count": 63,
+      "cited_by_count": 667,
+      "h_index": 13,
+      "i10_index": 18,
+      "fwci": 0.5,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210116335",
+      "name": "Honam Theological University and Seminary",
+      "name_alt": [
+        "Honam Theological University and Seminary",
+        "호남신학대학교"
+      ],
+      "ror": "https://ror.org/02f9rwx65",
+      "works_count": 62,
+      "cited_by_count": 265,
+      "h_index": 8,
+      "i10_index": 8,
+      "fwci": 0.227,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210107379",
+      "name": "Korean Association of Law Schools",
+      "name_alt": [
+        "Korean Association of Law Schools",
+        "Law School Council",
+        "Law School Graduate School Council",
+        "한국 법대"
+      ],
+      "ror": "https://ror.org/01q6hrk40",
+      "works_count": 61,
+      "cited_by_count": 1347,
+      "h_index": 11,
+      "i10_index": 13,
+      "fwci": 0.308,
+      "top_concepts": []
+    },
+    {
+      "id": "I3129355728",
+      "name": "Korea Tourism College",
+      "name_alt": [
+        "Korea Tourism College",
+        "한국관광대학교"
+      ],
+      "ror": "https://ror.org/01dk6as53",
+      "works_count": 50,
+      "cited_by_count": 1289,
+      "h_index": 17,
+      "i10_index": 32,
+      "fwci": 1.75,
+      "top_concepts": []
+    },
+    {
+      "id": "I3129790957",
+      "name": "Chungkang College of Cultural Industries",
+      "name_alt": [
+        "Chungkang College of Cultural Industries",
+        "Chungkang Cultural Industry University",
+        "청강문화산업대학교"
+      ],
+      "ror": "https://ror.org/01n7byd59",
+      "works_count": 48,
+      "cited_by_count": 824,
+      "h_index": 15,
+      "i10_index": 19,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I2801140561",
+      "name": "Hanil University",
+      "name_alt": [
+        "Hanil University",
+        "한일장신대학교"
+      ],
+      "ror": "https://ror.org/057p3dx48",
+      "works_count": 46,
+      "cited_by_count": 625,
+      "h_index": 16,
+      "i10_index": 23,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210093123",
+      "name": "Daejeon Catholic University",
+      "name_alt": [
+        "Daejeon Catholic University"
+      ],
+      "ror": "https://ror.org/00fnry208",
+      "works_count": 41,
+      "cited_by_count": 1575,
+      "h_index": 20,
+      "i10_index": 27,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210119437",
+      "name": "Kaywon University of Art & Design",
+      "name_alt": [
+        "Kaywon University of Art & Design",
+        "케이원 미술 대학"
+      ],
+      "ror": "https://ror.org/02gt4vn57",
+      "works_count": 41,
+      "cited_by_count": 292,
+      "h_index": 8,
+      "i10_index": 7,
+      "fwci": 1.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210116978",
+      "name": "Federation of Busan Science and Technology",
+      "name_alt": [
+        "Federation of Busan Science and Technology",
+        "부산과학기술협의회"
+      ],
+      "ror": "https://ror.org/02ghs8a63",
+      "works_count": 36,
+      "cited_by_count": 292,
+      "h_index": 9,
+      "i10_index": 9,
+      "fwci": 0.414,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210136605",
+      "name": "Seoul Graduate School of Counseling Psychology",
+      "name_alt": [
+        "Seoul Graduate School of Counseling Psychology",
+        "Yongmoon Graduate School of Counseling Psychology",
+        "서울상담심리대학원대학교",
+        "용문 윤리 상담 심리학 연구과"
+      ],
+      "ror": "https://ror.org/03tsmnr35",
+      "works_count": 34,
+      "cited_by_count": 987,
+      "h_index": 18,
+      "i10_index": 22,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210115917",
+      "name": "Seoul Jangsin University",
+      "name_alt": [
+        "Seoul Jangsin University"
+      ],
+      "ror": "https://ror.org/02a7kg544",
+      "works_count": 32,
+      "cited_by_count": 279,
+      "h_index": 10,
+      "i10_index": 10,
+      "fwci": 1.6,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210091836",
+      "name": "Hanyoung Theological University",
+      "name_alt": [
+        "Hanyoung Theological University",
+        "한영신학대학교"
+      ],
+      "ror": "https://ror.org/00ed89w50",
+      "works_count": 30,
+      "cited_by_count": 319,
+      "h_index": 10,
+      "i10_index": 10,
+      "fwci": 0.4,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210116514",
+      "name": "Seoul University of Buddhism",
+      "name_alt": [
+        "Seoul University of Buddhism",
+        "서울불교대학원대학교"
+      ],
+      "ror": "https://ror.org/02an5qv02",
+      "works_count": 30,
+      "cited_by_count": 182,
+      "h_index": 8,
+      "i10_index": 8,
+      "fwci": 3.556,
+      "top_concepts": []
+    },
+    {
+      "id": "I3129924757",
+      "name": "Torch Trinity Graduate University",
+      "name_alt": [
+        "Torch Trinity Graduate School of Theology",
+        "Torch Trinity Graduate University",
+        "횃불트리니티신학대학원대학교"
+      ],
+      "ror": "https://ror.org/05rgcq967",
+      "works_count": 28,
+      "cited_by_count": 301,
+      "h_index": 6,
+      "i10_index": 6,
+      "fwci": 1.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210157874",
+      "name": "Youngnam Foreign Language College",
+      "name_alt": [
+        "Youngnam Foreign Language College",
+        "영남 외국어 대학"
+      ],
+      "ror": "https://ror.org/04m8f9392",
+      "works_count": 28,
+      "cited_by_count": 338,
+      "h_index": 11,
+      "i10_index": 11,
+      "fwci": 0.5,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210162182",
+      "name": "Open Cyber University of Korea",
+      "name_alt": [
+        "Korea’s first cyber university",
+        "Open Cyber University of Korea",
+        "한국열린사이버대학교"
+      ],
+      "ror": "https://ror.org/05c1vs952",
+      "works_count": 27,
+      "cited_by_count": 243,
+      "h_index": 8,
+      "i10_index": 6,
+      "fwci": 1.154,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210115866",
+      "name": "Westminster Graduate School of Theology",
+      "name_alt": [
+        "Westminster Graduate School of Theology",
+        "웨스트민스터신학대학원대학교"
+      ],
+      "ror": "https://ror.org/028bgy326",
+      "works_count": 24,
+      "cited_by_count": 54,
+      "h_index": 6,
+      "i10_index": 0,
+      "fwci": 0.778,
+      "top_concepts": []
+    },
+    {
+      "id": "I3129659404",
+      "name": "Seoul Institute of the Arts",
+      "name_alt": [
+        "Seoul Institute of the Arts",
+        "SeoulArts",
+        "서울 예술 대학"
+      ],
+      "ror": "https://ror.org/01b4h2w02",
+      "works_count": 23,
+      "cited_by_count": 134,
+      "h_index": 4,
+      "i10_index": 2,
+      "fwci": 0.44,
+      "top_concepts": []
+    },
+    {
+      "id": "I2801204984",
+      "name": "Youngnam Theological University and Seminary",
+      "name_alt": [
+        "Youngnam Seminary",
+        "Youngnam Theological University and Seminary",
+        "영남신학대학교"
+      ],
+      "ror": "https://ror.org/00r614q54",
+      "works_count": 22,
+      "cited_by_count": 102,
+      "h_index": 6,
+      "i10_index": 2,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I2800522046",
+      "name": "Yewon Arts University",
+      "name_alt": [
+        "Yewon Arts University",
+        "예원예술대학교"
+      ],
+      "ror": "https://ror.org/037gx5d02",
+      "works_count": 21,
+      "cited_by_count": 209,
+      "h_index": 9,
+      "i10_index": 9,
+      "fwci": 0.429,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210108309",
+      "name": "Korean Society of Critical Care Medicine",
+      "name_alt": [
+        "Korean Society of Critical Care Medicine",
+        "대한중환자의학회"
+      ],
+      "ror": "https://ror.org/01s24yr42",
+      "works_count": 19,
+      "cited_by_count": 49,
+      "h_index": 3,
+      "i10_index": 2,
+      "fwci": 0.2,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210133332",
+      "name": "BiofoodCRO (South Korea)",
+      "name_alt": [
+        "BiofoodCRO (South Korea)",
+        "바이오푸드 CRO"
+      ],
+      "ror": "https://ror.org/03jt3fb13",
+      "works_count": 19,
+      "cited_by_count": 559,
+      "h_index": 10,
+      "i10_index": 13,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I2799406666",
+      "name": "Asian Center for Theological Studies and Mission",
+      "name_alt": [
+        "Asian Center for Theological Studies and Mission",
+        "아세아연합신학대학교"
+      ],
+      "ror": "https://ror.org/02q017026",
+      "works_count": 17,
+      "cited_by_count": 338,
+      "h_index": 4,
+      "i10_index": 2,
+      "fwci": 0.2,
+      "top_concepts": []
+    },
+    {
+      "id": "I2799421115",
+      "name": "Geumgang University",
+      "name_alt": [
+        "Geumgang University",
+        "금강대학교"
+      ],
+      "ror": "https://ror.org/05qx3ve03",
+      "works_count": 17,
+      "cited_by_count": 231,
+      "h_index": 7,
+      "i10_index": 7,
+      "fwci": 2.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I2802714772",
+      "name": "Busan Presbyterian University",
+      "name_alt": [
+        "Busan Jangsin University",
+        "Busan Presbyterian University",
+        "부산장신대학교"
+      ],
+      "ror": "https://ror.org/01szxxe12",
+      "works_count": 17,
+      "cited_by_count": 174,
+      "h_index": 6,
+      "i10_index": 4,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210114925",
+      "name": "The Korean Society of British and American Fiction",
+      "name_alt": [
+        "The Korean Society of British and American Fiction",
+        "한국근대영미소설학회"
+      ],
+      "ror": "https://ror.org/028dztp68",
+      "works_count": 17,
+      "cited_by_count": 630,
+      "h_index": 11,
+      "i10_index": 20,
+      "fwci": 4.632,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210146597",
+      "name": "Joong-Ang Sangha University",
+      "name_alt": [
+        "Joong-Ang Sangha University"
+      ],
+      "ror": "https://ror.org/051et2y58",
+      "works_count": 17,
+      "cited_by_count": 174,
+      "h_index": 5,
+      "i10_index": 4,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210150712",
+      "name": "Asia Life University",
+      "name_alt": [
+        "Asia Life University",
+        "복음신학대학원대학교"
+      ],
+      "ror": "https://ror.org/05bxxrz27",
+      "works_count": 17,
+      "cited_by_count": 179,
+      "h_index": 7,
+      "i10_index": 3,
+      "fwci": 0.2,
+      "top_concepts": []
+    },
+    {
+      "id": "I2801346348",
+      "name": "Daegu University of Foreign Studies",
+      "name_alt": [
+        "Daegu University of Foreign Studies",
+        "대구외국어대학교"
+      ],
+      "ror": "https://ror.org/01z7qjn33",
+      "works_count": 16,
+      "cited_by_count": 390,
+      "h_index": 8,
+      "i10_index": 6,
+      "fwci": 0.5,
+      "top_concepts": []
+    },
+    {
+      "id": "I2965430172",
+      "name": "Chugye University for the Arts",
+      "name_alt": [
+        "Chugye University for the Arts",
+        "추계예술대학교"
+      ],
+      "ror": "https://ror.org/01bzvkv54",
+      "works_count": 16,
+      "cited_by_count": 96,
+      "h_index": 4,
+      "i10_index": 3,
+      "fwci": 6.455,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210105126",
+      "name": "Sungsan Hyo University",
+      "name_alt": [
+        "Seongsan Effect Graduate University",
+        "Sungsan Hyo University",
+        "성산효대학원대학교"
+      ],
+      "ror": "https://ror.org/016jxdz70",
+      "works_count": 16,
+      "cited_by_count": 536,
+      "h_index": 8,
+      "i10_index": 8,
+      "fwci": 5.5,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210146338",
+      "name": "Transnational Law and Business University",
+      "name_alt": [
+        "Transnational Law and Business University",
+        "국제법률경영대학원대학교"
+      ],
+      "ror": "https://ror.org/03ckbnn72",
+      "works_count": 16,
+      "cited_by_count": 73,
+      "h_index": 6,
+      "i10_index": 2,
+      "fwci": 3.75,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210155112",
+      "name": "Korean Society of Educational Technology",
+      "name_alt": [
+        "Korean Educational Technology Institute",
+        "Korean Society of Educational Technology",
+        "한국교육공학회"
+      ],
+      "ror": "https://ror.org/04a44dr33",
+      "works_count": 16,
+      "cited_by_count": 40,
+      "h_index": 5,
+      "i10_index": 1,
+      "fwci": 0.933,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210159727",
+      "name": "Korea Lifelong Education Center",
+      "name_alt": [
+        "Korea Lifelong Education Center",
+        "한국평생교육원"
+      ],
+      "ror": "https://ror.org/05k7yfd33",
+      "works_count": 13,
+      "cited_by_count": 81,
+      "h_index": 3,
+      "i10_index": 1,
+      "fwci": 1.6,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210102187",
+      "name": "Korea Children's Rights Society",
+      "name_alt": [
+        "Korea Children's Rights Society",
+        "한국아동권리학회"
+      ],
+      "ror": "https://ror.org/01ayka222",
+      "works_count": 11,
+      "cited_by_count": 60,
+      "h_index": 4,
+      "i10_index": 4,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210130128",
+      "name": "Daeshin University",
+      "name_alt": [
+        "Daeshin University",
+        "Taeshin Christian University",
+        "대신대학교"
+      ],
+      "ror": "https://ror.org/0398xv274",
+      "works_count": 9,
+      "cited_by_count": 75,
+      "h_index": 4,
+      "i10_index": 3,
+      "fwci": 12.333,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210139219",
+      "name": "Reformed Graduate University",
+      "name_alt": [
+        "Reformed Graduate University"
+      ],
+      "ror": "https://ror.org/03fmpbg41",
+      "works_count": 9,
+      "cited_by_count": 1,
+      "h_index": 1,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210134605",
+      "name": "Gwangju Catholic University",
+      "name_alt": [
+        "Gwangju Catholic University",
+        "광주가톨릭대학교"
+      ],
+      "ror": "https://ror.org/03vhwes25",
+      "works_count": 7,
+      "cited_by_count": 76,
+      "h_index": 5,
+      "i10_index": 4,
+      "fwci": 6.6,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210153770",
+      "name": "Gukje Cyber University",
+      "name_alt": [
+        "Gukje Cyber University",
+        "국제사이버대학교"
+      ],
+      "ror": "https://ror.org/05910xk89",
+      "works_count": 7,
+      "cited_by_count": 19,
+      "h_index": 1,
+      "i10_index": 1,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210095749",
+      "name": "Reformed Theological Institute",
+      "name_alt": [
+        "Reformed Theological Institute",
+        "개혁 신학 연구원"
+      ],
+      "ror": "https://ror.org/00b7g1a82",
+      "works_count": 6,
+      "cited_by_count": 6,
+      "h_index": 1,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210165235",
+      "name": "Berea International Theological Seminary",
+      "name_alt": [
+        "Berea International Theological Seminary",
+        "Berea University of Graduate Studies",
+        "베뢰아국제대학원대학교"
+      ],
+      "ror": "https://ror.org/05kc0qv85",
+      "works_count": 6,
+      "cited_by_count": 8,
+      "h_index": 2,
+      "i10_index": 0,
+      "fwci": 1.333,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210142809",
+      "name": "National Gugak Center",
+      "name_alt": [
+        "National Gugak Center",
+        "국립국악원"
+      ],
+      "ror": "https://ror.org/03ay16t61",
+      "works_count": 4,
+      "cited_by_count": 5,
+      "h_index": 1,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210165717",
+      "name": "Korea Academy of Mental Health Social Work",
+      "name_alt": [
+        "Korea Academy of Mental Health Social Work",
+        "한국정신보건사회복지학회"
+      ],
+      "ror": "https://ror.org/05kh3e232",
+      "works_count": 4,
+      "cited_by_count": 20,
+      "h_index": 2,
+      "i10_index": 2,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210097242",
+      "name": "Daejeon Theological University",
+      "name_alt": [
+        "Daejeon Theological University"
+      ],
+      "ror": "https://ror.org/00djdkd68",
+      "works_count": 2,
+      "cited_by_count": 1,
+      "h_index": 1,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210106858",
+      "name": "Daehan Theological University",
+      "name_alt": [
+        "Daehan Theological University",
+        "대한신학대학원대학교"
+      ],
+      "ror": "https://ror.org/01smbry50",
+      "works_count": 1,
+      "cited_by_count": 2,
+      "h_index": 1,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210157028",
+      "name": "Korea Corporate Education Center",
+      "name_alt": [
+        "Korea Corporate Education Center",
+        "한국기업교육센터"
+      ],
+      "ror": "https://ror.org/05e81p556",
+      "works_count": 1,
+      "cited_by_count": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210102346",
+      "name": "Youngsan University of Son Studies",
+      "name_alt": [
+        "Youngsan University of Son Studies",
+        "영산선학대학교"
+      ],
+      "ror": "https://ror.org/00myp7129",
+      "works_count": 0,
+      "cited_by_count": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210132275",
+      "name": "Korea Tourism Research Association",
+      "name_alt": [
+        "Korea Tourism Research Association",
+        "한국관광연구학회"
+      ],
+      "ror": "https://ror.org/03vhyy859",
+      "works_count": 0,
+      "cited_by_count": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4210147698",
+      "name": "Korean-German Vocational College",
+      "name_alt": [
+        "Korean-German Vocational College",
+        "한독직업전문학교"
+      ],
+      "ror": "https://ror.org/051pt2g47",
+      "works_count": 0,
+      "cited_by_count": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4405254108",
+      "name": "Seoul Digital University",
+      "name_alt": [
+        "Seoul Digital University",
+        "서울디지털대학교"
+      ],
+      "ror": "https://ror.org/01e666568",
+      "works_count": 0,
+      "cited_by_count": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4405258537",
+      "name": "Korea National College of Agriculture and Fisheries",
+      "name_alt": [
+        "Korea National College of Agriculture and Fisheries",
+        "한국농수산대학교",
+        "한국농업대학",
+        "한국농업전문학교"
+      ],
+      "ror": "https://ror.org/00vn4ec76",
+      "works_count": 0,
+      "cited_by_count": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4405258769",
+      "name": "Yonsei University Mirae Campus",
+      "name_alt": [
+        "Yonsei University Mirae Campus",
+        "Yonsei University Wonju Campus",
+        "연세대학교 미래캠퍼스",
+        "연세대학교 원주캠퍼스"
+      ],
+      "ror": "https://ror.org/0160gc229",
+      "works_count": 0,
+      "cited_by_count": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4405260054",
+      "name": "KDI School of Public Policy and Management",
+      "name_alt": [
+        "KDI School",
+        "KDI School of Public Policy and Management",
+        "KDI 국제정책대학원대학교",
+        "한국개발연구원 국제정책대학원대학교"
+      ],
+      "ror": "https://ror.org/035g89j34",
+      "works_count": 0,
+      "cited_by_count": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4405261169",
+      "name": "Gyeonggi Institute of Education",
+      "name_alt": [
+        "Gyeonggi Institute of Education",
+        "경기도교육연구원"
+      ],
+      "ror": "https://ror.org/04x0xky69",
+      "works_count": 0,
+      "cited_by_count": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4405261192",
+      "name": "Korea Society of Computer Information",
+      "name_alt": [
+        "Korea Society of Computer Information",
+        "한국컴퓨터정보학회"
+      ],
+      "ror": "https://ror.org/04y865p48",
+      "works_count": 0,
+      "cited_by_count": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    },
+    {
+      "id": "I4405261402",
+      "name": "Gyeongbuk College of Health",
+      "name_alt": [
+        "Gyeongbuk College of Health",
+        "Kimcheon Science College",
+        "경북보건대학교"
+      ],
+      "ror": "https://ror.org/058gwcb74",
+      "works_count": 0,
+      "cited_by_count": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "fwci": 0.0,
+      "top_concepts": []
+    }
+  ]
+}
