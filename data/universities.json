@@ -1,5 +1,5 @@
 {
-  "updated": "",
+  "updated": "2026-06-04",
   "count": 370,
   "universities": [
     {
@@ -16,7 +16,8 @@
       "h_index": 956,
       "i10_index": 350430,
       "fwci": 3.535,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "서울대학교"
     },
     {
       "id": "I193775966",
@@ -31,7 +32,8 @@
       "h_index": 678,
       "i10_index": 249055,
       "fwci": 3.634,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "연세대학교"
     },
     {
       "id": "I848706",
@@ -46,7 +48,8 @@
       "h_index": 701,
       "i10_index": 195635,
       "fwci": 4.641,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "성균관대학교"
     },
     {
       "id": "I197347611",
@@ -63,7 +66,8 @@
       "h_index": 642,
       "i10_index": 167081,
       "fwci": 5.277,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "고려대학교"
     },
     {
       "id": "I157485424",
@@ -78,7 +82,8 @@
       "h_index": 666,
       "i10_index": 144191,
       "fwci": 4.878,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한국과학기술원(KAIST)"
     },
     {
       "id": "I4575257",
@@ -93,7 +98,8 @@
       "h_index": 510,
       "i10_index": 102548,
       "fwci": 4.202,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한양대학교"
     },
     {
       "id": "I35928602",
@@ -108,7 +114,8 @@
       "h_index": 452,
       "i10_index": 94029,
       "fwci": 4.441,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "경희대학교"
     },
     {
       "id": "I31419693",
@@ -123,7 +130,8 @@
       "h_index": 504,
       "i10_index": 95535,
       "fwci": 1.603,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "경북대학교"
     },
     {
       "id": "I4921948",
@@ -140,7 +148,8 @@
       "h_index": 454,
       "i10_index": 82653,
       "fwci": 3.065,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "부산대학교"
     },
     {
       "id": "I40542001",
@@ -155,7 +164,8 @@
       "h_index": 486,
       "i10_index": 108606,
       "fwci": 4.116,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "울산대학교"
     },
     {
       "id": "I123900574",
@@ -170,7 +180,8 @@
       "h_index": 592,
       "i10_index": 83463,
       "fwci": 5.593,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "포항공과대학교(POSTECH)"
     },
     {
       "id": "I196345858",
@@ -185,7 +196,8 @@
       "h_index": 332,
       "i10_index": 56928,
       "fwci": 3.046,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "충남대학교"
     },
     {
       "id": "I87111246",
@@ -200,7 +212,8 @@
       "h_index": 334,
       "i10_index": 74428,
       "fwci": 2.692,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "가톨릭대학교"
     },
     {
       "id": "I111277659",
@@ -215,7 +228,8 @@
       "h_index": 424,
       "i10_index": 69790,
       "fwci": 3.788,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "전남대학교"
     },
     {
       "id": "I80611190",
@@ -232,7 +246,8 @@
       "h_index": 369,
       "i10_index": 60139,
       "fwci": 3.699,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "전북대학교"
     },
     {
       "id": "I67900169",
@@ -247,7 +262,8 @@
       "h_index": 300,
       "i10_index": 48616,
       "fwci": 3.49,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "중앙대학교"
     },
     {
       "id": "I191879574",
@@ -262,7 +278,8 @@
       "h_index": 354,
       "i10_index": 47339,
       "fwci": 4.378,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "인하대학교"
     },
     {
       "id": "I57664883",
@@ -277,7 +294,8 @@
       "h_index": 326,
       "i10_index": 44104,
       "fwci": 3.32,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "아주대학교"
     },
     {
       "id": "I116631150",
@@ -294,7 +312,8 @@
       "h_index": 426,
       "i10_index": 79970,
       "fwci": 4.736,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "울산과학대학교"
     },
     {
       "id": "I138925566",
@@ -309,7 +328,8 @@
       "h_index": 442,
       "i10_index": 45765,
       "fwci": 3.612,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "이화여자대학교"
     },
     {
       "id": "I55240360",
@@ -324,7 +344,8 @@
       "h_index": 323,
       "i10_index": 42497,
       "fwci": 7.072,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "영남대학교"
     },
     {
       "id": "I24062138",
@@ -339,7 +360,8 @@
       "h_index": 368,
       "i10_index": 53355,
       "fwci": 3.767,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "건국대학교"
     },
     {
       "id": "I163753206",
@@ -354,7 +376,8 @@
       "h_index": 291,
       "i10_index": 36370,
       "fwci": 2.722,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "충북대학교"
     },
     {
       "id": "I189442560",
@@ -369,7 +392,8 @@
       "h_index": 324,
       "i10_index": 43570,
       "fwci": 3.411,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "경상국립대학교"
     },
     {
       "id": "I165507594",
@@ -384,7 +408,8 @@
       "h_index": 317,
       "i10_index": 35658,
       "fwci": 3.184,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "강원대학교"
     },
     {
       "id": "I28777354",
@@ -399,7 +424,8 @@
       "h_index": 372,
       "i10_index": 30099,
       "fwci": 5.71,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "세종대학교"
     },
     {
       "id": "I205490536",
@@ -414,7 +440,8 @@
       "h_index": 305,
       "i10_index": 28575,
       "fwci": 4.903,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "동국대학교"
     },
     {
       "id": "I88761825",
@@ -430,7 +457,8 @@
       "h_index": 322,
       "i10_index": 28862,
       "fwci": 4.26,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한국과학기술연합대학원대학교(UST)"
     },
     {
       "id": "I8991828",
@@ -445,7 +473,8 @@
       "h_index": 272,
       "i10_index": 24674,
       "fwci": 3.944,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "부경대학교"
     },
     {
       "id": "I12832649",
@@ -460,7 +489,8 @@
       "h_index": 251,
       "i10_index": 23596,
       "fwci": 5.217,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "가천대학교"
     },
     {
       "id": "I39534123",
@@ -476,7 +506,8 @@
       "h_index": 374,
       "i10_index": 33628,
       "fwci": 4.754,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "광주과학기술원(GIST)"
     },
     {
       "id": "I89015989",
@@ -491,7 +522,8 @@
       "h_index": 255,
       "i10_index": 20205,
       "fwci": 3.082,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "단국대학교"
     },
     {
       "id": "I48566637",
@@ -508,7 +540,8 @@
       "h_index": 530,
       "i10_index": 34820,
       "fwci": 6.592,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "울산과학기술원(UNIST)"
     },
     {
       "id": "I146824383",
@@ -523,7 +556,8 @@
       "h_index": 296,
       "i10_index": 27990,
       "fwci": 3.686,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한림대학교"
     },
     {
       "id": "I152238500",
@@ -538,7 +572,8 @@
       "h_index": 203,
       "i10_index": 18194,
       "fwci": 3.075,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "조선대학교"
     },
     {
       "id": "I24541011",
@@ -553,7 +588,8 @@
       "h_index": 244,
       "i10_index": 20061,
       "fwci": 2.861,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "순천향대학교"
     },
     {
       "id": "I52010207",
@@ -569,7 +605,8 @@
       "h_index": 223,
       "i10_index": 15940,
       "fwci": 2.53,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "계명대학교"
     },
     {
       "id": "I148751991",
@@ -584,7 +621,8 @@
       "h_index": 249,
       "i10_index": 17273,
       "fwci": 3.518,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "서강대학교"
     },
     {
       "id": "I83202590",
@@ -599,7 +637,8 @@
       "h_index": 239,
       "i10_index": 18693,
       "fwci": 3.461,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "제주대학교"
     },
     {
       "id": "I51226738",
@@ -614,7 +653,8 @@
       "h_index": 236,
       "i10_index": 15279,
       "fwci": 2.473,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "동아대학교"
     },
     {
       "id": "I118373667",
@@ -630,7 +670,8 @@
       "h_index": 211,
       "i10_index": 12926,
       "fwci": 3.536,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "서울과학기술대학교"
     },
     {
       "id": "I77079311",
@@ -645,7 +686,8 @@
       "h_index": 226,
       "i10_index": 17899,
       "fwci": 2.388,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "원광대학교"
     },
     {
       "id": "I124633538",
@@ -660,7 +702,8 @@
       "h_index": 316,
       "i10_index": 19909,
       "fwci": 3.685,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "서울시립대학교"
     },
     {
       "id": "I146429904",
@@ -676,7 +719,8 @@
       "h_index": 179,
       "i10_index": 10531,
       "fwci": 2.871,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "인천대학교"
     },
     {
       "id": "I104338594",
@@ -691,7 +735,8 @@
       "h_index": 260,
       "i10_index": 15019,
       "fwci": 3.896,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "인제대학교"
     },
     {
       "id": "I141371507",
@@ -706,7 +751,8 @@
       "h_index": 212,
       "i10_index": 10143,
       "fwci": 3.028,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "숭실대학교"
     },
     {
       "id": "I4210148737",
@@ -721,7 +767,8 @@
       "h_index": 217,
       "i10_index": 17419,
       "fwci": 3.256,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "차의과학대학교"
     },
     {
       "id": "I110273157",
@@ -736,7 +783,8 @@
       "h_index": 199,
       "i10_index": 10765,
       "fwci": 3.128,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "국민대학교"
     },
     {
       "id": "I161024014",
@@ -751,7 +799,8 @@
       "h_index": 209,
       "i10_index": 12593,
       "fwci": 5.539,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "광운대학교"
     },
     {
       "id": "I206597221",
@@ -766,7 +815,8 @@
       "h_index": 167,
       "i10_index": 8588,
       "fwci": 2.558,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "공주대학교"
     },
     {
       "id": "I94588446",
@@ -781,7 +831,8 @@
       "h_index": 171,
       "i10_index": 6966,
       "fwci": 3.551,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "홍익대학교"
     },
     {
       "id": "I174101054",
@@ -796,7 +847,8 @@
       "h_index": 171,
       "i10_index": 9608,
       "fwci": 2.516,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "창원대학교"
     },
     {
       "id": "I39705031",
@@ -812,7 +864,8 @@
       "h_index": 150,
       "i10_index": 8039,
       "fwci": 1.959,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "대구가톨릭대학교"
     },
     {
       "id": "I21028721",
@@ -827,7 +880,8 @@
       "h_index": 163,
       "i10_index": 7921,
       "fwci": 1.875,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "을지대학교"
     },
     {
       "id": "I93906172",
@@ -842,7 +896,8 @@
       "h_index": 210,
       "i10_index": 11755,
       "fwci": 4.876,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "안양대학교"
     },
     {
       "id": "I199143407",
@@ -858,7 +913,8 @@
       "h_index": 185,
       "i10_index": 8492,
       "fwci": 1.918,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "순천대학교"
     },
     {
       "id": "I193352282",
@@ -873,7 +929,8 @@
       "h_index": 256,
       "i10_index": 12490,
       "fwci": 5.184,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "대구경북과학기술원(DGIST)"
     },
     {
       "id": "I83436808",
@@ -888,7 +945,8 @@
       "h_index": 144,
       "i10_index": 4265,
       "fwci": 1.651,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한국외국어대학교"
     },
     {
       "id": "I89440247",
@@ -903,7 +961,8 @@
       "h_index": 243,
       "i10_index": 9007,
       "fwci": 2.935,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "명지대학교"
     },
     {
       "id": "I28615091",
@@ -918,7 +977,8 @@
       "h_index": 163,
       "i10_index": 5515,
       "fwci": 3.564,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "경기대학교"
     },
     {
       "id": "I31766871",
@@ -933,7 +993,8 @@
       "h_index": 181,
       "i10_index": 7756,
       "fwci": 3.196,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "숙명여자대학교"
     },
     {
       "id": "I120158604",
@@ -948,7 +1009,8 @@
       "h_index": 151,
       "i10_index": 4401,
       "fwci": 3.092,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "군산대학교"
     },
     {
       "id": "I133533813",
@@ -963,7 +1025,8 @@
       "h_index": 275,
       "i10_index": 6443,
       "fwci": 2.829,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "강릉원주대학교"
     },
     {
       "id": "I204974687",
@@ -978,7 +1041,8 @@
       "h_index": 147,
       "i10_index": 4851,
       "fwci": 2.239,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "동의대학교"
     },
     {
       "id": "I9323808",
@@ -993,7 +1057,8 @@
       "h_index": 159,
       "i10_index": 4895,
       "fwci": 2.128,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "대구대학교"
     },
     {
       "id": "I197867492",
@@ -1008,7 +1073,8 @@
       "h_index": 117,
       "i10_index": 4468,
       "fwci": 3.151,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한국해양대학교"
     },
     {
       "id": "I113409471",
@@ -1025,7 +1091,8 @@
       "h_index": 171,
       "i10_index": 5613,
       "fwci": 4.294,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "금오공과대학교"
     },
     {
       "id": "I2801009184",
@@ -1041,7 +1108,8 @@
       "h_index": 160,
       "i10_index": 2504,
       "fwci": 0.413,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I145808223",
@@ -1056,7 +1124,8 @@
       "h_index": 156,
       "i10_index": 4872,
       "fwci": 2.5,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한밭대학교"
     },
     {
       "id": "I4210108341",
@@ -1071,7 +1140,8 @@
       "h_index": 196,
       "i10_index": 10200,
       "fwci": 4.125,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I113018520",
@@ -1091,7 +1161,8 @@
       "h_index": 128,
       "i10_index": 3984,
       "fwci": 2.732,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I119575151",
@@ -1106,7 +1177,8 @@
       "h_index": 133,
       "i10_index": 4196,
       "fwci": 3.507,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한국교통대학교"
     },
     {
       "id": "I119522612",
@@ -1121,7 +1193,8 @@
       "h_index": 185,
       "i10_index": 7873,
       "fwci": 1.655,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "대전대학교"
     },
     {
       "id": "I89079967",
@@ -1137,7 +1210,8 @@
       "h_index": 151,
       "i10_index": 5305,
       "fwci": 2.958,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "가톨릭관동대학교"
     },
     {
       "id": "I144648050",
@@ -1152,7 +1226,8 @@
       "h_index": 144,
       "i10_index": 3360,
       "fwci": 9.687,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "용인대학교"
     },
     {
       "id": "I162706563",
@@ -1167,7 +1242,8 @@
       "h_index": 135,
       "i10_index": 3657,
       "fwci": 2.029,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "호서대학교"
     },
     {
       "id": "I165028127",
@@ -1182,7 +1258,8 @@
       "h_index": 133,
       "i10_index": 5325,
       "fwci": 2.877,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "건양대학교"
     },
     {
       "id": "I157264075",
@@ -1197,7 +1274,8 @@
       "h_index": 121,
       "i10_index": 3244,
       "fwci": 2.828,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "상명대학교"
     },
     {
       "id": "I4210089892",
@@ -1213,7 +1291,8 @@
       "h_index": 79,
       "i10_index": 973,
       "fwci": 0.213,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I112728665",
@@ -1228,7 +1307,8 @@
       "h_index": 149,
       "i10_index": 3530,
       "fwci": 1.151,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한남대학교"
     },
     {
       "id": "I11893660",
@@ -1243,7 +1323,8 @@
       "h_index": 157,
       "i10_index": 3848,
       "fwci": 2.445,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "목포대학교"
     },
     {
       "id": "I119060216",
@@ -1258,7 +1339,8 @@
       "h_index": 108,
       "i10_index": 2626,
       "fwci": 2.503,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한경국립대학교"
     },
     {
       "id": "I24456540",
@@ -1274,7 +1356,8 @@
       "h_index": 115,
       "i10_index": 3232,
       "fwci": 2.045,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한국항공대학교"
     },
     {
       "id": "I63562232",
@@ -1289,7 +1372,8 @@
       "h_index": 130,
       "i10_index": 3822,
       "fwci": 2.543,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "부천대학교"
     },
     {
       "id": "I51926615",
@@ -1304,7 +1388,8 @@
       "h_index": 118,
       "i10_index": 3358,
       "fwci": 2.153,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "선문대학교"
     },
     {
       "id": "I35886859",
@@ -1320,7 +1405,8 @@
       "h_index": 104,
       "i10_index": 2470,
       "fwci": 4.021,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한국기술교육대학교"
     },
     {
       "id": "I90735388",
@@ -1335,7 +1421,8 @@
       "h_index": 119,
       "i10_index": 3514,
       "fwci": 2.469,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "고신대학교"
     },
     {
       "id": "I71007489",
@@ -1350,7 +1437,8 @@
       "h_index": 130,
       "i10_index": 2557,
       "fwci": 2.304,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "경남대학교"
     },
     {
       "id": "I158743462",
@@ -1365,7 +1453,8 @@
       "h_index": 143,
       "i10_index": 2683,
       "fwci": 2.828,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "서울교육대학교"
     },
     {
       "id": "I70591777",
@@ -1380,7 +1469,8 @@
       "h_index": 125,
       "i10_index": 2605,
       "fwci": 2.801,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "전주대학교"
     },
     {
       "id": "I22586776",
@@ -1395,7 +1485,8 @@
       "h_index": 88,
       "i10_index": 1793,
       "fwci": 1.882,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "청주대학교"
     },
     {
       "id": "I16764540",
@@ -1410,7 +1501,8 @@
       "h_index": 125,
       "i10_index": 2318,
       "fwci": 3.562,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "수원대학교"
     },
     {
       "id": "I3132035342",
@@ -1425,7 +1517,8 @@
       "h_index": 128,
       "i10_index": 3268,
       "fwci": 2.4,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I98600543",
@@ -1440,7 +1533,8 @@
       "h_index": 138,
       "i10_index": 2458,
       "fwci": 2.034,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "서울여자대학교"
     },
     {
       "id": "I4210100281",
@@ -1456,7 +1550,8 @@
       "h_index": 95,
       "i10_index": 1021,
       "fwci": 1.228,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I165677929",
@@ -1471,7 +1566,8 @@
       "h_index": 105,
       "i10_index": 1845,
       "fwci": 2.385,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "성신여자대학교"
     },
     {
       "id": "I118722661",
@@ -1486,7 +1582,8 @@
       "h_index": 104,
       "i10_index": 2108,
       "fwci": 2.245,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "경성대학교"
     },
     {
       "id": "I27941296",
@@ -1502,7 +1599,8 @@
       "h_index": 124,
       "i10_index": 2886,
       "fwci": 2.249,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "삼육대학교"
     },
     {
       "id": "I9507",
@@ -1517,7 +1615,8 @@
       "h_index": 96,
       "i10_index": 1858,
       "fwci": 1.825,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "상지대학교"
     },
     {
       "id": "I147238563",
@@ -1531,7 +1630,8 @@
       "h_index": 97,
       "i10_index": 1884,
       "fwci": 2.265,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한서대학교"
     },
     {
       "id": "I4210107427",
@@ -1545,7 +1645,8 @@
       "h_index": 84,
       "i10_index": 633,
       "fwci": 0.683,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I7446070",
@@ -1560,7 +1661,8 @@
       "h_index": 108,
       "i10_index": 2085,
       "fwci": 2.763,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "우석대학교"
     },
     {
       "id": "I4210107562",
@@ -1574,7 +1676,8 @@
       "h_index": 80,
       "i10_index": 1326,
       "fwci": 1.953,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "세명대학교"
     },
     {
       "id": "I1322422313",
@@ -1592,7 +1695,8 @@
       "h_index": 102,
       "i10_index": 1676,
       "fwci": 1.716,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210123920",
@@ -1607,7 +1711,8 @@
       "h_index": 97,
       "i10_index": 1742,
       "fwci": 1.296,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "신라대학교"
     },
     {
       "id": "I85389745",
@@ -1622,7 +1727,8 @@
       "h_index": 85,
       "i10_index": 1021,
       "fwci": 2.968,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "우송대학교"
     },
     {
       "id": "I138826464",
@@ -1637,7 +1743,8 @@
       "h_index": 109,
       "i10_index": 2762,
       "fwci": 1.744,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "대구한의대학교"
     },
     {
       "id": "I4210158432",
@@ -1651,7 +1758,8 @@
       "h_index": 219,
       "i10_index": 1895,
       "fwci": 6.256,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I102786147",
@@ -1666,7 +1774,8 @@
       "h_index": 101,
       "i10_index": 1355,
       "fwci": 1.94,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "동서대학교"
     },
     {
       "id": "I65832422",
@@ -1682,7 +1791,8 @@
       "h_index": 110,
       "i10_index": 1906,
       "fwci": 3.686,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "덕성여자대학교"
     },
     {
       "id": "I159299179",
@@ -1697,7 +1807,8 @@
       "h_index": 88,
       "i10_index": 1267,
       "fwci": 1.596,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I129672417",
@@ -1713,7 +1824,8 @@
       "h_index": 87,
       "i10_index": 775,
       "fwci": 1.696,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "남서울대학교"
     },
     {
       "id": "I151811957",
@@ -1728,7 +1840,8 @@
       "h_index": 113,
       "i10_index": 1949,
       "fwci": 2.373,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "경남과학기술대학교"
     },
     {
       "id": "I4210090949",
@@ -1744,7 +1857,8 @@
       "h_index": 101,
       "i10_index": 1170,
       "fwci": 1.685,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I52510681",
@@ -1759,7 +1873,8 @@
       "h_index": 73,
       "i10_index": 873,
       "fwci": 1.596,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "대진대학교"
     },
     {
       "id": "I4210104306",
@@ -1774,7 +1889,8 @@
       "h_index": 62,
       "i10_index": 608,
       "fwci": 1.664,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "동명대학교"
     },
     {
       "id": "I110217816",
@@ -1789,7 +1905,8 @@
       "h_index": 89,
       "i10_index": 1073,
       "fwci": 2.595,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "동덕여자대학교"
     },
     {
       "id": "I110118728",
@@ -1804,7 +1921,8 @@
       "h_index": 119,
       "i10_index": 1533,
       "fwci": 3.345,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "배재대학교"
     },
     {
       "id": "I4210113474",
@@ -1818,7 +1936,8 @@
       "h_index": 82,
       "i10_index": 837,
       "fwci": 2.607,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "경일대학교"
     },
     {
       "id": "I24214720",
@@ -1834,7 +1953,8 @@
       "h_index": 70,
       "i10_index": 754,
       "fwci": 1.873,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한성대학교"
     },
     {
       "id": "I141074810",
@@ -1850,7 +1970,8 @@
       "h_index": 90,
       "i10_index": 919,
       "fwci": 1.873,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한국교원대학교"
     },
     {
       "id": "I3133486578",
@@ -1865,7 +1986,8 @@
       "h_index": 65,
       "i10_index": 694,
       "fwci": 2.338,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "목원대학교"
     },
     {
       "id": "I4210123477",
@@ -1879,7 +2001,8 @@
       "h_index": 86,
       "i10_index": 945,
       "fwci": 2.231,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "경동대학교"
     },
     {
       "id": "I172553438",
@@ -1894,7 +2017,8 @@
       "h_index": 73,
       "i10_index": 680,
       "fwci": 2.984,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "전주교육대학교"
     },
     {
       "id": "I113825674",
@@ -1909,7 +2033,8 @@
       "h_index": 113,
       "i10_index": 1394,
       "fwci": 2.157,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한동대학교"
     },
     {
       "id": "I204954614",
@@ -1924,7 +2049,8 @@
       "h_index": 132,
       "i10_index": 1046,
       "fwci": 0.549,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "강남대학교"
     },
     {
       "id": "I79056234",
@@ -1940,7 +2066,8 @@
       "h_index": 133,
       "i10_index": 2177,
       "fwci": 1.496,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "광주대학교"
     },
     {
       "id": "I4210101659",
@@ -1954,7 +2081,8 @@
       "h_index": 100,
       "i10_index": 1654,
       "fwci": 1.456,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "서남대학교"
     },
     {
       "id": "I195373058",
@@ -1969,7 +2097,8 @@
       "h_index": 61,
       "i10_index": 573,
       "fwci": 1.544,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "호남대학교"
     },
     {
       "id": "I3131463087",
@@ -1984,7 +2113,8 @@
       "h_index": 64,
       "i10_index": 584,
       "fwci": 1.828,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "중부대학교"
     },
     {
       "id": "I236437131",
@@ -2002,7 +2132,8 @@
       "h_index": 93,
       "i10_index": 1338,
       "fwci": 3.616,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한림성심대학교"
     },
     {
       "id": "I104906788",
@@ -2017,7 +2148,8 @@
       "h_index": 55,
       "i10_index": 599,
       "fwci": 1.422,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "부산가톨릭대학교"
     },
     {
       "id": "I124125349",
@@ -2032,7 +2164,8 @@
       "h_index": 72,
       "i10_index": 578,
       "fwci": 1.473,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한국방송통신대학교"
     },
     {
       "id": "I391668",
@@ -2047,7 +2180,8 @@
       "h_index": 82,
       "i10_index": 918,
       "fwci": 0.798,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "제주한라대학교"
     },
     {
       "id": "I35919505",
@@ -2062,7 +2196,8 @@
       "h_index": 51,
       "i10_index": 367,
       "fwci": 1.917,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "백석대학교"
     },
     {
       "id": "I81417347",
@@ -2077,7 +2212,8 @@
       "h_index": 98,
       "i10_index": 948,
       "fwci": 1.911,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한국체육대학교"
     },
     {
       "id": "I3131980609",
@@ -2092,7 +2228,8 @@
       "h_index": 56,
       "i10_index": 478,
       "fwci": 1.029,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한국과학기술한림원"
     },
     {
       "id": "I3133433985",
@@ -2107,7 +2244,8 @@
       "h_index": 85,
       "i10_index": 517,
       "fwci": 1.267,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "서원대학교"
     },
     {
       "id": "I55188197",
@@ -2122,7 +2260,8 @@
       "h_index": 49,
       "i10_index": 392,
       "fwci": 3.108,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "서경대학교"
     },
     {
       "id": "I4210149646",
@@ -2136,7 +2275,8 @@
       "h_index": 68,
       "i10_index": 521,
       "fwci": 2.604,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "중원대학교"
     },
     {
       "id": "I185573737",
@@ -2151,7 +2291,8 @@
       "h_index": 58,
       "i10_index": 613,
       "fwci": 2.769,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "목포해양대학교"
     },
     {
       "id": "I24714338",
@@ -2166,7 +2307,8 @@
       "h_index": 73,
       "i10_index": 568,
       "fwci": 2.267,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "영산대학교"
     },
     {
       "id": "I3131689172",
@@ -2181,7 +2323,8 @@
       "h_index": 41,
       "i10_index": 212,
       "fwci": 0.449,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한국대학교육협의회"
     },
     {
       "id": "I4210132857",
@@ -2196,7 +2339,8 @@
       "h_index": 93,
       "i10_index": 998,
       "fwci": 3.587,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "겐트대학교 글로벌캠퍼스"
     },
     {
       "id": "I44073558",
@@ -2211,7 +2355,8 @@
       "h_index": 47,
       "i10_index": 372,
       "fwci": 1.73,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "공주교육대학교"
     },
     {
       "id": "I184908088",
@@ -2226,7 +2371,8 @@
       "h_index": 51,
       "i10_index": 457,
       "fwci": 2.237,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "육군사관학교"
     },
     {
       "id": "I28019184",
@@ -2241,7 +2387,8 @@
       "h_index": 89,
       "i10_index": 793,
       "fwci": 2.506,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "진주교육대학교"
     },
     {
       "id": "I3130430780",
@@ -2256,7 +2403,8 @@
       "h_index": 44,
       "i10_index": 259,
       "fwci": 2.257,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "아이에스티(aSSIST)"
     },
     {
       "id": "I4210129133",
@@ -2272,7 +2420,8 @@
       "h_index": 95,
       "i10_index": 809,
       "fwci": 0.944,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "대구과학대학교"
     },
     {
       "id": "I88386943",
@@ -2287,7 +2436,8 @@
       "h_index": 91,
       "i10_index": 813,
       "fwci": 2.802,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "배화여자대학교"
     },
     {
       "id": "I163584902",
@@ -2306,7 +2456,8 @@
       "h_index": 44,
       "i10_index": 313,
       "fwci": 1.995,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "대구보건대학교"
     },
     {
       "id": "I4210128927",
@@ -2320,7 +2471,8 @@
       "h_index": 40,
       "i10_index": 391,
       "fwci": 1.874,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "남부대학교"
     },
     {
       "id": "I23077957",
@@ -2335,7 +2487,8 @@
       "h_index": 40,
       "i10_index": 286,
       "fwci": 1.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "청운대학교"
     },
     {
       "id": "I202122006",
@@ -2351,7 +2504,8 @@
       "h_index": 47,
       "i10_index": 314,
       "fwci": 1.616,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "세한대학교"
     },
     {
       "id": "I36738375",
@@ -2366,7 +2520,8 @@
       "h_index": 38,
       "i10_index": 180,
       "fwci": 0.912,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한신대학교"
     },
     {
       "id": "I9272278",
@@ -2383,7 +2538,8 @@
       "h_index": 79,
       "i10_index": 527,
       "fwci": 1.676,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "충청대학교"
     },
     {
       "id": "I249221365",
@@ -2398,7 +2554,8 @@
       "h_index": 53,
       "i10_index": 489,
       "fwci": 1.684,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "광주보건대학교"
     },
     {
       "id": "I160888826",
@@ -2413,7 +2570,8 @@
       "h_index": 66,
       "i10_index": 476,
       "fwci": 4.262,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "경희사이버대학교"
     },
     {
       "id": "I161217753",
@@ -2428,7 +2586,8 @@
       "h_index": 68,
       "i10_index": 503,
       "fwci": 1.472,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "부산교육대학교"
     },
     {
       "id": "I4210094357",
@@ -2443,7 +2602,8 @@
       "h_index": 34,
       "i10_index": 188,
       "fwci": 1.245,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "신한대학교"
     },
     {
       "id": "I4210151992",
@@ -2459,7 +2619,8 @@
       "h_index": 59,
       "i10_index": 321,
       "fwci": 8.091,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한국외국어대학교"
     },
     {
       "id": "I129695118",
@@ -2479,7 +2640,8 @@
       "h_index": 70,
       "i10_index": 557,
       "fwci": 1.635,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "유한대학교"
     },
     {
       "id": "I201873833",
@@ -2494,7 +2656,8 @@
       "h_index": 63,
       "i10_index": 320,
       "fwci": 2.858,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "동양대학교"
     },
     {
       "id": "I4210116376",
@@ -2510,7 +2673,8 @@
       "h_index": 58,
       "i10_index": 283,
       "fwci": 2.523,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "스토니브룩대학교 한국캠퍼스"
     },
     {
       "id": "I4210164379",
@@ -2526,7 +2690,8 @@
       "h_index": 67,
       "i10_index": 594,
       "fwci": 2.596,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "서울미디어대학원대학교"
     },
     {
       "id": "I4210113514",
@@ -2540,7 +2705,8 @@
       "h_index": 42,
       "i10_index": 241,
       "fwci": 2.65,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "극동대학교"
     },
     {
       "id": "I2799327440",
@@ -2555,7 +2721,8 @@
       "h_index": 41,
       "i10_index": 220,
       "fwci": 1.17,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "용인송담대학교"
     },
     {
       "id": "I4210117332",
@@ -2569,7 +2736,8 @@
       "h_index": 52,
       "i10_index": 272,
       "fwci": 2.49,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "성결대학교"
     },
     {
       "id": "I4210108896",
@@ -2583,7 +2751,8 @@
       "h_index": 47,
       "i10_index": 258,
       "fwci": 1.122,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "원광보건대학교"
     },
     {
       "id": "I4210117446",
@@ -2597,7 +2766,8 @@
       "h_index": 40,
       "i10_index": 187,
       "fwci": 2.095,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "인하공업전문대학"
     },
     {
       "id": "I187204187",
@@ -2613,7 +2783,8 @@
       "h_index": 68,
       "i10_index": 380,
       "fwci": 1.736,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "경주대학교"
     },
     {
       "id": "I113145275",
@@ -2630,7 +2801,8 @@
       "h_index": 53,
       "i10_index": 289,
       "fwci": 2.243,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210120608",
@@ -2645,7 +2817,8 @@
       "h_index": 41,
       "i10_index": 170,
       "fwci": 2.023,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210152750",
@@ -2659,7 +2832,8 @@
       "h_index": 38,
       "i10_index": 177,
       "fwci": 1.024,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210166456",
@@ -2676,7 +2850,8 @@
       "h_index": 42,
       "i10_index": 222,
       "fwci": 2.388,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210148722",
@@ -2691,7 +2866,8 @@
       "h_index": 42,
       "i10_index": 184,
       "fwci": 0.764,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210166923",
@@ -2707,7 +2883,8 @@
       "h_index": 34,
       "i10_index": 191,
       "fwci": 1.152,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210120925",
@@ -2724,7 +2901,8 @@
       "h_index": 39,
       "i10_index": 160,
       "fwci": 0.702,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I122706678",
@@ -2739,7 +2917,8 @@
       "h_index": 43,
       "i10_index": 153,
       "fwci": 1.256,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한라대학교"
     },
     {
       "id": "I1341823161",
@@ -2755,7 +2934,8 @@
       "h_index": 37,
       "i10_index": 201,
       "fwci": 1.315,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "평택대학교"
     },
     {
       "id": "I177492531",
@@ -2770,7 +2950,8 @@
       "h_index": 77,
       "i10_index": 423,
       "fwci": 0.463,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "영동대학교"
     },
     {
       "id": "I83015752",
@@ -2785,7 +2966,8 @@
       "h_index": 40,
       "i10_index": 151,
       "fwci": 1.432,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "부산외국어대학교"
     },
     {
       "id": "I204626148",
@@ -2800,7 +2982,8 @@
       "h_index": 64,
       "i10_index": 247,
       "fwci": 0.667,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "위덕대학교"
     },
     {
       "id": "I3133298186",
@@ -2816,7 +2999,8 @@
       "h_index": 52,
       "i10_index": 303,
       "fwci": 2.152,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I146496621",
@@ -2831,7 +3015,8 @@
       "h_index": 51,
       "i10_index": 219,
       "fwci": 2.044,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210145313",
@@ -2846,7 +3031,8 @@
       "h_index": 52,
       "i10_index": 245,
       "fwci": 0.943,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210143664",
@@ -2862,7 +3048,8 @@
       "h_index": 42,
       "i10_index": 203,
       "fwci": 2.744,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I110475456",
@@ -2877,7 +3064,8 @@
       "h_index": 32,
       "i10_index": 164,
       "fwci": 1.757,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "나사렛대학교"
     },
     {
       "id": "I191209535",
@@ -2892,7 +3080,8 @@
       "h_index": 39,
       "i10_index": 143,
       "fwci": 1.722,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210134443",
@@ -2907,7 +3096,8 @@
       "h_index": 48,
       "i10_index": 290,
       "fwci": 0.794,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I151050371",
@@ -2923,7 +3113,8 @@
       "h_index": 67,
       "i10_index": 485,
       "fwci": 2.566,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I74898755",
@@ -2940,7 +3131,8 @@
       "h_index": 46,
       "i10_index": 225,
       "fwci": 3.219,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I2800080930",
@@ -2956,7 +3148,8 @@
       "h_index": 59,
       "i10_index": 245,
       "fwci": 3.102,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210101341",
@@ -2973,7 +3166,8 @@
       "h_index": 47,
       "i10_index": 208,
       "fwci": 0.949,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I27166778",
@@ -2990,7 +3184,8 @@
       "h_index": 32,
       "i10_index": 126,
       "fwci": 0.868,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4792177",
@@ -3006,7 +3201,8 @@
       "h_index": 38,
       "i10_index": 195,
       "fwci": 2.131,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3132867593",
@@ -3022,7 +3218,8 @@
       "h_index": 45,
       "i10_index": 228,
       "fwci": 2.166,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I253775847",
@@ -3037,7 +3234,8 @@
       "h_index": 31,
       "i10_index": 150,
       "fwci": 2.05,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "김천대학교"
     },
     {
       "id": "I198667473",
@@ -3052,7 +3250,8 @@
       "h_index": 42,
       "i10_index": 198,
       "fwci": 1.751,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I96909044",
@@ -3068,7 +3267,8 @@
       "h_index": 38,
       "i10_index": 140,
       "fwci": 1.148,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210087887",
@@ -3086,7 +3286,8 @@
       "h_index": 37,
       "i10_index": 191,
       "fwci": 0.835,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I106601093",
@@ -3102,7 +3303,8 @@
       "h_index": 41,
       "i10_index": 187,
       "fwci": 3.271,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210110285",
@@ -3118,7 +3320,8 @@
       "h_index": 29,
       "i10_index": 107,
       "fwci": 1.099,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I177023625",
@@ -3133,7 +3336,8 @@
       "h_index": 33,
       "i10_index": 111,
       "fwci": 0.769,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I2802978839",
@@ -3149,7 +3353,8 @@
       "h_index": 40,
       "i10_index": 144,
       "fwci": 1.789,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I120870296",
@@ -3164,7 +3369,8 @@
       "h_index": 39,
       "i10_index": 138,
       "fwci": 1.669,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I109995039",
@@ -3179,7 +3385,8 @@
       "h_index": 41,
       "i10_index": 178,
       "fwci": 3.286,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210140242",
@@ -3194,7 +3401,8 @@
       "h_index": 36,
       "i10_index": 117,
       "fwci": 1.505,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I213411275",
@@ -3209,7 +3417,8 @@
       "h_index": 34,
       "i10_index": 152,
       "fwci": 1.444,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210119116",
@@ -3224,7 +3433,8 @@
       "h_index": 36,
       "i10_index": 127,
       "fwci": 0.967,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3462296",
@@ -3239,7 +3449,8 @@
       "h_index": 27,
       "i10_index": 91,
       "fwci": 1.542,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "경인교육대학교"
     },
     {
       "id": "I4210099829",
@@ -3255,7 +3466,8 @@
       "h_index": 33,
       "i10_index": 117,
       "fwci": 0.795,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I187887247",
@@ -3270,7 +3482,8 @@
       "h_index": 26,
       "i10_index": 95,
       "fwci": 2.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "대구교육대학교"
     },
     {
       "id": "I107558787",
@@ -3287,7 +3500,8 @@
       "h_index": 37,
       "i10_index": 161,
       "fwci": 0.63,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210155604",
@@ -3302,7 +3516,8 @@
       "h_index": 32,
       "i10_index": 113,
       "fwci": 1.577,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3798612",
@@ -3318,7 +3533,8 @@
       "h_index": 36,
       "i10_index": 149,
       "fwci": 1.625,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210143978",
@@ -3333,7 +3549,8 @@
       "h_index": 38,
       "i10_index": 193,
       "fwci": 1.225,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210167106",
@@ -3348,7 +3565,8 @@
       "h_index": 37,
       "i10_index": 149,
       "fwci": 1.306,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I323440827",
@@ -3363,7 +3581,8 @@
       "h_index": 28,
       "i10_index": 76,
       "fwci": 1.209,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210141516",
@@ -3378,7 +3597,8 @@
       "h_index": 35,
       "i10_index": 110,
       "fwci": 1.694,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210164437",
@@ -3392,7 +3612,8 @@
       "h_index": 28,
       "i10_index": 107,
       "fwci": 0.972,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I2801910229",
@@ -3407,7 +3628,8 @@
       "h_index": 43,
       "i10_index": 208,
       "fwci": 0.968,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I40900486",
@@ -3422,7 +3644,8 @@
       "h_index": 24,
       "i10_index": 72,
       "fwci": 0.914,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "창신대학교"
     },
     {
       "id": "I177837794",
@@ -3437,7 +3660,8 @@
       "h_index": 31,
       "i10_index": 79,
       "fwci": 1.29,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3130020584",
@@ -3452,7 +3676,8 @@
       "h_index": 52,
       "i10_index": 196,
       "fwci": 4.29,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210128368",
@@ -3467,7 +3692,8 @@
       "h_index": 24,
       "i10_index": 73,
       "fwci": 0.875,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I24359042",
@@ -3482,7 +3708,8 @@
       "h_index": 27,
       "i10_index": 80,
       "fwci": 1.531,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210142423",
@@ -3498,7 +3725,8 @@
       "h_index": 27,
       "i10_index": 65,
       "fwci": 0.361,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I71683514",
@@ -3515,7 +3743,8 @@
       "h_index": 37,
       "i10_index": 119,
       "fwci": 1.875,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I66974923",
@@ -3532,7 +3761,8 @@
       "h_index": 40,
       "i10_index": 115,
       "fwci": 4.259,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I126009037",
@@ -3549,7 +3779,8 @@
       "h_index": 47,
       "i10_index": 132,
       "fwci": 0.746,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210089031",
@@ -3566,7 +3797,8 @@
       "h_index": 28,
       "i10_index": 83,
       "fwci": 3.858,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210088294",
@@ -3581,7 +3813,8 @@
       "h_index": 29,
       "i10_index": 96,
       "fwci": 3.222,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210103015",
@@ -3597,7 +3830,8 @@
       "h_index": 43,
       "i10_index": 227,
       "fwci": 2.373,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I248216221",
@@ -3612,7 +3846,8 @@
       "h_index": 21,
       "i10_index": 37,
       "fwci": 0.566,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210163158",
@@ -3632,7 +3867,8 @@
       "h_index": 27,
       "i10_index": 83,
       "fwci": 1.059,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3131992673",
@@ -3648,7 +3884,8 @@
       "h_index": 33,
       "i10_index": 90,
       "fwci": 1.766,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "협성대학교"
     },
     {
       "id": "I4210110706",
@@ -3664,7 +3901,8 @@
       "h_index": 29,
       "i10_index": 121,
       "fwci": 2.346,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210157747",
@@ -3681,7 +3919,8 @@
       "h_index": 41,
       "i10_index": 137,
       "fwci": 0.611,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210132521",
@@ -3698,7 +3937,8 @@
       "h_index": 29,
       "i10_index": 92,
       "fwci": 2.216,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I2964261176",
@@ -3713,7 +3953,8 @@
       "h_index": 26,
       "i10_index": 52,
       "fwci": 0.479,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210093658",
@@ -3729,7 +3970,8 @@
       "h_index": 36,
       "i10_index": 101,
       "fwci": 0.704,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210088892",
@@ -3744,7 +3986,8 @@
       "h_index": 27,
       "i10_index": 81,
       "fwci": 1.103,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210114978",
@@ -3760,7 +4003,8 @@
       "h_index": 22,
       "i10_index": 59,
       "fwci": 1.511,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I323946660",
@@ -3776,7 +4020,8 @@
       "h_index": 24,
       "i10_index": 54,
       "fwci": 0.481,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210104247",
@@ -3790,7 +4035,8 @@
       "h_index": 31,
       "i10_index": 124,
       "fwci": 1.044,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210090284",
@@ -3806,7 +4052,8 @@
       "h_index": 18,
       "i10_index": 39,
       "fwci": 1.118,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210107159",
@@ -3822,7 +4069,8 @@
       "h_index": 26,
       "i10_index": 50,
       "fwci": 0.661,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I896994792",
@@ -3838,7 +4086,8 @@
       "h_index": 25,
       "i10_index": 60,
       "fwci": 1.343,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "성공회대학교"
     },
     {
       "id": "I1336915759",
@@ -3852,7 +4101,8 @@
       "h_index": 29,
       "i10_index": 79,
       "fwci": 0.914,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3129921980",
@@ -3867,7 +4117,8 @@
       "h_index": 25,
       "i10_index": 58,
       "fwci": 1.27,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "한국예술종합학교"
     },
     {
       "id": "I4210151859",
@@ -3882,7 +4133,8 @@
       "h_index": 23,
       "i10_index": 50,
       "fwci": 0.901,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3129687336",
@@ -3897,7 +4149,8 @@
       "h_index": 41,
       "i10_index": 112,
       "fwci": 0.1,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210099081",
@@ -3913,7 +4166,8 @@
       "h_index": 21,
       "i10_index": 40,
       "fwci": 1.485,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210111742",
@@ -3927,7 +4181,8 @@
       "h_index": 31,
       "i10_index": 78,
       "fwci": 3.147,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210120183",
@@ -3943,7 +4198,8 @@
       "h_index": 34,
       "i10_index": 90,
       "fwci": 3.089,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I277624334",
@@ -3959,7 +4215,8 @@
       "h_index": 32,
       "i10_index": 64,
       "fwci": 1.25,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "춘천교육대학교"
     },
     {
       "id": "I4210126336",
@@ -3973,7 +4230,8 @@
       "h_index": 13,
       "i10_index": 15,
       "fwci": 0.235,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3132909936",
@@ -3988,7 +4246,8 @@
       "h_index": 29,
       "i10_index": 84,
       "fwci": 1.4,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210121070",
@@ -4002,7 +4261,8 @@
       "h_index": 46,
       "i10_index": 172,
       "fwci": 1.556,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I255400594",
@@ -4017,7 +4277,8 @@
       "h_index": 35,
       "i10_index": 77,
       "fwci": 0.765,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I118906564",
@@ -4034,7 +4295,8 @@
       "h_index": 45,
       "i10_index": 136,
       "fwci": 1.118,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210086533",
@@ -4051,7 +4313,8 @@
       "h_index": 34,
       "i10_index": 66,
       "fwci": 1.232,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210141547",
@@ -4066,7 +4329,8 @@
       "h_index": 21,
       "i10_index": 38,
       "fwci": 1.565,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I190731455",
@@ -4082,7 +4346,8 @@
       "h_index": 26,
       "i10_index": 63,
       "fwci": 0.933,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210085941",
@@ -4097,7 +4362,8 @@
       "h_index": 24,
       "i10_index": 46,
       "fwci": 3.431,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210105861",
@@ -4112,7 +4378,8 @@
       "h_index": 20,
       "i10_index": 40,
       "fwci": 0.903,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210110812",
@@ -4127,7 +4394,8 @@
       "h_index": 26,
       "i10_index": 51,
       "fwci": 1.148,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I183883511",
@@ -4142,7 +4410,8 @@
       "h_index": 24,
       "i10_index": 77,
       "fwci": 1.929,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3132959353",
@@ -4158,7 +4427,8 @@
       "h_index": 32,
       "i10_index": 105,
       "fwci": 3.294,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210148076",
@@ -4173,7 +4443,8 @@
       "h_index": 28,
       "i10_index": 79,
       "fwci": 0.946,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I178889419",
@@ -4188,7 +4459,8 @@
       "h_index": 14,
       "i10_index": 21,
       "fwci": 0.676,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210142616",
@@ -4202,7 +4474,8 @@
       "h_index": 22,
       "i10_index": 62,
       "fwci": 3.391,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3131165991",
@@ -4218,7 +4491,8 @@
       "h_index": 33,
       "i10_index": 84,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210127834",
@@ -4234,7 +4508,8 @@
       "h_index": 47,
       "i10_index": 139,
       "fwci": 0.632,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210108207",
@@ -4251,7 +4526,8 @@
       "h_index": 23,
       "i10_index": 58,
       "fwci": 0.84,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210133578",
@@ -4266,7 +4542,8 @@
       "h_index": 23,
       "i10_index": 41,
       "fwci": 3.17,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210162633",
@@ -4282,7 +4559,8 @@
       "h_index": 23,
       "i10_index": 44,
       "fwci": 0.375,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3131726072",
@@ -4297,7 +4575,8 @@
       "h_index": 13,
       "i10_index": 26,
       "fwci": 1.5,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210143882",
@@ -4312,7 +4591,8 @@
       "h_index": 32,
       "i10_index": 78,
       "fwci": 0.792,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210147191",
@@ -4328,7 +4608,8 @@
       "h_index": 14,
       "i10_index": 19,
       "fwci": 2.517,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I59265618",
@@ -4343,7 +4624,8 @@
       "h_index": 26,
       "i10_index": 65,
       "fwci": 0.58,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I5324124",
@@ -4358,7 +4640,8 @@
       "h_index": 13,
       "i10_index": 17,
       "fwci": 1.406,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3132879846",
@@ -4373,7 +4656,8 @@
       "h_index": 35,
       "i10_index": 89,
       "fwci": 1.909,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3132183145",
@@ -4390,7 +4674,8 @@
       "h_index": 19,
       "i10_index": 35,
       "fwci": 0.5,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210163123",
@@ -4404,7 +4689,8 @@
       "h_index": 20,
       "i10_index": 34,
       "fwci": 0.486,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210096900",
@@ -4422,7 +4708,8 @@
       "h_index": 12,
       "i10_index": 15,
       "fwci": 0.766,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210124131",
@@ -4437,7 +4724,8 @@
       "h_index": 24,
       "i10_index": 41,
       "fwci": 1.608,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I70810838",
@@ -4452,7 +4740,8 @@
       "h_index": 20,
       "i10_index": 39,
       "fwci": 7.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I119444241",
@@ -4470,7 +4759,8 @@
       "h_index": 14,
       "i10_index": 32,
       "fwci": 1.375,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210110852",
@@ -4484,7 +4774,8 @@
       "h_index": 16,
       "i10_index": 26,
       "fwci": 1.525,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I50758014",
@@ -4503,7 +4794,8 @@
       "h_index": 19,
       "i10_index": 26,
       "fwci": 1.738,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210126809",
@@ -4518,7 +4810,8 @@
       "h_index": 16,
       "i10_index": 20,
       "fwci": 0.632,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210087830",
@@ -4533,7 +4826,8 @@
       "h_index": 23,
       "i10_index": 53,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210090418",
@@ -4548,7 +4842,8 @@
       "h_index": 5,
       "i10_index": 0,
       "fwci": 0.258,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210112309",
@@ -4562,7 +4857,8 @@
       "h_index": 10,
       "i10_index": 12,
       "fwci": 6.581,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3133283408",
@@ -4577,7 +4873,8 @@
       "h_index": 17,
       "i10_index": 23,
       "fwci": 3.429,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3132616544",
@@ -4594,7 +4891,8 @@
       "h_index": 13,
       "i10_index": 17,
       "fwci": 1.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210116410",
@@ -4608,7 +4906,8 @@
       "h_index": 10,
       "i10_index": 10,
       "fwci": 1.085,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3131622615",
@@ -4623,7 +4922,8 @@
       "h_index": 16,
       "i10_index": 29,
       "fwci": 0.167,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210099637",
@@ -4639,7 +4939,8 @@
       "h_index": 14,
       "i10_index": 18,
       "fwci": 0.455,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I184359769",
@@ -4654,7 +4955,8 @@
       "h_index": 19,
       "i10_index": 27,
       "fwci": 1.455,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3132567806",
@@ -4670,7 +4972,8 @@
       "h_index": 11,
       "i10_index": 12,
       "fwci": 0.812,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210141802",
@@ -4685,7 +4988,8 @@
       "h_index": 18,
       "i10_index": 28,
       "fwci": 0.769,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210144754",
@@ -4699,7 +5003,8 @@
       "h_index": 20,
       "i10_index": 36,
       "fwci": 0.254,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210158624",
@@ -4714,7 +5019,8 @@
       "h_index": 3,
       "i10_index": 2,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I2802577900",
@@ -4729,7 +5035,8 @@
       "h_index": 12,
       "i10_index": 13,
       "fwci": 0.188,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I2802888503",
@@ -4744,7 +5051,8 @@
       "h_index": 22,
       "i10_index": 41,
       "fwci": 1.667,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210167384",
@@ -4758,7 +5066,8 @@
       "h_index": 13,
       "i10_index": 22,
       "fwci": 1.667,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210164548",
@@ -4773,7 +5082,8 @@
       "h_index": 20,
       "i10_index": 38,
       "fwci": 1.545,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210103242",
@@ -4788,7 +5098,8 @@
       "h_index": 15,
       "i10_index": 19,
       "fwci": 1.661,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3130884629",
@@ -4804,7 +5115,8 @@
       "h_index": 18,
       "i10_index": 22,
       "fwci": 0.727,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210094513",
@@ -4818,7 +5130,8 @@
       "h_index": 12,
       "i10_index": 13,
       "fwci": 0.135,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210103467",
@@ -4835,7 +5148,8 @@
       "h_index": 17,
       "i10_index": 25,
       "fwci": 6.789,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210089470",
@@ -4850,7 +5164,8 @@
       "h_index": 13,
       "i10_index": 18,
       "fwci": 0.5,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210116335",
@@ -4865,7 +5180,8 @@
       "h_index": 8,
       "i10_index": 8,
       "fwci": 0.227,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210107379",
@@ -4882,7 +5198,8 @@
       "h_index": 11,
       "i10_index": 13,
       "fwci": 0.308,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3129355728",
@@ -4897,7 +5214,8 @@
       "h_index": 17,
       "i10_index": 32,
       "fwci": 1.75,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3129790957",
@@ -4913,7 +5231,8 @@
       "h_index": 15,
       "i10_index": 19,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I2801140561",
@@ -4928,7 +5247,8 @@
       "h_index": 16,
       "i10_index": 23,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210093123",
@@ -4942,7 +5262,8 @@
       "h_index": 20,
       "i10_index": 27,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210119437",
@@ -4957,7 +5278,8 @@
       "h_index": 8,
       "i10_index": 7,
       "fwci": 1.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210116978",
@@ -4972,7 +5294,8 @@
       "h_index": 9,
       "i10_index": 9,
       "fwci": 0.414,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210136605",
@@ -4989,7 +5312,8 @@
       "h_index": 18,
       "i10_index": 22,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210115917",
@@ -5003,7 +5327,8 @@
       "h_index": 10,
       "i10_index": 10,
       "fwci": 1.6,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210091836",
@@ -5018,7 +5343,8 @@
       "h_index": 10,
       "i10_index": 10,
       "fwci": 0.4,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210116514",
@@ -5033,7 +5359,8 @@
       "h_index": 8,
       "i10_index": 8,
       "fwci": 3.556,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3129924757",
@@ -5049,7 +5376,8 @@
       "h_index": 6,
       "i10_index": 6,
       "fwci": 1.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210157874",
@@ -5064,7 +5392,8 @@
       "h_index": 11,
       "i10_index": 11,
       "fwci": 0.5,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210162182",
@@ -5080,7 +5409,8 @@
       "h_index": 8,
       "i10_index": 6,
       "fwci": 1.154,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210115866",
@@ -5095,7 +5425,8 @@
       "h_index": 6,
       "i10_index": 0,
       "fwci": 0.778,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I3129659404",
@@ -5111,7 +5442,8 @@
       "h_index": 4,
       "i10_index": 2,
       "fwci": 0.44,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I2801204984",
@@ -5127,7 +5459,8 @@
       "h_index": 6,
       "i10_index": 2,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I2800522046",
@@ -5142,7 +5475,8 @@
       "h_index": 9,
       "i10_index": 9,
       "fwci": 0.429,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210108309",
@@ -5157,7 +5491,8 @@
       "h_index": 3,
       "i10_index": 2,
       "fwci": 0.2,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210133332",
@@ -5172,7 +5507,8 @@
       "h_index": 10,
       "i10_index": 13,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I2799406666",
@@ -5187,7 +5523,8 @@
       "h_index": 4,
       "i10_index": 2,
       "fwci": 0.2,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I2799421115",
@@ -5202,7 +5539,8 @@
       "h_index": 7,
       "i10_index": 7,
       "fwci": 2.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I2802714772",
@@ -5218,7 +5556,8 @@
       "h_index": 6,
       "i10_index": 4,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210114925",
@@ -5233,7 +5572,8 @@
       "h_index": 11,
       "i10_index": 20,
       "fwci": 4.632,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210146597",
@@ -5247,7 +5587,8 @@
       "h_index": 5,
       "i10_index": 4,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210150712",
@@ -5262,7 +5603,8 @@
       "h_index": 7,
       "i10_index": 3,
       "fwci": 0.2,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I2801346348",
@@ -5277,7 +5619,8 @@
       "h_index": 8,
       "i10_index": 6,
       "fwci": 0.5,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I2965430172",
@@ -5292,7 +5635,8 @@
       "h_index": 4,
       "i10_index": 3,
       "fwci": 6.455,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210105126",
@@ -5308,7 +5652,8 @@
       "h_index": 8,
       "i10_index": 8,
       "fwci": 5.5,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210146338",
@@ -5323,7 +5668,8 @@
       "h_index": 6,
       "i10_index": 2,
       "fwci": 3.75,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210155112",
@@ -5339,7 +5685,8 @@
       "h_index": 5,
       "i10_index": 1,
       "fwci": 0.933,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210159727",
@@ -5354,7 +5701,8 @@
       "h_index": 3,
       "i10_index": 1,
       "fwci": 1.6,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210102187",
@@ -5369,7 +5717,8 @@
       "h_index": 4,
       "i10_index": 4,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210130128",
@@ -5385,7 +5734,8 @@
       "h_index": 4,
       "i10_index": 3,
       "fwci": 12.333,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210139219",
@@ -5399,7 +5749,8 @@
       "h_index": 1,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210134605",
@@ -5414,7 +5765,8 @@
       "h_index": 5,
       "i10_index": 4,
       "fwci": 6.6,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210153770",
@@ -5429,7 +5781,8 @@
       "h_index": 1,
       "i10_index": 1,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210095749",
@@ -5444,7 +5797,8 @@
       "h_index": 1,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210165235",
@@ -5460,7 +5814,8 @@
       "h_index": 2,
       "i10_index": 0,
       "fwci": 1.333,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210142809",
@@ -5475,7 +5830,8 @@
       "h_index": 1,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210165717",
@@ -5490,7 +5846,8 @@
       "h_index": 2,
       "i10_index": 2,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210097242",
@@ -5504,7 +5861,8 @@
       "h_index": 1,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210106858",
@@ -5519,7 +5877,8 @@
       "h_index": 1,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210157028",
@@ -5534,7 +5893,8 @@
       "h_index": 0,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210102346",
@@ -5549,7 +5909,8 @@
       "h_index": 0,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210132275",
@@ -5564,7 +5925,8 @@
       "h_index": 0,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4210147698",
@@ -5579,7 +5941,8 @@
       "h_index": 0,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4405254108",
@@ -5594,7 +5957,8 @@
       "h_index": 0,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4405258537",
@@ -5611,7 +5975,8 @@
       "h_index": 0,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4405258769",
@@ -5628,7 +5993,8 @@
       "h_index": 0,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4405260054",
@@ -5645,7 +6011,8 @@
       "h_index": 0,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": "KDI국제정책대학원대학교"
     },
     {
       "id": "I4405261169",
@@ -5660,7 +6027,8 @@
       "h_index": 0,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4405261192",
@@ -5675,7 +6043,8 @@
       "h_index": 0,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     },
     {
       "id": "I4405261402",
@@ -5691,7 +6060,8 @@
       "h_index": 0,
       "i10_index": 0,
       "fwci": 0.0,
-      "top_concepts": []
+      "top_concepts": [],
+      "name_ko": ""
     }
   ]
 }

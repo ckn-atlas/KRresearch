@@ -6,6 +6,9 @@
 data/_raw/
 data/_cache/
 
+# 대용량 산출물 (구버전 연구자중심, 65MB)
+data/authors.json
+
 # Python
 __pycache__/
 *.pyc

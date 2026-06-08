@@ -198,6 +198,12 @@ section:last-child{border-bottom:none}
   animation:spin .8s linear infinite;margin:0 auto 12px}
 @keyframes spin{to{transform:rotate(360deg)}}
 
+/* ── 언어 토글 ── */
+.lang-btn{padding:6px 14px;border:1.5px solid var(--line);border-radius:20px;
+  font-size:12px;font-weight:700;background:#fff;cursor:pointer;
+  color:var(--muted);transition:all .15s;white-space:nowrap}
+.lang-btn.ko{background:var(--accent);color:#fff;border-color:var(--accent)}
+
 /* ── 모바일 ── */
 @media(max-width:900px){
   .page-wrap{grid-template-columns:1fr;grid-template-areas:'main'}
@@ -226,6 +232,7 @@ section:last-child{border-bottom:none}
       viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
     <div class="search-results" id="searchResults"></div>
   </div>
+  <button class="lang-btn ko" id="langBtn" onclick="toggleLang()">KO</button>
 </div>
 </header>
 
@@ -391,6 +398,23 @@ function init() {
   filterResearchers();
 }
 
+// ── 언어 설정 ────────────────────────────────────────────────
+let LANG = 'ko'; // 'ko' | 'en'
+
+function toggleLang() {
+  LANG = LANG === 'ko' ? 'en' : 'ko';
+  const btn = document.getElementById('langBtn');
+  btn.textContent = LANG.toUpperCase();
+  btn.classList.toggle('ko', LANG === 'ko');
+  // 전체 재렌더
+  renderUniTable();
+  populateFilters();
+  filterResearchers();
+}
+
+// ── 대학명 (언어 설정에 따라) ────────────────────────────────
+const uName = u => LANG === 'ko' ? (u.name_ko || u.name) : u.name;
+
 // ── 숫자 포맷 ────────────────────────────────────────────────
 const fmt = n => n >= 1e6 ? (n/1e6).toFixed(1)+'M'
               : n >= 1e3  ? (n/1e3).toFixed(1)+'K'
@@ -418,7 +442,7 @@ function renderUniTable() {
   document.getElementById('uniTableBody').innerHTML = slice.map((u,i)=>`
     <tr onclick="showUniDetail('${u.id}')">
       <td class="rank">${i+1}</td>
-      <td class="uni-name">${u.name}</td>
+      <td class="uni-name">${uName(u)}</td>
       <td>${fmt(u.works_count)}</td>
       <td>${fmt(u.cited_by_count)}</td>
       <td>${u.h_index}</td>
@@ -437,7 +461,7 @@ function populateFilters() {
   const uniSel = document.getElementById('filterUni');
   UNI_DATA.universities.slice(0,50).forEach(u => {
     const o = document.createElement('option');
-    o.value = u.id; o.textContent = u.name;
+    o.value = u.id; o.textContent = uName(u);
     uniSel.appendChild(o);
   });
 
@@ -542,11 +566,28 @@ function openModal(authorId) {
   renderProfileBars(a.research_profile?.all_time, 'mProfileAll');
   renderProfileBars(a.research_profile?.recent, 'mProfileRecent', 'recent');
 
-  const affHtml = (a.affiliation_history||[]).map(h => {
+  const allAff = (a.affiliation_history||[])
+    .slice().reverse(); // 최근순
+  const isSuspect = allAff.length > 15;
+  const shownAff = allAff.slice(0, 10);
+
+  const warnHtml = isSuspect
+    ? `<li style="background:#fef9c3;border-radius:6px;padding:6px 10px;font-size:12px;
+        color:#92400e;margin-bottom:6px;list-style:none">
+        ⚠️ 동명이인 병합 가능성 — OpenAlex 데이터 정확도 주의
+        (이력 ${allAff.length}개 기관)
+       </li>` : '';
+
+  const affHtml = warnHtml + (shownAff.map(h => {
     const yr = h.years?.length ? `${h.years[0]}–${h.years[h.years.length-1]}` : '';
     return `<li class="aff-item"><span class="aff-year">${yr}</span><span>${h.institution}</span></li>`;
-  }).join('') || '<li style="color:var(--muted);font-size:13px;padding:8px 0">이력 정보 없음</li>';
-  document.getElementById('mAffHistory').innerHTML = affHtml;
+  }).join('') || '<li style="color:var(--muted);font-size:13px;padding:8px 0">이력 정보 없음</li>');
+
+  const moreAff = allAff.length > 10
+    ? `<li style="color:var(--muted);font-size:12px;padding:6px 0;list-style:none">
+        ... 외 ${allAff.length - 10}개 기관</li>` : '';
+
+  document.getElementById('mAffHistory').innerHTML = affHtml + moreAff;
 
   // 외부 링크
   const oaId = a.id;
@@ -579,6 +620,7 @@ document.getElementById('searchInput').addEventListener('input', function() {
   searchTimer = setTimeout(() => {
     const ql = q.toLowerCase();
     const uniHits = (UNI_DATA?.universities||[]).filter(u =>
+      (u.name_ko||'').includes(q) ||
       u.name.toLowerCase().includes(ql)).slice(0,3);
     const authHits = (AUTH_DATA?.authors||[]).filter(a =>
       a.name.toLowerCase().includes(ql) ||
@@ -586,7 +628,9 @@ document.getElementById('searchInput').addEventListener('input', function() {
 
     const html = [
       ...uniHits.map(u=>`<div class="search-item" onclick="scrollToUni('${u.id}')">
-        <span class="tag">대학</span><span>${u.name}</span></div>`),
+        <span class="tag">대학</span>
+        <span>${uName(u)}${u.name_ko && LANG==='ko' ? ` <small style="color:var(--muted)">${u.name}</small>` : ''}</span>
+      </div>`),
       ...authHits.map(a=>`<div class="search-item" onclick="openModal('${a.id}')">
         <span class="tag">연구자</span>
         <span><strong>${a.name}</strong> · <small>${a.institution_name}</small></span></div>`),

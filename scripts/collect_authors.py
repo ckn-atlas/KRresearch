@@ -1,6 +1,3 @@
-import sys
-sys.stdout.reconfigure(encoding='utf-8')
-
 """
 대학별 연구자 수집 + 연구 프로필 생성 (OpenAlex)
 
@@ -17,8 +14,11 @@ sys.stdout.reconfigure(encoding='utf-8')
 
 import json
 import os
+import sys
 import time
 from pathlib import Path
+
+sys.stdout.reconfigure(encoding='utf-8')
 
 import httpx
 from dotenv import load_dotenv
@@ -41,6 +41,20 @@ ACTIVE_SINCE = 2022
 MIN_WORKS = 5
 
 
+def _get_with_retry(client: httpx.Client, url: str, params: dict, max_retry: int = 5) -> dict:
+    """429 발생 시 exponential backoff 재시도."""
+    for attempt in range(max_retry):
+        resp = client.get(url, params=params)
+        if resp.status_code == 429:
+            wait = 60 * (attempt + 1)
+            print(f"  429 rate limit — {wait}초 대기 후 재시도...")
+            time.sleep(wait)
+            continue
+        resp.raise_for_status()
+        return resp.json()
+    raise Exception("최대 재시도 횟수 초과")
+
+
 def fetch_authors_for_institution(inst_id: str, client: httpx.Client) -> list[dict]:
     """특정 기관 소속 연구자 목록 수집."""
     params = {
@@ -54,9 +68,7 @@ def fetch_authors_for_institution(inst_id: str, client: httpx.Client) -> list[di
             "counts_by_year"
         ),
     }
-    resp = client.get(f"{BASE_URL}/authors", params=params)
-    resp.raise_for_status()
-    return resp.json().get("results", [])
+    return _get_with_retry(client, f"{BASE_URL}/authors", params).get("results", [])
 
 
 def fetch_recent_concepts(author_id: str, client: httpx.Client) -> list[dict]:
@@ -66,9 +78,7 @@ def fetch_recent_concepts(author_id: str, client: httpx.Client) -> list[dict]:
         "per_page": 50,
         "select": "concepts,publication_year",
     }
-    resp = client.get(f"{BASE_URL}/works", params=params)
-    resp.raise_for_status()
-    works = resp.json().get("results", [])
+    works = _get_with_retry(client, f"{BASE_URL}/works", params).get("results", [])
 
     # 개념 빈도 집계
     concept_score: dict[str, float] = {}
